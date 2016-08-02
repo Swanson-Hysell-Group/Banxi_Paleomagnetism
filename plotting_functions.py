@@ -11,6 +11,12 @@ def read_data(csv_string):
     """
     Imports data from a .csv.
 
+    inputs:
+    - csv_string = string to .csv with stratigraphy data (see note below)
+
+    ouputs:
+    - data = dataframe with stratigraphy data
+
     Note that the .csv must follow the form of the template (adapted from the Matstrat template):
     - lines 1-4 can be filled with arbitrary relevant information - the code will start reading in data at line 5
     - Lithofacies:
@@ -40,6 +46,12 @@ def read_data(csv_string):
 def read_formatting(csv_string):
     """
     Imports formatting from a .csv.
+
+    inputs:
+    - csv_string = string to .csv with formatting data (see note below)
+
+    outputs:
+    - formatting = dataframe with formatting data
 
     Note that the .csv must follow the form of the template:
     - columns 1-4 are used to set the colour of the boxes:
@@ -76,6 +88,10 @@ def read_formatting(csv_string):
 def integrity_check(data, formatting):
     """
     Check that values in the data are a subset of values in the formatting.
+
+    inputs:
+    - data = dataframe with stratigraphy data
+    - formatting = dataframe with formatting data
     """
     # get the colour and width headers being used
     colour_header = formatting.columns[3]
@@ -113,9 +129,18 @@ def integrity_check(data, formatting):
 
 
 
-def plot_stratigraphy(data, formatting):
+def plot_stratigraphy(data, formatting, ratio):
     """
     Plot everything.
+
+    inputs:
+    - data = dataframe with stratigraphy data
+    - formatting = dataframe with formatting data
+    - ratio = the desired scaling ratio for stratigraphic thickness
+
+    outputs:
+    - fig = figure handle
+    - axs = axis handles
     """
     # get the colour and width headers being used
     colour_header = formatting.columns[3]
@@ -160,7 +185,6 @@ def plot_stratigraphy(data, formatting):
                    marker='o',color='dodgerblue',s=10,edgecolors='k',linewidth=0.1)
 
     # force the size of the plot
-    ratio = 0.005
     fig.set_figheight(strat_height * ratio)
     fig.set_figwidth(6)
 
