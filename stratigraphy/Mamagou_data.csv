@@ -1,0 +1,27 @@
+Name,Dates,Start_Lat,Start_Lon,End_Lat,End_Lon,Datum,,,,,,,,,
+Mamagou,25/05/16,27.83470267,108.7976535,27.83241173,108.7970283,WGS84,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+THICKNESS,LITHOLOGY,GRAIN_SIZE,COLOUR,FEATURES,HASH,,ASH,ASH_HEIGHT,,DZ,DZ_HEIGHT,,PM_SITE,PM_SAMPLE,PM_HEIGHT
+3.2,si,vfss,green,,,,,,,Mamagou-0.3,0.3,,16TR004,A,3.21
+2.8,si,sts,brick red,,,,,,,,,,16TR004,B,3.42
+9.7,cover,cover,cover,,,,,,,,,,16TR004,C,3.52
+3.3,si,sts,green,,,,,,,,,,16TR004,D,3.77
+9.5,cover,cover,cover,,,,,,,,,,16TR004,E,3.81
+11.1,si,sts,green,,,,,,,,,,16TR004,F,3.88
+1.5,cover,cover,cover,,,,,,,,,,16TR004,G,4.03
+3.1,si,sts,black,,,,,,,,,,16TR004,H,4.34
+0.01,tuff,tuff,tuff,,,,,,,,,,16TR004,I,4.47
+0.1,si,sts,black,,,,,,,,,,16TR004,J,4.55
+0.05,tuff,tuff,tuff,,,,,,,,,,16TR004,K,4.81
+0.2,si,sts,black,,,,,,,,,,16TR004,M,5.2
+0.08,tuff,tuff,tuff,,,,,,,,,,16TR004,N,5.38
+1.56,si,sts,black,,,,,,,,,,16TR004,P,5.52
+,,,,,,,,,,,,,16TR004,Q,5.56
+,,,,,,,,,,,,,16TR004,R,5.6
+,,,,,,,,,,,,,16TR004,S,5.63
+,,,,,,,,,,,,,16TR004,T,5.7
+,,,,,,,,,,,,,16TR004,U,5.83
+,,,,,,,,,,,,,16TR004,V,5.86
+,,,,,,,,,,,,,16TR004,X,5.81
+,,,,,,,,,,,,,16TR004,Y,5.87

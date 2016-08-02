@@ -1,0 +1,15 @@
+Name,Dates,Start_Lat,Start_Lon,End_Lat,End_Lon,Datum,,,,,,,,,
+Luoman5,6/6/16,27.94511359,108.8389821,27.94517348,108.8389417,WGS84,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+THICKNESS,LITHOLOGY,GRAIN_SIZE,COLOUR,FEATURES,HASH,,ASH,ASH_HEIGHT,,DZ,DZ_HEIGHT,,PM_SITE,PM_SAMPLE,PM_HEIGHT
+1,si,sts,brick red,,,,Luoman5-1.0,1,,,,,16TR043,A,0.47
+0.04,tuff,tuff,tuff,,,,,,,,,,16TR043,B,0.56
+1.84,si,sts,brick red,,,,,,,,,,16TR043,C,0.78
+,,,,,,,,,,,,,16TR043,D,1.15
+,,,,,,,,,,,,,16TR043,E,1.38
+,,,,,,,,,,,,,16TR043,F,1.42
+,,,,,,,,,,,,,16TR043,G,2.16
+,,,,,,,,,,,,,16TR043,H,2.36
+,,,,,,,,,,,,,16TR043,I,2.51
+,,,,,,,,,,,,,16TR043,J,2.62
