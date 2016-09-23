@@ -184,9 +184,32 @@ def plot_stratigraphy(data, formatting, ratio):
     axs[3].scatter(np.zeros(len(data['PM_HEIGHT'])),data['PM_HEIGHT'],\
                    marker='o',color='dodgerblue',s=10,edgecolors='k',linewidth=0.1)
 
+    # count how many samples/sites there are and print
+    n_ash = 0
+    for i in range(len(data['ASH_HEIGHT'])):
+        if np.isfinite(data['ASH_HEIGHT'][i]):
+            n_ash = n_ash + 1
+    n_dz = 0
+    for i in range(len(data['DZ_HEIGHT'])):
+        if np.isfinite(data['DZ_HEIGHT'][i]):
+            n_dz = n_dz + 1
+    n_pm = 0
+    for i in range(len(data['PM_HEIGHT'])):
+        if np.isfinite(data['PM_HEIGHT'][i]):
+            n_pm = n_pm + 1
+    pm_sites = []
+    for i in range(len(data['PM_SITE'])):
+        if data['PM_SITE'][i] not in pm_sites:
+            pm_sites.append(data['PM_SITE'][i])
+    print('n ashes     : ' + str(n_ash))
+    print('n detritals : ' + str(n_dz))
+    print('n cores     : ' + str(n_pm))
+    print('-----------')
+    print('sites: ' + str(pm_sites))
+
     # force the size of the plot
     fig.set_figheight(strat_height * ratio)
-    fig.set_figwidth(6)
+    fig.set_figwidth(4)
 
     # prettify
     axs[0].set_ylabel('stratigraphic height [m]')
