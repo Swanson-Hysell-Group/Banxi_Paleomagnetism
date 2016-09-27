@@ -74,12 +74,100 @@ def read_formatting(csv_string):
         formatting.loc[i,'g'] = formatting.loc[i,'g'] / 255
         formatting.loc[i,'b'] = formatting.loc[i,'b'] / 255
 
+    # return the  dataframe
+    return formatting
+
+
+
+
+
+def plot_legend(formatting):
+    """
+    Plot a legend for the stratigraphy.
+
+    inputs:
+    - formatting = dataframe with formatting data
+
+    outputs:
+    - fig = figure handle
+    - axs = axis handles
+    """
     # get the colour and width headers being used
     colour_header = formatting.columns[3]
     width_header = formatting.columns[6]
 
-    # return the  dataframe
-    return formatting
+    # initialize the figure
+    fig, axs = plt.subplots(nrows=1, ncols=4, gridspec_kw={'width_ratios':[1.5,1,1.5,1]})
+
+        # now the widths
+    height_width = 0
+    for i in range(len(formatting.index)):
+
+        # only plot the non-nan cells
+        if pd.notnull(formatting[width_header][i]):
+
+            # get the width and label
+            this_width = formatting['width'][i]
+            this_label = formatting[width_header][i]
+
+            # create the rectangle
+            axs[0].add_patch(patches.Rectangle((0.0,height_width), this_width, 1, facecolor='white'))
+
+            # the label
+            axs[1].text(0.1, height_width+0.5, this_label, verticalalignment='center')
+
+            # count the height
+            height_width = height_width + 1
+
+    # prettify the width legend
+    axs[0].set_ylim(0,height_width)
+    axs[1].set_ylim(0,height_width)
+    axs[0].set_yticks([])
+    axs[1].set_yticks([])
+    axs[1].set_xticks([])
+    axs[0].set_title('WIDTH')
+    axs[1].set_title(width_header)
+
+    # first the colours
+    height_colours = 0
+    for i in range(len(formatting.index)):
+
+        # only plot non-nan cells
+        if pd.notnull(formatting[colour_header][i]):
+
+            # get the colour and label
+            this_colour = [formatting['r'][i], formatting['g'][i], formatting['b'][i]]
+            this_label = formatting[colour_header][i]
+
+            # create the rectangle
+            axs[2].add_patch(patches.Rectangle((0.0,height_colours), 1, 1, facecolor=this_colour))
+
+            # the label
+            axs[3].text(0.1, height_colours+0.5, this_label, verticalalignment='center')
+
+            # count the height
+            height_colours = height_colours + 1
+
+    # prettify colour legend
+    axs[2].set_ylim(0,height_colours)
+    axs[3].set_ylim(0,height_colours)
+    axs[2].set_yticks([])
+    axs[3].set_yticks([])
+    axs[2].set_xticks([])
+    axs[3].set_xticks([])
+    axs[2].set_title('COLOUR')
+    axs[3].set_title(colour_header)
+
+    # force the size of the plot
+    ratio = 0.3
+    if height_width > height_colours:
+        fig.set_figheight(height_width * ratio)
+    else:
+        fig.set_figheight(height_colours * ratio)
+    fig.set_figwidth(10)
+
+    return fig, axs
+
 
 
 
@@ -147,7 +235,7 @@ def plot_stratigraphy(data, formatting, ratio):
     width_header = formatting.columns[6]
 
     # create the figure and axis handles, and initiate counting of the stratigraphic height
-    fig, axs = plt.subplots(nrows=1, ncols=4, sharey=True, gridspec_kw = {'width_ratios':[3,1,1,1]})
+    fig, axs = plt.subplots(nrows=1, ncols=4, sharey=True, gridspec_kw={'width_ratios':[3,1,1,1]})
     strat_height = 0.0
 
     # loop over elements of the data
