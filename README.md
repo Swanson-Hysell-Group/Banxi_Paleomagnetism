@@ -1,6 +1,6 @@
 # Banxi_Paleomagnetism
 
-This repository contains work associated with paleomagnetic data collected from the Banxi Group of South China.
+This repository contains work associated with paleomagnetic data collected from the Banxi Group of South China. These samples were analyzed in the UC Berkeley Pmag lab.
 
 Notebooks include:
 
