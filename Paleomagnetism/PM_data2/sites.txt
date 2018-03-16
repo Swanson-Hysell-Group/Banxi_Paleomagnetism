@@ -1,0 +1,11 @@
+tab	sites
+site	location	lat	lon	analysts	citations
+TR024	Quick_River	27.9	108.8		This study
+TR022	Quick_River	27.9	108.8		This study
+TR036	Luoman2	28.0	108.8		This study
+TR045	Luoman2	28.0	108.8		This study
+TR026	Quick_River	27.9	108.8		This study
+TR018	Quick_River	27.9	108.8		This study
+TR020	Quick_River	27.9	108.8		This study
+TR042	Luoman2	27.9	108.8		This study
+TR035	Luoman2	28.0	108.8		This study

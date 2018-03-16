@@ -1,0 +1,41 @@
+2017-07-20 15:13:28: TR010-Ia: NRM  0 (Up): Red
+2017-07-20 17:09:29: TR010-Ba: NRM  0 (Dn): Red
+2017-08-04 15:31:59: TR010-Ia: TT  500 (Up): Red
+2017-09-19 14:06:01: TR010-Ba: TT  674 (Dn): Red
+2017-09-19 14:12:51: TR010-Fa: TT  674 (Dn): Red
+2017-09-22 16:20:48: TR010-Ba: TT  676 (Dn): Red
+2017-09-25 13:01:41: TR010-Ba: TT  680 (Dn): Red
+2017-10-01 22:50:08: TR010-Aa: TT  684 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Banxi_Group_China\\TR010
+2017-10-01 22:50:09: TR010-Aa: TT  684 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Banxi_Group_China\\TR010
+2017-10-01 22:51:36: TR010-Ba: TT  684 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Banxi_Group_China\\TR010
+2017-10-01 22:51:38: TR010-Ba: TT  684 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Banxi_Group_China\\TR010
+2017-10-01 22:53:03: TR010-Ca: TT  684 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Banxi_Group_China\\TR010
+2017-10-01 22:53:04: TR010-Ca: TT  684 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Banxi_Group_China\\TR010
+2017-10-01 22:54:36: TR010-Da: TT  684 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Banxi_Group_China\\TR010
+2017-10-01 22:54:38: TR010-Da: TT  684 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Banxi_Group_China\\TR010
+2017-10-01 22:56:06: TR010-Ea: TT  684 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Banxi_Group_China\\TR010
+2017-10-01 22:56:08: TR010-Ea: TT  684 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Banxi_Group_China\\TR010
+2017-10-01 22:57:40: TR010-Fa: TT  684 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Banxi_Group_China\\TR010
+2017-10-01 22:57:42: TR010-Fa: TT  684 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Banxi_Group_China\\TR010
+2017-10-01 22:59:18: TR010-Ga: TT  684 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Banxi_Group_China\\TR010
+2017-10-01 22:59:20: TR010-Ga: TT  684 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Banxi_Group_China\\TR010
+2017-10-01 23:03:58: TR010-Ha: TT  684 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Banxi_Group_China\\TR010
+2017-10-01 23:03:59: TR010-Ha: TT  684 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Banxi_Group_China\\TR010
+2017-10-01 23:05:38: TR010-Ia: TT  684 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Banxi_Group_China\\TR010
+2017-10-01 23:05:40: TR010-Ia: TT  684 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Banxi_Group_China\\TR010
+2017-10-01 23:07:15: TR010-Ja: TT  684 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Banxi_Group_China\\TR010
+2017-10-01 23:07:17: TR010-Ja: TT  684 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Banxi_Group_China\\TR010
+2017-10-01 23:08:47: TR010-Ka: TT  684 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Banxi_Group_China\\TR010
+2017-10-01 23:08:49: TR010-Ka: TT  684 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Banxi_Group_China\\TR010
+2017-10-01 23:10:15: TR010-La: TT  684 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Banxi_Group_China\\TR010
+2017-10-01 23:10:17: TR010-La: TT  684 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Banxi_Group_China\\TR010
+2017-10-08 19:43:44: TR010-Ha: TT  692 (Dn): Unacceptable slop on turning motor from   .09degrees to  90 degrees.    Target position:  2000  Current position:  123    Execution has been paused. Please check machine.
+2017-10-08 19:44:19: TR010-Ha: TT  692 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2017-10-08 19:45:08: TR010-Ha: TT  692 (Dn): Unacceptable slop on turning motor from  -.045degrees to  90 degrees.    Target position:  2000  Current position:  81    Execution has been paused. Please check machine.
+2017-10-08 19:45:18: TR010-Ha: TT  692 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2017-10-08 19:45:59: TR010-Ha: TT  692 (Dn): Unacceptable slop on turning motor from  -.045degrees to  90 degrees.    Target position:  2000  Current position:  80    Execution has been paused. Please check machine.
+2017-10-08 19:46:05: TR010-Ha: TT  692 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2017-10-08 19:48:47: TR010-Ia: TT  692 (Dn): Unacceptable slop on turning motor from  -.045degrees to  90 degrees.    Target position:  2000  Current position:  86    Execution has been paused. Please check machine.
+2017-10-08 19:49:00: TR010-Ia: TT  692 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2017-10-08 19:50:13: TR010-Ja: TT  692 (Dn): Unacceptable slop on turning motor from   .09degrees to  90 degrees.    Target position:  2000  Current position:  82    Execution has been paused. Please check machine.
+2017-10-08 19:50:17: TR010-Ja: TT  692 (Dn): Hargraves Magnetometer is now operating at code Blue  

@@ -1,0 +1,16 @@
+tab	specimens
+specimen	sample	analysts	citations	method_codes	volume	weight
+TR042-Aa	TR042-A		This study	LP-NOMAG		
+TR042-Ba	TR042-B		This study	LP-NOMAG		
+TR042-Ca	TR042-C		This study	LP-NOMAG		
+TR042-Da	TR042-D		This study	LP-NOMAG		
+TR042-Ea	TR042-E		This study	LP-NOMAG		
+TR042-Fa	TR042-F		This study	LP-NOMAG		
+TR042-Ga	TR042-G		This study	LP-NOMAG		
+TR042-Ha	TR042-H		This study	LP-NOMAG		
+TR042-Ia	TR042-I		This study	LP-NOMAG		
+TR042-Ja	TR042-J		This study	LP-NOMAG		
+TR042-Ka	TR042-K		This study	LP-NOMAG		
+TR042-Ma	TR042-M		This study	LP-NOMAG		
+TR042-Pa	TR042-P		This study	LP-NOMAG		
+TR042-Ta	TR042-T		This study	LP-NOMAG		

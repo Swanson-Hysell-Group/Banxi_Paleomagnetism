@@ -1,0 +1,9 @@
+tab	sites
+analysts	citations	lat	location	lon	site
+	This study	28.0	Hongzixi	108.8	TR002
+	This study	27.8	Mamagou	108.8	TR004
+	This study	28.0	Hongzixi	108.8	TR006
+	This study	28.0	Hongzixi	108.8	TR008
+	This study	28.0	Hongzixi	108.8	TR010
+	This study	28.0	Hongzixi	108.8	TR012
+	This study	28.0	Hongzixi	108.8	TR014

@@ -1,0 +1,15 @@
+tab	specimens
+analysts	citations	method_codes	sample	specimen	volume	weight
+	This study	LP-NOMAG	TR008-A	TR008-Aa		
+	This study	LP-NOMAG	TR008-B	TR008-Ba		
+	This study	LP-NOMAG	TR008-C	TR008-Ca		
+	This study	LP-NOMAG	TR008-D	TR008-Da		
+	This study	LP-NOMAG	TR008-E	TR008-Ea		
+	This study	LP-NOMAG	TR008-F	TR008-Fa		
+	This study	LP-NOMAG	TR008-G	TR008-Ga		
+	This study	LP-NOMAG	TR008-H	TR008-Ha		
+	This study	LP-NOMAG	TR008-I	TR008-Ia		
+	This study	LP-NOMAG	TR008-J	TR008-Ja		
+	This study	LP-NOMAG	TR008-K	TR008-Ka		
+	This study	LP-NOMAG	TR008-L	TR008-La		
+	This study	LP-NOMAG	TR008-M	TR008-Ma		

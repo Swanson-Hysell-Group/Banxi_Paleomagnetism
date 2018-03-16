@@ -1,0 +1,111 @@
+2017-10-15 19:48:54: TR035-La: TT  100 (Dn): Unacceptable slop on up/down motor moving from  -45 to -44616 at speed  80000000.    Target position: -44616  Current position: -5424    Execution has been paused. Please check machine.
+2017-10-15 19:49:09: TR035-La: TT  100 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2017-10-15 19:49:15: TR035-La: TT  100 (Dn): Homed to top but did not hit switch.
+2017-10-15 19:50:13: TR035-La: TT  100 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2017-10-15 19:50:22: TR035-La: TT  100 (Dn): Unacceptable slop on up/down motor moving from  -7 to -93218 at speed  30000000.    Target position: -93218  Current position: -42485    Execution has been paused. Please check machine.
+2017-10-15 19:50:36: TR035-La: TT  100 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2017-10-16 13:50:18: TR035-La: TT  200 (Dn): Unacceptable slop on up/down motor moving from  -47 to -44620 at speed  80000000.    Target position: -44620  Current position: -5425    Execution has been paused. Please check machine.
+2017-10-16 13:50:45: TR035-La: TT  200 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2017-10-16 13:50:56: TR035-La: TT  200 (Dn): Homed to top but did not hit switch.
+2017-10-16 13:51:07: TR035-La: TT  200 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2017-10-16 13:51:13: TR035-La: TT  200 (Dn): Homed to top but did not hit switch.
+2017-10-16 13:51:15: TR035-La: TT  200 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2017-10-23 08:47:11: TR035-Pa: TT  450 (Up): Red
+2017-10-23 10:51:52: TR035-Fa: TT  450 (Dn): Red
+2017-10-24 19:21:22: TR035-La: TT  500 (Dn): Unacceptable slop on up/down motor moving from  -49 to -44614 at speed  80000000.    Target position: -44614  Current position: -5417    Execution has been paused. Please check machine.
+2017-10-25 08:09:04: TR035-La: TT  500 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2017-10-25 08:09:07: TR035-La: TT  500 (Dn): Homed to top but did not hit switch.
+2017-10-25 08:09:17: TR035-La: TT  500 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2017-10-25 08:09:20: TR035-La: TT  500 (Dn): Homed to top but did not hit switch.
+2017-10-25 08:09:23: TR035-La: TT  500 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2017-10-26 16:11:54: TR035-Ka: TT  525 (Up): Red
+2017-10-26 16:18:47: TR035-Pa: TT  525 (Up): Red
+2017-10-26 16:25:39: TR035-Ta: TT  525 (Up): Red
+2017-10-26 16:57:47: TR035-NNa: TT  525 (Up): Red
+2017-10-26 17:04:52: TR035-SSa: TT  525 (Up): Red
+2017-10-26 18:24:04: TR035-Fa: TT  525 (Dn): Red
+2017-10-26 18:36:38: TR035-La: TT  525 (Dn): Unacceptable slop on up/down motor moving from  -47 to -44621 at speed  80000000.    Target position: -44621  Current position: -5632    Execution has been paused. Please check machine.
+2017-10-26 18:36:52: TR035-La: TT  525 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2017-10-26 18:48:16: TR035-Ua: TT  525 (Dn): Red
+2017-10-26 19:15:43: TR035-LLa: TT  525 (Dn): Red
+2017-10-26 19:20:30: TR035-RRa: TT  525 (Dn): Red
+2017-10-27 13:23:28: TR035-Pa: TT  550 (Up): Red
+2017-10-27 13:45:50: TR035-CCa: TT  550 (Up): Red
+2017-10-27 17:10:20: TR035-LLa: TT  550 (Dn): Red
+2017-10-27 17:15:04: TR035-RRa: TT  550 (Dn): Red
+2017-10-28 17:34:28: TR035-Aa: TT  555 (Dn): Unacceptable slop on up/down motor moving from  -46 to -44560 at speed  80000000.    Target position: -44560  Current position: -5287    Execution has been paused. Please check machine.
+2017-10-28 17:37:32: TR035-Aa: TT  555 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2017-10-28 17:37:38: TR035-Aa: TT  555 (Dn): Homed to top but did not hit switch.
+2017-10-28 17:38:17: TR035-Aa: TT  555 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2017-10-28 17:38:38: TR035-Aa: TT  555 (Dn): Unacceptable slop on up/down motor moving from  -7 to -93162 at speed  30000000.    Target position: -93162  Current position: -53967    Execution has been paused. Please check machine.
+2017-10-28 17:39:32: TR035-Aa: TT  555 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2017-10-28 17:41:56: TR035-Aa: TT  555 (Dn): Unacceptable slop on up/down motor moving from  -185 to -44560 at speed  30000000.    Target position: -44560  Current position: -44004    Execution has been paused. Please check machine.
+2017-10-28 17:42:40: TR035-Aa: TT  555 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2017-10-28 17:42:56: TR035-Aa: TT  555 (Dn): Unacceptable slop on up/down motor moving from  -4 to -44560 at speed  30000000.    Target position: -44560  Current position: -42019    Execution has been paused. Please check machine.
+2017-10-28 17:43:53: TR035-Aa: TT  555 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2017-10-28 18:04:38: TR035-La: TT  555 (Dn): Unacceptable slop on up/down motor moving from  -42 to -44320 at speed  80000000.    Target position: -44320  Current position: -27701    Execution has been paused. Please check machine.
+2017-10-28 19:06:48: TR035-La: TT  555 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2017-10-28 19:06:52: TR035-La: TT  555 (Dn): Homed to top but did not hit switch.
+2017-10-28 19:07:04: TR035-La: TT  555 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2017-11-09 20:35:43: TR035-LLa: TT  575 (Dn): Red
+2017-11-14 13:13:56: TR035-Da: TT  580 (Up): Red
+2017-11-14 13:48:21: TR035-Ya: TT  580 (Up): Red
+2017-11-17 15:18:52: TR035-AAa: TT  600 (Dn): Red
+2017-11-19 11:52:57: TR035-Pa: TT  620 (Up): Red
+2017-11-19 14:36:45: TR035-AAa: TT  620 (Dn): Red
+2017-11-27 10:08:12: TR035-Da: TT  640 (Up): Red
+2017-11-28 11:31:51: TR035-Ha: TT  645 (Dn): Red
+2017-12-08 14:47:15: TR035-Ba: TT  650 (Up): Red
+2017-12-08 14:51:01: TR035-Da: TT  650 (Up): Red
+2017-12-08 15:12:45: TR035-Ta: TT  650 (Up): Red
+2017-12-11 16:22:12: TR035-CCa: TT  655 (Up): Red
+2017-12-11 17:58:32: TR035-Ha: TT  655 (Dn): Red
+2017-12-11 18:27:57: TR035-AAa: TT  655 (Dn): Red
+2017-12-12 16:03:39: TR035-Ba: TT  660 (Up): Red
+2017-12-12 16:07:25: TR035-Da: TT  660 (Up): Red
+2017-12-12 16:17:32: TR035-Ka: TT  660 (Up): Red
+2017-12-12 16:30:06: TR035-Ta: TT  660 (Up): Red
+2017-12-12 16:40:23: TR035-Ya: TT  660 (Up): Red
+2017-12-12 16:46:51: TR035-CCa: TT  660 (Up): Red
+2017-12-12 17:10:35: TR035-SSa: TT  660 (Up): Red
+2017-12-13 10:26:46: TR035-La: TT  660 (Up): Homed to top but did not hit switch.
+2017-12-13 10:26:53: TR035-La: TT  660 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-01-08 15:20:50: TR035-Ta: TT  665 (Up): Red
+2018-01-08 17:06:30: TR035-Da: TT  665 (Dn): Red
+2018-01-08 17:12:10: TR035-Ha: TT  665 (Dn): Red
+2018-01-08 17:16:00: TR035-Ja: TT  665 (Dn): Red
+2018-01-10 19:27:21: TR035-Ka: TT  670 (Up): Red
+2018-01-10 19:35:53: TR035-Pa: TT  670 (Up): Red
+2018-01-10 19:42:40: TR035-Ta: TT  670 (Up): Red
+2018-01-16 13:56:19: TR035-Ba: TT  674 (Up): Red
+2018-01-16 14:00:17: TR035-Da: TT  674 (Up): Red
+2018-01-16 17:08:18: TR035-LLa: TT  674 (Dn): Red
+2018-01-17 14:18:08: TR035-Sa: TT  676 (Up): Red
+2018-01-17 14:23:26: TR035-Va: TT  676 (Up): Red
+2018-01-17 14:34:35: TR035-BBa: TT  676 (Up): Red
+2018-01-17 16:13:20: TR035-Da: TT  676 (Dn): Red
+2018-01-17 17:08:31: TR035-LLa: TT  676 (Dn): Red
+2018-01-31 14:00:39: TR035-Ja: TT  682 (Up): Red
+2018-01-31 18:04:11: TR035-AAa: TT  682 (Dn): Red
+2018-02-05 18:07:35: TR035-BBa: TT  684 (Up): Red
+2018-02-05 18:15:40: TR035-HHa: TT  684 (Up): Red
+2018-02-05 19:59:01: TR035-Da: TT  684 (Dn): Red
+2018-02-05 20:36:09: TR035-AAa: TT  684 (Dn): Red
+2018-02-06 11:29:15: TR035-Sa: TT  684 (Up): Red
+2018-02-06 11:29:17: TR035-Sa: TT  684 (Up): Red
+2018-02-06 13:44:50: TR035-Sa: TT  684 (Up): Red
+2018-02-06 13:44:52: TR035-Sa: TT  684 (Up): Red
+2018-02-12 13:21:05: TR035-CCa: TT  686 (Up): Unacceptable slop on up/down motor moving from  -35 to -44305 at speed  80000000.    Target position: -44305  Current position: -5407    Execution has been paused. Please check machine.
+2018-02-12 13:22:52: TR035-CCa: TT  686 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-02-12 13:23:00: TR035-CCa: TT  686 (Up): Homed to top but did not hit switch.
+2018-02-12 13:23:03: TR035-CCa: TT  686 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-02-12 13:23:36: TR035-CCa: TT  686 (Up): Unacceptable slop on up/down motor moving from  -5180 to -92907 at speed  30000000.    Target position: -92907  Current position:  423    Execution has been paused. Please check machine.
+2018-02-12 13:23:42: TR035-CCa: TT  686 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-02-12 13:24:13: TR035-CCa: TT  686 (Up): Homed to top but did not hit switch.
+2018-02-12 13:24:47: TR035-CCa: TT  686 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-02-12 13:24:57: TR035-CCa: TT  686 (Up): Homed to top but did not hit switch.
+2018-02-12 13:25:00: TR035-CCa: TT  686 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-02-12 13:25:09: TR035-CCa: TT  686 (Up): Homed to top but did not hit switch.
+2018-02-12 13:25:34: TR035-CCa: TT  686 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-02-12 14:06:08: TR035-Sa: TT  686 (Dn): Unacceptable slop on up/down motor moving from  -42 to -44310 at speed  80000000.    Target position: -44310  Current position: -5204    Execution has been paused. Please check machine.
+2018-02-12 14:07:27: TR035-Sa: TT  686 (Dn): Hargraves Magnetometer is now operating at code Blue  

@@ -1,0 +1,27 @@
+tab	samples
+analysts	azimuth	azimuth_dec_correction	bed_dip	bed_dip_direction	citations	dip	geologic_classes	geologic_types	height	lithologies	method_codes	sample	site
+	   80.3	    0.0	   44.3	  392.6	This study	  -73.0			239		SO-CMD-NORTH	TR006-A	TR006
+	  124.3	    0.0	   44.3	  392.6	This study	  -87.0			239.43		SO-CMD-NORTH	TR006-B	TR006
+	  123.3	    0.0	   44.3	  392.6	This study	  -86.0			239.66		SO-CMD-NORTH	TR006-C	TR006
+	  108.3	    0.0	   44.3	  392.6	This study	  -83.0			252.01		SO-CMD-NORTH	TR006-D	TR006
+	  102.3	    0.0	   44.3	  392.6	This study	  -88.0			252.45		SO-CMD-NORTH	TR006-E	TR006
+	  106.3	    0.0	   44.3	  392.6	This study	  -74.0			254.85		SO-CMD-NORTH	TR006-F	TR006
+	  122.3	    0.0	   44.3	  392.6	This study	  -89.0			254.86		SO-CMD-NORTH	TR006-G	TR006
+	   92.3	    0.0	   44.3	  392.6	This study	  -88.0			256.18		SO-CMD-NORTH	TR006-H	TR006
+	  111.3	    0.0	   44.3	  392.6	This study	  -81.0			256.45		SO-CMD-NORTH	TR006-I	TR006
+	  126.3	    0.0	   44.3	  392.6	This study	  -72.0			256.55		SO-CMD-NORTH	TR006-J	TR006
+	   93.3	    0.0	   44.3	  392.6	This study	  -66.0			257.45		SO-CMD-NORTH	TR006-K	TR006
+	   97.3	    0.0	   44.3	  392.6	This study	  -79.0			257.82		SO-CMD-NORTH	TR006-L	TR006
+	  117.3	    0.0	   44.3	  392.6	This study	  -87.0			258.37		SO-CMD-NORTH	TR006-M	TR006
+	  114.3	    0.0	   44.3	  392.6	This study	  -87.0			258.39		SO-CMD-NORTH	TR006-N	TR006
+	  118.3	    0.0	   44.3	  392.6	This study	  -82.0			259.31		SO-CMD-NORTH	TR006-P	TR006
+	  100.3	    0.0	   44.3	  392.6	This study	  -74.0			259.66		SO-CMD-NORTH	TR006-Q	TR006
+	   94.3	    0.0	   44.3	  392.6	This study	  -81.0			259.74		SO-CMD-NORTH	TR006-R	TR006
+	  112.3	    0.0	   44.3	  392.6	This study	  -85.0			259.9		SO-CMD-NORTH	TR006-S	TR006
+	  123.3	    0.0	   44.3	  392.6	This study	  -81.0			260.15		SO-CMD-NORTH	TR006-T	TR006
+	   85.3	    0.0	   44.3	  392.6	This study	  -86.0			260.63		SO-CMD-NORTH	TR006-U	TR006
+	  121.3	    0.0	   44.3	  392.6	This study	  -82.0			261.48		SO-CMD-NORTH	TR006-V	TR006
+	  131.3	    0.0	   44.3	  392.6	This study	  -98.0			262.78		SO-CMD-NORTH	TR006-W	TR006
+	  130.3	    0.0	   44.3	  392.6	This study	  -76.0			264.19		SO-CMD-NORTH	TR006-X	TR006
+	  116.3	    0.0	   44.3	  392.6	This study	 -100.0			266.59		SO-CMD-NORTH	TR006-Y	TR006
+	  102.3	    0.0	   44.3	  392.6	This study	  -96.0			266.96		SO-CMD-NORTH	TR006-Z	TR006

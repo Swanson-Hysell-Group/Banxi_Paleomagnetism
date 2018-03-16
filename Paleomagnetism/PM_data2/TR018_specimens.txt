@@ -1,0 +1,18 @@
+tab	specimens
+specimen	sample	analysts	citations	method_codes	volume	weight
+TR018-Aa	TR018-A		This study	LP-NOMAG		
+TR018-Ba	TR018-B		This study	LP-NOMAG		
+TR018-Ca	TR018-C		This study	LP-NOMAG		
+TR018-Da	TR018-D		This study	LP-NOMAG		
+TR018-Ea	TR018-E		This study	LP-NOMAG		
+TR018-Fa	TR018-F		This study	LP-NOMAG		
+TR018-Ga	TR018-G		This study	LP-NOMAG		
+TR018-Ha	TR018-H		This study	LP-NOMAG		
+TR018-Ia	TR018-I		This study	LP-NOMAG		
+TR018-Ja	TR018-J		This study	LP-NOMAG		
+TR018-Ka	TR018-K		This study	LP-NOMAG		
+TR018-La	TR018-L		This study	LP-NOMAG		
+TR018-Ma	TR018-M		This study	LP-NOMAG		
+TR018-Na	TR018-N		This study	LP-NOMAG		
+TR018-Pa	TR018-P		This study	LP-NOMAG		
+TR018-Qa	TR018-Q		This study	LP-NOMAG		

@@ -1,0 +1,12 @@
+tab	specimens
+specimen	sample	analysts	citations	method_codes	volume	weight
+TR020-Aa	TR020-A		This study	LP-NOMAG		
+TR020-Ba	TR020-B		This study	LP-NOMAG		
+TR020-Ca	TR020-C		This study	LP-NOMAG		
+TR020-Da	TR020-D		This study	LP-NOMAG		
+TR020-Ea	TR020-E		This study	LP-NOMAG		
+TR020-Fa	TR020-F		This study	LP-NOMAG		
+TR020-Ga	TR020-G		This study	LP-NOMAG		
+TR020-Ha	TR020-H		This study	LP-NOMAG		
+TR020-Ia	TR020-I		This study	LP-NOMAG		
+TR020-Ja	TR020-J		This study	LP-NOMAG		
