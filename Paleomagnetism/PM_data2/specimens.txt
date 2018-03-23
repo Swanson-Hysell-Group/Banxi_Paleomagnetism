@@ -1,135 +1,616 @@
 tab	specimens
-specimen	sample	analysts	citations	method_codes	volume	weight
-TR035-Aa	TR035-A		This study	LP-NOMAG		
-TR035-Ba	TR035-B		This study	LP-NOMAG		
-TR035-Ca	TR035-C		This study	LP-NOMAG		
-TR035-Da	TR035-D		This study	LP-NOMAG		
-TR035-Fa	TR035-F		This study	LP-NOMAG		
-TR035-Ga	TR035-G		This study	LP-NOMAG		
-TR035-Ha	TR035-H		This study	LP-NOMAG		
-TR035-Ia	TR035-I		This study	LP-NOMAG		
-TR035-Ja	TR035-J		This study	LP-NOMAG		
-TR035-Ka	TR035-K		This study	LP-NOMAG		
-TR035-La	TR035-L		This study	LP-NOMAG		
-TR035-Na	TR035-N		This study	LP-NOMAG		
-TR035-Pa	TR035-P		This study	LP-NOMAG		
-TR035-Qa	TR035-Q		This study	LP-NOMAG		
-TR035-Ra	TR035-R		This study	LP-NOMAG		
-TR035-Sa	TR035-S		This study	LP-NOMAG		
-TR035-Ta	TR035-T		This study	LP-NOMAG		
-TR035-Ua	TR035-U		This study	LP-NOMAG		
-TR035-Va	TR035-V		This study	LP-NOMAG		
-TR035-Wa	TR035-W		This study	LP-NOMAG		
-TR035-Xa	TR035-X		This study	LP-NOMAG		
-TR035-Ya	TR035-Y		This study	LP-NOMAG		
-TR035-Za	TR035-Z		This study	LP-NOMAG		
-TR035-AAa	TR035-AA		This study	LP-NOMAG		
-TR035-BBa	TR035-BB		This study	LP-NOMAG		
-TR035-CCa	TR035-CC		This study	LP-NOMAG		
-TR035-DDa	TR035-DD		This study	LP-NOMAG		
-TR035-FFa	TR035-FF		This study	LP-NOMAG		
-TR035-GGa	TR035-GG		This study	LP-NOMAG		
-TR035-HHa	TR035-HH		This study	LP-NOMAG		
-TR035-IIa	TR035-II		This study	LP-NOMAG		
-TR035-JJa	TR035-JJ		This study	LP-NOMAG		
-TR035-KKa	TR035-KK		This study	LP-NOMAG		
-TR035-LLa	TR035-LL		This study	LP-NOMAG		
-TR035-NNa	TR035-NN		This study	LP-NOMAG		
-TR035-PPa	TR035-PP		This study	LP-NOMAG		
-TR035-RRa	TR035-RR		This study	LP-NOMAG		
-TR035-SSa	TR035-SS		This study	LP-NOMAG		
-TR035-TTa	TR035-TT		This study	LP-NOMAG		
-TR022-Aa	TR022-A		This study	LP-NOMAG		
-TR022-Ba	TR022-B		This study	LP-NOMAG		
-TR022-Ca	TR022-C		This study	LP-NOMAG		
-TR022-Da	TR022-D		This study	LP-NOMAG		
-TR022-Ea	TR022-E		This study	LP-NOMAG		
-TR022-Fa	TR022-F		This study	LP-NOMAG		
-TR022-Ga	TR022-G		This study	LP-NOMAG		
-TR022-Ha	TR022-H		This study	LP-NOMAG		
-TR022-Ia	TR022-I		This study	LP-NOMAG		
-TR022-Ja	TR022-J		This study	LP-NOMAG		
-TR026-Aa	TR026-A		This study	LP-NOMAG		
-TR026-Ba	TR026-B		This study	LP-NOMAG		
-TR026-Ca	TR026-C		This study	LP-NOMAG		
-TR026-Da	TR026-D		This study	LP-NOMAG		
-TR026-Ea	TR026-E		This study	LP-NOMAG		
-TR026-Ga	TR026-G		This study	LP-NOMAG		
-TR026-Ha	TR026-H		This study	LP-NOMAG		
-TR026-Ia	TR026-I		This study	LP-NOMAG		
-TR026-Ja	TR026-J		This study	LP-NOMAG		
-TR045-Aa	TR045-A		This study	LP-NOMAG		
-TR045-Ba	TR045-B		This study	LP-NOMAG		
-TR045-Ca	TR045-C		This study	LP-NOMAG		
-TR045-Da	TR045-D		This study	LP-NOMAG		
-TR045-Ea	TR045-E		This study	LP-NOMAG		
-TR045-Fa	TR045-F		This study	LP-NOMAG		
-TR045-Ga	TR045-G		This study	LP-NOMAG		
-TR045-Ha	TR045-H		This study	LP-NOMAG		
-TR045-Ia	TR045-I		This study	LP-NOMAG		
-TR045-Ja	TR045-J		This study	LP-NOMAG		
-TR045-Ka	TR045-K		This study	LP-NOMAG		
-TR045-La	TR045-L		This study	LP-NOMAG		
-TR045-Na	TR045-N		This study	LP-NOMAG		
-TR045-Pa	TR045-P		This study	LP-NOMAG		
-TR045-Qa	TR045-Q		This study	LP-NOMAG		
-TR042-Aa	TR042-A		This study	LP-NOMAG		
-TR042-Ba	TR042-B		This study	LP-NOMAG		
-TR042-Ca	TR042-C		This study	LP-NOMAG		
-TR042-Da	TR042-D		This study	LP-NOMAG		
-TR042-Ea	TR042-E		This study	LP-NOMAG		
-TR042-Fa	TR042-F		This study	LP-NOMAG		
-TR042-Ga	TR042-G		This study	LP-NOMAG		
-TR042-Ha	TR042-H		This study	LP-NOMAG		
-TR042-Ia	TR042-I		This study	LP-NOMAG		
-TR042-Ja	TR042-J		This study	LP-NOMAG		
-TR042-Ka	TR042-K		This study	LP-NOMAG		
-TR042-Ma	TR042-M		This study	LP-NOMAG		
-TR042-Pa	TR042-P		This study	LP-NOMAG		
-TR042-Ta	TR042-T		This study	LP-NOMAG		
-TR018-Aa	TR018-A		This study	LP-NOMAG		
-TR018-Ba	TR018-B		This study	LP-NOMAG		
-TR018-Ca	TR018-C		This study	LP-NOMAG		
-TR018-Da	TR018-D		This study	LP-NOMAG		
-TR018-Ea	TR018-E		This study	LP-NOMAG		
-TR018-Fa	TR018-F		This study	LP-NOMAG		
-TR018-Ga	TR018-G		This study	LP-NOMAG		
-TR018-Ha	TR018-H		This study	LP-NOMAG		
-TR018-Ia	TR018-I		This study	LP-NOMAG		
-TR018-Ja	TR018-J		This study	LP-NOMAG		
-TR018-Ka	TR018-K		This study	LP-NOMAG		
-TR018-La	TR018-L		This study	LP-NOMAG		
-TR018-Ma	TR018-M		This study	LP-NOMAG		
-TR018-Na	TR018-N		This study	LP-NOMAG		
-TR018-Pa	TR018-P		This study	LP-NOMAG		
-TR018-Qa	TR018-Q		This study	LP-NOMAG		
-TR036-Aa	TR036-A		This study	LP-NOMAG		
-TR036-Ba	TR036-B		This study	LP-NOMAG		
-TR036-Ca	TR036-C		This study	LP-NOMAG		
-TR036-Da	TR036-D		This study	LP-NOMAG		
-TR036-Ea	TR036-E		This study	LP-NOMAG		
-TR036-Ga	TR036-G		This study	LP-NOMAG		
-TR036-Ha	TR036-H		This study	LP-NOMAG		
-TR036-Ia	TR036-I		This study	LP-NOMAG		
-TR036-Ja	TR036-J		This study	LP-NOMAG		
-TR036-Ka	TR036-K		This study	LP-NOMAG		
-TR036-Ma	TR036-M		This study	LP-NOMAG		
-TR024-Aa	TR024-A		This study	LP-NOMAG		
-TR024-Ba	TR024-B		This study	LP-NOMAG		
-TR024-Ca	TR024-C		This study	LP-NOMAG		
-TR024-Da	TR024-D		This study	LP-NOMAG		
-TR024-Ea	TR024-E		This study	LP-NOMAG		
-TR024-Ga	TR024-G		This study	LP-NOMAG		
-TR024-Ha	TR024-H		This study	LP-NOMAG		
-TR024-Ia	TR024-I		This study	LP-NOMAG		
-TR024-Ja	TR024-J		This study	LP-NOMAG		
-TR020-Aa	TR020-A		This study	LP-NOMAG		
-TR020-Ba	TR020-B		This study	LP-NOMAG		
-TR020-Ca	TR020-C		This study	LP-NOMAG		
-TR020-Da	TR020-D		This study	LP-NOMAG		
-TR020-Ea	TR020-E		This study	LP-NOMAG		
-TR020-Fa	TR020-F		This study	LP-NOMAG		
-TR020-Ga	TR020-G		This study	LP-NOMAG		
-TR020-Ha	TR020-H		This study	LP-NOMAG		
-TR020-Ia	TR020-I		This study	LP-NOMAG		
-TR020-Ja	TR020-J		This study	LP-NOMAG		
+specimen	experiments	sample	dir_alpha95	dir_bfv_dec	dir_bfv_inc	dir_comp	dir_dec	dir_inc	dir_n_comps	dir_n_measurements	dir_tilt_correction	dir_dang	dir_mad_free	meas_step_max	meas_step_min	meas_step_unit	analysts	instrument_codes	software_packages	int_corr	citations	method_codes	result_quality	volume	weight	location	site
+TR018-Aa	TR018-Aa:LP-DIR-T	TR018-A				LT1	225.2	27.9	2	4	-1	114.9	8.9	673	473	K		hargrave 2018-02-14 11:55:00	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Quick_River	TR018
+TR018-Aa	TR018-Aa:LP-DIR-T	TR018-A				HT1	34.0	8.4	2	7	-1	0.0	8.5	945	918	K		hargrave 2018-02-14 11:55:00	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Quick_River	TR018
+TR018-Aa	TR018-Aa:LP-DIR-T	TR018-A				LT1	22.7	51.2	2	4	0	114.9	8.9	673	473	K		hargrave 2018-02-14 11:55:00	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Quick_River	TR018
+TR018-Aa	TR018-Aa:LP-DIR-T	TR018-A				HT1	153.4	-36.1	2	7	0	0.0	8.5	945	918	K		hargrave 2018-02-14 11:55:00	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Quick_River	TR018
+TR018-Aa	TR018-Aa:LP-DIR-T	TR018-A				LT1	68.0	46.1	2	4	100	114.9	8.9	673	473	K		hargrave 2018-02-14 11:55:00	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Quick_River	TR018
+TR018-Aa	TR018-Aa:LP-DIR-T	TR018-A				HT1	185.7	-66.1	2	7	100	0.0	8.5	945	918	K		hargrave 2018-02-14 11:55:00	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Quick_River	TR018
+TR018-Ba	TR018-Ba:LP-DIR-T	TR018-B				HT1	104.9	-73.0	2	14	100	0.0	3.2	945	843	K		hargrave 2018-02-14 16:25:09	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Quick_River	TR018
+TR018-Ba	TR018-Ba:LP-DIR-T	TR018-B				HT1	120.2	-36.4	2	14	0	0.0	3.2	945	843	K		hargrave 2018-02-14 16:25:09	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Quick_River	TR018
+TR018-Ba	TR018-Ba:LP-DIR-T	TR018-B				LT1	55.4	53.7	2	3	100	127.0	2.4	573	373	K		hargrave 2018-02-14 16:25:09	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Quick_River	TR018
+TR018-Ba	TR018-Ba:LP-DIR-T	TR018-B				HT1	9.8	26.8	2	14	-1	0.0	3.2	945	843	K		hargrave 2018-02-14 16:25:09	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Quick_River	TR018
+TR018-Ba	TR018-Ba:LP-DIR-T	TR018-B				LT1	221.6	11.0	2	3	-1	127.0	2.4	573	373	K		hargrave 2018-02-14 16:25:09	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Quick_River	TR018
+TR018-Ba	TR018-Ba:LP-DIR-T	TR018-B				LT1	6.3	48.0	2	3	0	127.0	2.4	573	373	K		hargrave 2018-02-14 16:25:09	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Quick_River	TR018
+TR018-Ca	TR018-Ca:LP-DIR-T	TR018-C				LT1	220.5	23.3	2	6	-1	132.5	16.2	673	273	K		hargrave 2018-02-14 16:26:43	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Quick_River	TR018
+TR018-Ca	TR018-Ca:LP-DIR-T	TR018-C				HT1	5.8	-11.3	2	6	-1	0.0	6.6	938	913	K		hargrave 2018-02-14 16:26:43	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Quick_River	TR018
+TR018-Ca	TR018-Ca:LP-DIR-T	TR018-C				LT1	15.2	50.3	2	6	0	132.5	16.2	673	273	K		hargrave 2018-02-14 16:26:43	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Quick_River	TR018
+TR018-Ca	TR018-Ca:LP-DIR-T	TR018-C				HT1	158.1	-84.1	2	6	0	0.0	6.6	938	913	K		hargrave 2018-02-14 16:26:43	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Quick_River	TR018
+TR018-Ca	TR018-Ca:LP-DIR-T	TR018-C				LT1	63.2	49.8	2	6	100	132.5	16.2	673	273	K		hargrave 2018-02-14 16:26:43	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Quick_River	TR018
+TR018-Ca	TR018-Ca:LP-DIR-T	TR018-C				HT1	303.1	-57.3	2	6	100	0.0	6.6	938	913	K		hargrave 2018-02-14 16:26:43	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Quick_River	TR018
+TR018-Da	TR018-Da:LP-DIR-T	TR018-D				LT1	60.1	50.2	2	6	100	138.9	9.6	723	373	K		hargrave 2018-02-14 11:59:36	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Quick_River	TR018
+TR018-Da	TR018-Da:LP-DIR-T	TR018-D				HT1	230.8	-76.1	2	11	100	0.0	8.9	949	903	K		hargrave 2018-02-14 11:59:36	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Quick_River	TR018
+TR018-Da	TR018-Da:LP-DIR-T	TR018-D				HT1	151.4	-53.1	2	11	0	0.0	8.9	949	903	K		hargrave 2018-02-14 11:59:36	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Quick_River	TR018
+TR018-Da	TR018-Da:LP-DIR-T	TR018-D				HT1	21.3	3.7	2	11	-1	0.0	8.9	949	903	K		hargrave 2018-02-14 11:59:36	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Quick_River	TR018
+TR018-Da	TR018-Da:LP-DIR-T	TR018-D				LT1	221.6	13.1	2	6	-1	138.9	9.6	723	373	K		hargrave 2018-02-14 11:59:36	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Quick_River	TR018
+TR018-Da	TR018-Da:LP-DIR-T	TR018-D				LT1	13.1	48.7	2	6	0	138.9	9.6	723	373	K		hargrave 2018-02-14 11:59:36	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Quick_River	TR018
+TR018-Ea	TR018-Ea:LP-DIR-T	TR018-E				LT1	223.3	19.5	2	5	-1	80.8	10.2	673	373	K		hargrave 2018-02-14 12:01:12	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Quick_River	TR018
+TR018-Ea	TR018-Ea:LP-DIR-T	TR018-E		40.8	-8.7	HT1	113.1	63.2	2	15	-1		6.2	913	723	K		hargrave 2018-02-14 12:01:12	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFP:DA-DIR	g			Quick_River	TR018
+TR018-Ea	TR018-Ea:LP-DIR-T	TR018-E				LT1	17.7	49.6	2	5	0	80.8	10.2	673	373	K		hargrave 2018-02-14 12:01:12	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Quick_River	TR018
+TR018-Ea	TR018-Ea:LP-DIR-T	TR018-E		166.1	-51.5	HT1	142.2	36.0	2	15	0		6.2	913	723	K		hargrave 2018-02-14 12:01:12	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFP:DA-DIR-GEO	g			Quick_River	TR018
+TR018-Ea	TR018-Ea:LP-DIR-T	TR018-E				LT1	63.6	48.0	2	5	100	80.8	10.2	673	373	K		hargrave 2018-02-14 12:01:12	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Quick_River	TR018
+TR018-Ea	TR018-Ea:LP-DIR-T	TR018-E		231.7	-67.1	HT1	139.5	-0.9	2	15	100		6.2	913	723	K		hargrave 2018-02-14 12:01:12	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFP:DA-DIR-TILT	g			Quick_River	TR018
+TR018-Fa	TR018-Fa:LP-DIR-T	TR018-F				LT1	216.6	25.7	2	9	-1	21.3	3.0	823	473	K		hargrave 2018-02-14 12:02:49	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Quick_River	TR018
+TR018-Fa	TR018-Fa:LP-DIR-T	TR018-F		70.3	-16.8	HT1	165.1	-15.5	2	5	-1		5.3	913	853	K		hargrave 2018-02-14 12:02:49	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFP:DA-DIR	g			Quick_River	TR018
+TR018-Fa	TR018-Fa:LP-DIR-T	TR018-F				LT1	16.0	55.9	2	9	0	21.3	3.0	823	473	K		hargrave 2018-02-14 12:02:49	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Quick_River	TR018
+TR018-Fa	TR018-Fa:LP-DIR-T	TR018-F		183.7	-20.4	HT1	245.8	51.6	2	5	0		5.3	913	853	K		hargrave 2018-02-14 12:02:49	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFP:DA-DIR-GEO	g			Quick_River	TR018
+TR018-Fa	TR018-Fa:LP-DIR-T	TR018-F				LT1	71.5	51.9	2	9	100	21.3	3.0	823	473	K		hargrave 2018-02-14 12:02:49	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Quick_River	TR018
+TR018-Fa	TR018-Fa:LP-DIR-T	TR018-F		203.3	-37.0	HT1	193.8	52.6	2	5	100		5.3	913	853	K		hargrave 2018-02-14 12:02:49	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFP:DA-DIR-TILT	g			Quick_River	TR018
+TR018-Ga	TR018-Ga:LP-DIR-T	TR018-G				LT1	64.4	52.4	2	6	100	28.0	3.0	723	373	K		hargrave 2018-02-14 12:04:25	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Quick_River	TR018
+TR018-Ga	TR018-Ga:LP-DIR-T	TR018-G		246.9	-73.2	HT1	347.6	-3.2	2	7	100		12.0	873	828	K		hargrave 2018-02-14 12:04:25	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFP:DA-DIR-TILT	g			Quick_River	TR018
+TR018-Ga	TR018-Ga:LP-DIR-T	TR018-G		156.7	-57.3	HT1	175.9	31.2	2	7	0		12.0	873	828	K		hargrave 2018-02-14 12:04:25	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFP:DA-DIR-GEO	g			Quick_River	TR018
+TR018-Ga	TR018-Ga:LP-DIR-T	TR018-G				LT1	220.4	22.0	2	6	-1	28.0	3.0	723	373	K		hargrave 2018-02-14 12:04:25	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Quick_River	TR018
+TR018-Ga	TR018-Ga:LP-DIR-T	TR018-G		31.1	-9.5	HT1	118.8	13.4	2	7	-1		12.0	873	828	K		hargrave 2018-02-14 12:04:25	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFP:DA-DIR	g			Quick_River	TR018
+TR018-Ga	TR018-Ga:LP-DIR-T	TR018-G				LT1	12.1	52.2	2	6	0	28.0	3.0	723	373	K		hargrave 2018-02-14 12:04:25	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Quick_River	TR018
+TR018-Ha	TR018-Ha:LP-DIR-T	TR018-H				LT1	216.6	14.8	2	5	-1	34.7	4.4	623	273	K		hargrave 2018-02-14 12:05:56	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Quick_River	TR018
+TR018-Ha	TR018-Ha:LP-DIR-T	TR018-H		54.7	-9.4	HT1	326.4	10.2	2	11	-1		8.5	873	748	K		hargrave 2018-02-14 12:05:56	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFP:DA-DIR	g			Quick_River	TR018
+TR018-Ha	TR018-Ha:LP-DIR-T	TR018-H				LT1	6.5	54.8	2	5	0	34.7	4.4	623	273	K		hargrave 2018-02-14 12:05:56	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Quick_River	TR018
+TR018-Ha	TR018-Ha:LP-DIR-T	TR018-H		173.2	-31.0	HT1	224.1	46.5	2	11	0		8.5	873	748	K		hargrave 2018-02-14 12:05:56	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFP:DA-DIR-GEO	g			Quick_River	TR018
+TR018-Ha	TR018-Ha:LP-DIR-T	TR018-H				LT1	66.3	56.4	2	5	100	34.7	4.4	623	273	K		hargrave 2018-02-14 12:05:56	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Quick_River	TR018
+TR018-Ha	TR018-Ha:LP-DIR-T	TR018-H		203.0	-51.2	HT1	8.8	-37.9	2	11	100		8.5	873	748	K		hargrave 2018-02-14 12:05:56	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFP:DA-DIR-TILT	g			Quick_River	TR018
+TR018-Ia	TR018-Ia:LP-DIR-T	TR018-I				HT1	51.4	-5.0	2	12	-1	0.0	5.6	961	933	K		hargrave 2018-02-14 16:28:22	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Quick_River	TR018
+TR018-Ia	TR018-Ia:LP-DIR-T	TR018-I				LT1	19.8	56.3	2	5	0	137.5	4.3	623	273	K		hargrave 2018-02-14 16:28:22	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Quick_River	TR018
+TR018-Ia	TR018-Ia:LP-DIR-T	TR018-I				HT1	166.0	-38.8	2	12	0	0.0	5.6	961	933	K		hargrave 2018-02-14 16:28:22	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Quick_River	TR018
+TR018-Ia	TR018-Ia:LP-DIR-T	TR018-I				LT1	73.5	50.1	2	5	100	137.5	4.3	623	273	K		hargrave 2018-02-14 16:28:22	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Quick_River	TR018
+TR018-Ia	TR018-Ia:LP-DIR-T	TR018-I				HT1	205.9	-60.9	2	12	100	0.0	5.6	961	933	K		hargrave 2018-02-14 16:28:22	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Quick_River	TR018
+TR018-Ia	TR018-Ia:LP-DIR-T	TR018-I				LT1	212.3	26.6	2	5	-1	137.5	4.3	623	273	K		hargrave 2018-02-14 16:28:22	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Quick_River	TR018
+TR018-Ja	TR018-Ja:LP-DIR-T	TR018-J				HT1	133.9	-33.5	2	13	0	0.0	12.9	957	918	K		hargrave 2018-02-14 16:29:55	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Quick_River	TR018
+TR018-Ja	TR018-Ja:LP-DIR-T	TR018-J				LT1	48.7	58.8	2	5	100	75.9	2.1	723	473	K		hargrave 2018-02-14 16:29:55	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Quick_River	TR018
+TR018-Ja	TR018-Ja:LP-DIR-T	TR018-J				HT1	142.3	-70.8	2	13	100	0.0	12.9	957	918	K		hargrave 2018-02-14 16:29:55	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Quick_River	TR018
+TR018-Ja	TR018-Ja:LP-DIR-T	TR018-J				LT1	357.1	47.1	2	5	0	75.9	2.1	723	473	K		hargrave 2018-02-14 16:29:55	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Quick_River	TR018
+TR018-Ja	TR018-Ja:LP-DIR-T	TR018-J				LT1	227.0	26.5	2	5	-1	75.9	2.1	723	473	K		hargrave 2018-02-14 16:29:55	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Quick_River	TR018
+TR018-Ja	TR018-Ja:LP-DIR-T	TR018-J				HT1	48.5	8.6	2	13	-1	0.0	12.9	957	918	K		hargrave 2018-02-14 16:29:55	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Quick_River	TR018
+TR018-Ka	TR018-Ka:LP-DIR-T	TR018-K				LT1	223.6	48.6	2	4	-1	40.3	4.6	673	473	K		hargrave 2018-02-14 16:31:43	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Quick_River	TR018
+TR018-Ka	TR018-Ka:LP-DIR-T	TR018-K		55.5	-13.2	HT1	151.2	-23.1	2	10	-1		6.6	893	798	K		hargrave 2018-02-14 16:31:43	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFP:DA-DIR	g			Quick_River	TR018
+TR018-Ka	TR018-Ka:LP-DIR-T	TR018-K				LT1	17.0	50.1	2	4	0	40.3	4.6	673	473	K		hargrave 2018-02-14 16:31:43	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Quick_River	TR018
+TR018-Ka	TR018-Ka:LP-DIR-T	TR018-K		160.3	-44.9	HT1	30.6	-32.7	2	10	0		6.6	893	798	K		hargrave 2018-02-14 16:31:43	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFP:DA-DIR-GEO	g			Quick_River	TR018
+TR018-Ka	TR018-Ka:LP-DIR-T	TR018-K				LT1	63.9	48.7	2	4	100	40.3	4.6	673	473	K		hargrave 2018-02-14 16:31:43	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Quick_River	TR018
+TR018-Ka	TR018-Ka:LP-DIR-T	TR018-K		211.7	-67.9	HT1	191.7	20.9	2	10	100		6.6	893	798	K		hargrave 2018-02-14 16:31:43	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFP:DA-DIR-TILT	g			Quick_River	TR018
+TR018-La	TR018-La:LP-DIR-T	TR018-L				LT1	176.4	41.3	1	5	-1	20.4	4.3	748	573	K		hargrave 2018-02-14 16:33:17	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Quick_River	TR018
+TR018-La	TR018-La:LP-DIR-T	TR018-L				LT1	9.1	44.6	1	5	0	20.4	4.3	748	573	K		hargrave 2018-02-14 16:33:17	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Quick_River	TR018
+TR018-La	TR018-La:LP-DIR-T	TR018-L				LT1	52.3	50.3	1	5	100	20.4	4.3	748	573	K		hargrave 2018-02-14 16:33:17	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Quick_River	TR018
+TR018-Ma	TR018-Ma:LP-DIR-T	TR018-M				LT1	211.0	38.7	1	5	-1	73.2	5.3	673	373	K		hargrave 2018-02-14 16:34:48	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Quick_River	TR018
+TR018-Ma	TR018-Ma:LP-DIR-T	TR018-M				LT1	19.4	54.7	1	5	0	73.2	5.3	673	373	K		hargrave 2018-02-14 16:34:48	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Quick_River	TR018
+TR018-Ma	TR018-Ma:LP-DIR-T	TR018-M				LT1	71.0	49.6	1	5	100	73.2	5.3	673	373	K		hargrave 2018-02-14 16:34:48	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Quick_River	TR018
+TR018-Na	TR018-Na:LP-DIR-T	TR018-N				HT1	210.8	-15.4	2	11	100	0.0	7.8	961	938	K		hargrave 2018-02-14 16:36:16	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Quick_River	TR018
+TR018-Na	TR018-Na:LP-DIR-T	TR018-N				LT1	74.5	56.6	2	6	100	90.2	2.2	723	373	K		hargrave 2018-02-14 16:36:16	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Quick_River	TR018
+TR018-Na	TR018-Na:LP-DIR-T	TR018-N				HT1	203.0	-7.5	2	11	0	0.0	7.8	961	938	K		hargrave 2018-02-14 16:36:16	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Quick_River	TR018
+TR018-Na	TR018-Na:LP-DIR-T	TR018-N				LT1	8.7	59.2	2	6	0	90.2	2.2	723	373	K		hargrave 2018-02-14 16:36:16	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Quick_River	TR018
+TR018-Na	TR018-Na:LP-DIR-T	TR018-N				HT1	100.7	-51.3	2	11	-1	0.0	7.8	961	938	K		hargrave 2018-02-14 16:36:16	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Quick_River	TR018
+TR018-Na	TR018-Na:LP-DIR-T	TR018-N				LT1	209.5	34.2	2	6	-1	90.2	2.2	723	373	K		hargrave 2018-02-14 16:36:16	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Quick_River	TR018
+TR018-Pa	TR018-Pa:LP-DIR-T	TR018-P				LT1	226.5	52.9	1	5	-1	145.6	13.8	673	373	K		hargrave 2018-02-14 16:37:44	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Quick_River	TR018
+TR018-Pa	TR018-Pa:LP-DIR-T	TR018-P				LT1	17.5	41.5	1	5	0	145.6	13.8	673	373	K		hargrave 2018-02-14 16:37:44	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Quick_River	TR018
+TR018-Pa	TR018-Pa:LP-DIR-T	TR018-P				LT1	53.9	43.5	1	5	100	145.6	13.8	673	373	K		hargrave 2018-02-14 16:37:44	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Quick_River	TR018
+TR018-Qa	TR018-Qa:LP-DIR-T	TR018-Q				LT1	0.2	42.0	1	5	0	154.0	4.7	723	473	K		hargrave 2018-02-14 16:39:16	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Quick_River	TR018
+TR018-Qa	TR018-Qa:LP-DIR-T	TR018-Q				LT1	42.9	54.2	1	5	100	154.0	4.7	723	473	K		hargrave 2018-02-14 16:39:16	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Quick_River	TR018
+TR018-Qa	TR018-Qa:LP-DIR-T	TR018-Q				LT1	246.3	44.2	1	5	-1	154.0	4.7	723	473	K		hargrave 2018-02-14 16:39:16	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Quick_River	TR018
+TR020-Aa	TR020-Aa:LP-DIR-T	TR020-A				LT1	209.8	34.9	2	6	-1	32.9	2.4	723	373	K		hargrave 2018-02-14 16:42:03	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Quick_River	TR020
+TR020-Aa	TR020-Aa:LP-DIR-T	TR020-A		19.5	-2.7	HT1	92.2	81.0	2	8	-1		30.7	938	893	K		hargrave 2018-02-14 16:42:03	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFP:DA-DIR	g			Quick_River	TR020
+TR020-Aa	TR020-Aa:LP-DIR-T	TR020-A				LT1	24.6	62.9	2	6	0	32.9	2.4	723	373	K		hargrave 2018-02-14 16:42:03	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Quick_River	TR020
+TR020-Aa	TR020-Aa:LP-DIR-T	TR020-A		126.7	-61.0	HT1	98.3	26.0	2	8	0		30.7	938	893	K		hargrave 2018-02-14 16:42:03	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFP:DA-DIR-GEO	g			Quick_River	TR020
+TR020-Aa	TR020-Aa:LP-DIR-T	TR020-A				LT1	36.4	72.3	2	6	100	32.9	2.4	723	373	K		hargrave 2018-02-14 16:42:03	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Quick_River	TR020
+TR020-Aa	TR020-Aa:LP-DIR-T	TR020-A		107.6	-65.3	HT1	103.2	24.6	2	8	100		30.7	938	893	K		hargrave 2018-02-14 16:42:03	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFP:DA-DIR-TILT	g			Quick_River	TR020
+TR020-Ba	TR020-Ba:LP-DIR-T	TR020-B				LT1	348.1	62.8	2	4	100	160.0	4.7	573	273	K		hargrave 2018-02-14 12:22:22	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Quick_River	TR020
+TR020-Ba	TR020-Ba:LP-DIR-T	TR020-B				HT1	135.0	-70.1	2	15	100	0.0	1.8	959	913	K		hargrave 2018-02-14 12:22:22	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Quick_River	TR020
+TR020-Ba	TR020-Ba:LP-DIR-T	TR020-B				LT1	351.9	52.6	2	4	0	160.0	4.7	573	273	K		hargrave 2018-02-14 12:22:22	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Quick_River	TR020
+TR020-Ba	TR020-Ba:LP-DIR-T	TR020-B				HT1	29.3	-19.7	2	15	-1	0.0	1.8	959	913	K		hargrave 2018-02-14 12:22:22	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Quick_River	TR020
+TR020-Ba	TR020-Ba:LP-DIR-T	TR020-B				LT1	222.6	28.1	2	4	-1	160.0	4.7	573	273	K		hargrave 2018-02-14 12:22:22	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Quick_River	TR020
+TR020-Ba	TR020-Ba:LP-DIR-T	TR020-B				HT1	150.4	-62.1	2	15	0	0.0	1.8	959	913	K		hargrave 2018-02-14 12:22:22	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Quick_River	TR020
+TR020-Ca	TR020-Ca:LP-DIR-T	TR020-C				LT1	227.8	34.3	2	6	-1	134.0	3.2	673	273	K		hargrave 2018-02-14 16:45:12	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Quick_River	TR020
+TR020-Ca	TR020-Ca:LP-DIR-T	TR020-C				HT1	15.9	-21.0	2	19	-1	0.0	4.1	957	848	K		hargrave 2018-02-14 16:45:12	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Quick_River	TR020
+TR020-Ca	TR020-Ca:LP-DIR-T	TR020-C				LT1	356.3	51.9	2	6	0	134.0	3.2	673	273	K		hargrave 2018-02-14 16:45:12	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Quick_River	TR020
+TR020-Ca	TR020-Ca:LP-DIR-T	TR020-C				HT1	119.5	-66.7	2	19	0	0.0	4.1	957	848	K		hargrave 2018-02-14 16:45:12	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Quick_River	TR020
+TR020-Ca	TR020-Ca:LP-DIR-T	TR020-C				LT1	354.1	62.3	2	6	100	134.0	3.2	673	273	K		hargrave 2018-02-14 16:45:12	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Quick_River	TR020
+TR020-Ca	TR020-Ca:LP-DIR-T	TR020-C				HT1	94.0	-69.2	2	19	100	0.0	4.1	957	848	K		hargrave 2018-02-14 16:45:12	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Quick_River	TR020
+TR020-Da	TR020-Da:LP-DIR-T	TR020-D				LT1	7.1	54.7	2	5	100	145.1	9.5	673	373	K		hargrave 2018-02-14 16:48:21	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Quick_River	TR020
+TR020-Da	TR020-Da:LP-DIR-T	TR020-D				LT1	231.5	26.8	2	5	-1	145.1	9.5	673	373	K		hargrave 2018-02-14 16:48:21	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Quick_River	TR020
+TR020-Da	TR020-Da:LP-DIR-T	TR020-D				HT1	21.4	-10.9	2	21	-1	0.0	5.2	957	838	K		hargrave 2018-02-14 16:48:21	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Quick_River	TR020
+TR020-Da	TR020-Da:LP-DIR-T	TR020-D				LT1	6.4	44.2	2	5	0	145.1	9.5	673	373	K		hargrave 2018-02-14 16:48:21	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Quick_River	TR020
+TR020-Da	TR020-Da:LP-DIR-T	TR020-D				HT1	140.6	-64.8	2	21	0	0.0	5.2	957	838	K		hargrave 2018-02-14 16:48:21	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Quick_River	TR020
+TR020-Da	TR020-Da:LP-DIR-T	TR020-D				HT1	119.7	-71.2	2	21	100	0.0	5.2	957	838	K		hargrave 2018-02-14 16:48:21	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Quick_River	TR020
+TR020-Ea	TR020-Ea:LP-DIR-T	TR020-E				HT1	157.9	-61.2	2	25	100	0.0	2.2	961	828	K		hargrave 2018-02-14 12:31:29	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Quick_River	TR020
+TR020-Ea	TR020-Ea:LP-DIR-T	TR020-E				HT1	163.9	-51.5	2	25	0	0.0	2.2	961	828	K		hargrave 2018-02-14 12:31:29	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Quick_River	TR020
+TR020-Ea	TR020-Ea:LP-DIR-T	TR020-E				LT1	0.5	53.8	2	5	100	161.7	11.7	623	273	K		hargrave 2018-02-14 12:31:29	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Quick_River	TR020
+TR020-Ea	TR020-Ea:LP-DIR-T	TR020-E				HT1	57.0	-42.1	2	25	-1	0.0	2.2	961	828	K		hargrave 2018-02-14 12:31:29	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Quick_River	TR020
+TR020-Ea	TR020-Ea:LP-DIR-T	TR020-E				LT1	1.0	43.4	2	5	0	161.7	11.7	623	273	K		hargrave 2018-02-14 12:31:29	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Quick_River	TR020
+TR020-Ea	TR020-Ea:LP-DIR-T	TR020-E				LT1	256.1	43.9	2	5	-1	161.7	11.7	623	273	K		hargrave 2018-02-14 12:31:29	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Quick_River	TR020
+TR020-Fa	TR020-Fa:LP-DIR-T	TR020-F				LT1	8.9	61.0	2	5	100	128.7	22.7	623	273	K		hargrave 2018-02-14 16:50:06	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Quick_River	TR020
+TR020-Fa	TR020-Fa:LP-DIR-T	TR020-F				HT1	67.8	-75.5	2	19	0	0.0	3.0	961	873	K		hargrave 2018-02-14 16:50:06	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Quick_River	TR020
+TR020-Fa	TR020-Fa:LP-DIR-T	TR020-F				HT1	41.9	-68.8	2	19	100	0.0	3.0	961	873	K		hargrave 2018-02-14 16:50:06	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Quick_River	TR020
+TR020-Fa	TR020-Fa:LP-DIR-T	TR020-F				HT1	358.3	-13.6	2	19	-1	0.0	3.0	961	873	K		hargrave 2018-02-14 16:50:06	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Quick_River	TR020
+TR020-Fa	TR020-Fa:LP-DIR-T	TR020-F				LT1	226.0	35.7	2	5	-1	128.7	22.7	623	273	K		hargrave 2018-02-14 16:50:06	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Quick_River	TR020
+TR020-Fa	TR020-Fa:LP-DIR-T	TR020-F				LT1	7.5	50.6	2	5	0	128.7	22.7	623	273	K		hargrave 2018-02-14 16:50:06	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Quick_River	TR020
+TR020-Ga	TR020-Ga:LP-DIR-T	TR020-G				LT1	218.5	25.8	2	3	-1	134.9	15.2	573	373	K		hargrave 2018-02-14 16:51:36	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Quick_River	TR020
+TR020-Ga	TR020-Ga:LP-DIR-T	TR020-G				HT1	15.3	4.8	2	17	-1	0.0	6.6	961	903	K		hargrave 2018-02-14 16:51:36	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Quick_River	TR020
+TR020-Ga	TR020-Ga:LP-DIR-T	TR020-G				LT1	31.2	53.9	2	3	0	134.9	15.2	573	373	K		hargrave 2018-02-14 16:51:36	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Quick_River	TR020
+TR020-Ga	TR020-Ga:LP-DIR-T	TR020-G				HT1	137.1	-61.8	2	17	0	0.0	6.6	961	903	K		hargrave 2018-02-14 16:51:36	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Quick_River	TR020
+TR020-Ga	TR020-Ga:LP-DIR-T	TR020-G				LT1	40.4	62.7	2	3	100	134.9	15.2	573	373	K		hargrave 2018-02-14 16:51:36	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Quick_River	TR020
+TR020-Ga	TR020-Ga:LP-DIR-T	TR020-G				HT1	118.5	-67.9	2	17	100	0.0	6.6	961	903	K		hargrave 2018-02-14 16:51:36	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Quick_River	TR020
+TR020-Ha	TR020-Ha:LP-DIR-T	TR020-H				HT1	346.3	-63.6	2	23	100	0.0	2.7	961	838	K		hargrave 2018-02-14 16:54:41	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Quick_River	TR020
+TR020-Ha	TR020-Ha:LP-DIR-T	TR020-H				HT1	336.3	-73.4	2	23	0	0.0	2.7	961	838	K		hargrave 2018-02-14 16:54:41	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Quick_River	TR020
+TR020-Ha	TR020-Ha:LP-DIR-T	TR020-H				LT1	4.3	53.6	2	4	100	114.6	17.0	623	373	K		hargrave 2018-02-14 16:54:41	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Quick_River	TR020
+TR020-Ha	TR020-Ha:LP-DIR-T	TR020-H				HT1	341.9	-38.6	2	23	-1	0.0	2.7	961	838	K		hargrave 2018-02-14 16:54:41	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Quick_River	TR020
+TR020-Ha	TR020-Ha:LP-DIR-T	TR020-H				LT1	229.9	17.8	2	4	-1	114.6	17.0	623	373	K		hargrave 2018-02-14 16:54:41	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Quick_River	TR020
+TR020-Ha	TR020-Ha:LP-DIR-T	TR020-H				LT1	4.1	43.1	2	4	0	114.6	17.0	623	373	K		hargrave 2018-02-14 16:54:41	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Quick_River	TR020
+TR020-Ia	TR020-Ia:LP-DIR-T	TR020-I				LT1	201.3	49.8	2	3	-1	163.6	6.9	473	273	K		hargrave 2018-02-14 12:38:57	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Quick_River	TR020
+TR020-Ia	TR020-Ia:LP-DIR-T	TR020-I				HT1	18.3	-43.1	2	8	-1	0.0	2.8	961	947	K		hargrave 2018-02-14 12:38:57	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Quick_River	TR020
+TR020-Ia	TR020-Ia:LP-DIR-T	TR020-I				LT1	357.1	56.6	2	3	0	163.6	6.9	473	273	K		hargrave 2018-02-14 12:38:57	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Quick_River	TR020
+TR020-Ia	TR020-Ia:LP-DIR-T	TR020-I				HT1	171.8	-63.1	2	8	0	0.0	2.8	961	947	K		hargrave 2018-02-14 12:38:57	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Quick_River	TR020
+TR020-Ia	TR020-Ia:LP-DIR-T	TR020-I				LT1	354.6	67.0	2	3	100	163.6	6.9	473	273	K		hargrave 2018-02-14 12:38:57	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Quick_River	TR020
+TR020-Ia	TR020-Ia:LP-DIR-T	TR020-I				HT1	165.1	-73.3	2	8	100	0.0	2.8	961	947	K		hargrave 2018-02-14 12:38:57	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Quick_River	TR020
+TR020-Ja	TR020-Ja:LP-DIR-T	TR020-J				HT1	139.9	-88.1	2	12	100	0.0	2.9	961	933	K		hargrave 2018-02-14 12:40:21	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Quick_River	TR020
+TR020-Ja	TR020-Ja:LP-DIR-T	TR020-J				LT1	2.2	71.9	2	4	100	154.9	14.3	573	273	K		hargrave 2018-02-14 12:40:21	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Quick_River	TR020
+TR020-Ja	TR020-Ja:LP-DIR-T	TR020-J				HT1	176.9	-78.1	2	12	0	0.0	2.9	961	933	K		hargrave 2018-02-14 12:40:21	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Quick_River	TR020
+TR020-Ja	TR020-Ja:LP-DIR-T	TR020-J				HT1	9.9	-28.9	2	12	-1	0.0	2.9	961	933	K		hargrave 2018-02-14 12:40:21	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Quick_River	TR020
+TR020-Ja	TR020-Ja:LP-DIR-T	TR020-J				LT1	204.4	40.8	2	4	-1	154.9	14.3	573	273	K		hargrave 2018-02-14 12:40:21	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Quick_River	TR020
+TR020-Ja	TR020-Ja:LP-DIR-T	TR020-J				LT1	2.6	61.4	2	4	0	154.9	14.3	573	273	K		hargrave 2018-02-14 12:40:21	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Quick_River	TR020
+TR022-Aa	TR022-Aa:LP-DIR-T	TR022-A				LT1	47.2	49.8	2	4	100	38.3	1.1	623	373	K		hargrave 2018-03-02 11:52:59	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Quick_River	TR022
+TR022-Aa	TR022-Aa:LP-DIR-T	TR022-A				LT1	221.7	47.2	2	4	-1	38.3	1.1	623	373	K		hargrave 2018-03-02 11:52:59	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Quick_River	TR022
+TR022-Aa	TR022-Aa:LP-DIR-T	TR022-A				HT1	83.5	40.5	2	7	-1	0.0	8.2	965	953	K		hargrave 2018-03-02 11:52:59	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Quick_River	TR022
+TR022-Aa	TR022-Aa:LP-DIR-T	TR022-A				LT1	8.7	48.9	2	4	0	38.3	1.1	623	373	K		hargrave 2018-03-02 11:52:59	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Quick_River	TR022
+TR022-Aa	TR022-Aa:LP-DIR-T	TR022-A				HT1	102.2	10.1	2	7	0	0.0	8.2	965	953	K		hargrave 2018-03-02 11:52:59	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Quick_River	TR022
+TR022-Aa	TR022-Aa:LP-DIR-T	TR022-A				HT1	101.4	-20.1	2	7	100	0.0	8.2	965	953	K		hargrave 2018-03-02 11:52:59	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Quick_River	TR022
+TR022-Ba	TR022-Ba:LP-DIR-T	TR022-B				HT1	175.3	-26.5	2	10	100	0.0	7.6	965	947	K		hargrave 2018-03-02 11:56:08	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Quick_River	TR022
+TR022-Ba	TR022-Ba:LP-DIR-T	TR022-B				HT1	167.6	-6.7	2	10	0	0.0	7.6	965	947	K		hargrave 2018-03-02 11:56:08	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Quick_River	TR022
+TR022-Ba	TR022-Ba:LP-DIR-T	TR022-B				LT1	50.3	52.2	2	5	100	61.8	3.0	673	373	K		hargrave 2018-03-02 11:56:08	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Quick_River	TR022
+TR022-Ba	TR022-Ba:LP-DIR-T	TR022-B				HT1	100.4	-31.2	2	10	-1	0.0	7.6	965	947	K		hargrave 2018-03-02 11:56:08	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Quick_River	TR022
+TR022-Ba	TR022-Ba:LP-DIR-T	TR022-B				LT1	219.8	53.8	2	5	-1	61.8	3.0	673	373	K		hargrave 2018-03-02 11:56:08	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Quick_River	TR022
+TR022-Ba	TR022-Ba:LP-DIR-T	TR022-B				LT1	7.7	52.0	2	5	0	61.8	3.0	673	373	K		hargrave 2018-03-02 11:56:08	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Quick_River	TR022
+TR022-Ca	TR022-Ca:LP-DIR-T	TR022-C				LT1	209.0	44.2	2	4	-1	28.9	3.1	673	373	K		hargrave 2018-03-02 11:57:39	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Quick_River	TR022
+TR022-Ca	TR022-Ca:LP-DIR-T	TR022-C				HT1	35.2	-70.2	2	10	-1	0.0	11.8	965	947	K		hargrave 2018-03-02 11:57:39	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Quick_River	TR022
+TR022-Ca	TR022-Ca:LP-DIR-T	TR022-C				LT1	8.1	56.6	2	4	0	28.9	3.1	673	373	K		hargrave 2018-03-02 11:57:39	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Quick_River	TR022
+TR022-Ca	TR022-Ca:LP-DIR-T	TR022-C				HT1	213.2	-36.5	2	10	0	0.0	11.8	965	947	K		hargrave 2018-03-02 11:57:39	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Quick_River	TR022
+TR022-Ca	TR022-Ca:LP-DIR-T	TR022-C				LT1	57.0	54.7	2	4	100	28.9	3.1	673	373	K		hargrave 2018-03-02 11:57:39	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Quick_River	TR022
+TR022-Ca	TR022-Ca:LP-DIR-T	TR022-C				HT1	233.4	-28.6	2	10	100	0.0	11.8	965	947	K		hargrave 2018-03-02 11:57:39	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Quick_River	TR022
+TR022-Da	TR022-Da:LP-DIR-T	TR022-D				LT1	220.8	47.9	2	5	-1	60.7	2.3	673	373	K		hargrave 2018-03-02 11:59:11	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Quick_River	TR022
+TR022-Da	TR022-Da:LP-DIR-T	TR022-D				HT1	323.3	-39.3	2	7	-1	0.0	7.9	965	953	K		hargrave 2018-03-02 11:59:11	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Quick_River	TR022
+TR022-Da	TR022-Da:LP-DIR-T	TR022-D				LT1	6.1	50.0	2	5	0	60.7	2.3	673	373	K		hargrave 2018-03-02 11:59:11	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Quick_River	TR022
+TR022-Da	TR022-Da:LP-DIR-T	TR022-D				HT1	283.8	-55.5	2	7	0	0.0	7.9	965	953	K		hargrave 2018-03-02 11:59:11	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Quick_River	TR022
+TR022-Da	TR022-Da:LP-DIR-T	TR022-D				LT1	46.7	51.7	2	5	100	60.7	2.3	673	373	K		hargrave 2018-03-02 11:59:11	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Quick_River	TR022
+TR022-Da	TR022-Da:LP-DIR-T	TR022-D				HT1	289.8	-24.6	2	7	100	0.0	7.9	965	953	K		hargrave 2018-03-02 11:59:11	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Quick_River	TR022
+TR022-Ea	TR022-Ea:LP-DIR-T	TR022-E				HT1	214.1	-54.9	2	14	100	0.0	5.1	965	933	K		hargrave 2018-03-02 12:00:46	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Quick_River	TR022
+TR022-Ea	TR022-Ea:LP-DIR-T	TR022-E				LT1	46.1	44.9	2	5	100	136.7	2.1	673	373	K		hargrave 2018-03-02 12:00:46	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Quick_River	TR022
+TR022-Ea	TR022-Ea:LP-DIR-T	TR022-E				HT1	175.3	-46.2	2	14	0	0.0	5.1	965	933	K		hargrave 2018-03-02 12:00:46	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Quick_River	TR022
+TR022-Ea	TR022-Ea:LP-DIR-T	TR022-E				HT1	47.8	-45.1	2	14	-1	0.0	5.1	965	933	K		hargrave 2018-03-02 12:00:46	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Quick_River	TR022
+TR022-Ea	TR022-Ea:LP-DIR-T	TR022-E				LT1	222.4	57.1	2	5	-1	136.7	2.1	673	373	K		hargrave 2018-03-02 12:00:46	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Quick_River	TR022
+TR022-Ea	TR022-Ea:LP-DIR-T	TR022-E				LT1	13.2	45.0	2	5	0	136.7	2.1	673	373	K		hargrave 2018-03-02 12:00:46	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Quick_River	TR022
+TR022-Fa	TR022-Fa:LP-DIR-T	TR022-F				HT1	163.1	-42.4	2	9	100	0.0	2.9	965	947	K		hargrave 2018-03-02 12:02:25	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Quick_River	TR022
+TR022-Fa	TR022-Fa:LP-DIR-T	TR022-F				LT1	223.3	58.1	2	4	-1	68.1	1.3	623	373	K		hargrave 2018-03-02 12:02:25	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Quick_River	TR022
+TR022-Fa	TR022-Fa:LP-DIR-T	TR022-F				HT1	85.5	-32.5	2	9	-1	0.0	2.9	965	947	K		hargrave 2018-03-02 12:02:25	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Quick_River	TR022
+TR022-Fa	TR022-Fa:LP-DIR-T	TR022-F				LT1	1.9	45.9	2	4	0	68.1	1.3	623	373	K		hargrave 2018-03-02 12:02:25	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Quick_River	TR022
+TR022-Fa	TR022-Fa:LP-DIR-T	TR022-F				HT1	151.7	-17.2	2	9	0	0.0	2.9	965	947	K		hargrave 2018-03-02 12:02:25	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Quick_River	TR022
+TR022-Fa	TR022-Fa:LP-DIR-T	TR022-F				LT1	38.8	51.2	2	4	100	68.1	1.3	623	373	K		hargrave 2018-03-02 12:02:25	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Quick_River	TR022
+TR022-Ga	TR022-Ga:LP-DIR-T	TR022-G				LT1	196.6	50.6	2	5	-1	30.7	2.4	673	373	K		hargrave 2018-03-02 12:04:01	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Quick_River	TR022
+TR022-Ga	TR022-Ga:LP-DIR-T	TR022-G				HT1	358.1	-25.2	2	4	-1	0.0	16.0	961	955	K		hargrave 2018-03-02 12:04:01	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Quick_River	TR022
+TR022-Ga	TR022-Ga:LP-DIR-T	TR022-G				LT1	21.5	55.7	2	5	0	30.7	2.4	673	373	K		hargrave 2018-03-02 12:04:01	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Quick_River	TR022
+TR022-Ga	TR022-Ga:LP-DIR-T	TR022-G				HT1	235.6	-83.6	2	4	0	0.0	16.0	961	955	K		hargrave 2018-03-02 12:04:01	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Quick_River	TR022
+TR022-Ga	TR022-Ga:LP-DIR-T	TR022-G				LT1	62.7	48.1	2	5	100	30.7	2.4	673	373	K		hargrave 2018-03-02 12:04:01	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Quick_River	TR022
+TR022-Ga	TR022-Ga:LP-DIR-T	TR022-G				HT1	289.3	-55.2	2	4	100	0.0	16.0	961	955	K		hargrave 2018-03-02 12:04:01	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Quick_River	TR022
+TR022-Ha	TR022-Ha:LP-DIR-T	TR022-H				LT1	20.3	54.5	2	5	100	44.9	5.0	673	373	K		hargrave 2018-03-02 12:05:32	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Quick_River	TR022
+TR022-Ha	TR022-Ha:LP-DIR-T	TR022-H				HT1	27.6	-60.2	2	13	0	0.0	17.4	965	938	K		hargrave 2018-03-02 12:05:32	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Quick_River	TR022
+TR022-Ha	TR022-Ha:LP-DIR-T	TR022-H				HT1	346.1	-46.9	2	13	100	0.0	17.4	965	938	K		hargrave 2018-03-02 12:05:32	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Quick_River	TR022
+TR022-Ha	TR022-Ha:LP-DIR-T	TR022-H				HT1	357.6	5.7	2	13	-1	0.0	17.4	965	938	K		hargrave 2018-03-02 12:05:32	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Quick_River	TR022
+TR022-Ha	TR022-Ha:LP-DIR-T	TR022-H				LT1	235.5	49.7	2	5	-1	44.9	5.0	673	373	K		hargrave 2018-03-02 12:05:32	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Quick_River	TR022
+TR022-Ha	TR022-Ha:LP-DIR-T	TR022-H				LT1	348.1	40.2	2	5	0	44.9	5.0	673	373	K		hargrave 2018-03-02 12:05:32	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Quick_River	TR022
+TR022-Ia	TR022-Ia:LP-DIR-T	TR022-I				LT1	47.2	51.4	1	6	100	35.0	2.8	748	473	K		hargrave 2018-03-02 12:07:02	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Quick_River	TR022
+TR022-Ia	TR022-Ia:LP-DIR-T	TR022-I				LT1	6.8	50.0	1	6	0	35.0	2.8	748	473	K		hargrave 2018-03-02 12:07:02	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Quick_River	TR022
+TR022-Ia	TR022-Ia:LP-DIR-T	TR022-I				LT1	211.5	46.2	1	6	-1	35.0	2.8	748	473	K		hargrave 2018-03-02 12:07:02	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Quick_River	TR022
+TR022-Ja	TR022-Ja:LP-DIR-T	TR022-J				LT1	224.3	47.6	1	5	-1	24.3	2.3	673	373	K		hargrave 2018-03-02 12:08:34	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Quick_River	TR022
+TR022-Ja	TR022-Ja:LP-DIR-T	TR022-J				LT1	1.0	45.7	1	5	0	24.3	2.3	673	373	K		hargrave 2018-03-02 12:08:34	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Quick_River	TR022
+TR022-Ja	TR022-Ja:LP-DIR-T	TR022-J				LT1	37.8	51.6	1	5	100	24.3	2.3	673	373	K		hargrave 2018-03-02 12:08:34	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Quick_River	TR022
+TR024-Aa	TR024-Aa:LP-DIR-T	TR024-A				LT1	190.5	60.0	2	3	-1	123.4	0.5	473	273	K		hargrave 2018-03-02 10:34:47	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Quick_River	TR024
+TR024-Aa	TR024-Aa:LP-DIR-T	TR024-A				HT1	70.0	-31.0	2	18	-1	0.0	3.5	965	913	K		hargrave 2018-03-02 10:34:47	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Quick_River	TR024
+TR024-Aa	TR024-Aa:LP-DIR-T	TR024-A				LT1	0.6	47.4	2	3	0	123.4	0.5	473	273	K		hargrave 2018-03-02 10:34:47	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Quick_River	TR024
+TR024-Aa	TR024-Aa:LP-DIR-T	TR024-A				HT1	124.6	-25.9	2	18	0	0.0	3.5	965	913	K		hargrave 2018-03-02 10:34:47	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Quick_River	TR024
+TR024-Aa	TR024-Aa:LP-DIR-T	TR024-A				LT1	37.0	50.3	2	3	100	123.4	0.5	473	273	K		hargrave 2018-03-02 10:34:47	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Quick_River	TR024
+TR024-Aa	TR024-Aa:LP-DIR-T	TR024-A				HT1	131.3	-55.8	2	18	100	0.0	3.5	965	913	K		hargrave 2018-03-02 10:34:47	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Quick_River	TR024
+TR024-Ba	TR024-Ba:LP-DIR-T	TR024-B				LT1	43.3	56.5	2	3	100	123.7	5.3	473	273	K		hargrave 2018-03-02 10:36:20	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Quick_River	TR024
+TR024-Ba	TR024-Ba:LP-DIR-T	TR024-B				HT1	136.7	-17.4	2	18	0	0.0	3.2	965	913	K		hargrave 2018-03-02 10:36:20	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Quick_River	TR024
+TR024-Ba	TR024-Ba:LP-DIR-T	TR024-B				HT1	145.3	-44.9	2	18	100	0.0	3.2	965	913	K		hargrave 2018-03-02 10:36:20	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Quick_River	TR024
+TR024-Ba	TR024-Ba:LP-DIR-T	TR024-B				HT1	79.2	-35.7	2	18	-1	0.0	3.2	965	913	K		hargrave 2018-03-02 10:36:20	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Quick_River	TR024
+TR024-Ba	TR024-Ba:LP-DIR-T	TR024-B				LT1	194.8	48.7	2	3	-1	123.7	5.3	473	273	K		hargrave 2018-03-02 10:36:20	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Quick_River	TR024
+TR024-Ba	TR024-Ba:LP-DIR-T	TR024-B				LT1	356.6	54.2	2	3	0	123.7	5.3	473	273	K		hargrave 2018-03-02 10:36:20	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Quick_River	TR024
+TR024-Ca	TR024-Ca:LP-DIR-T	TR024-C				HT1	157.9	-43.0	2	14	100	0.0	3.7	965	933	K		hargrave 2018-03-02 10:37:50	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Quick_River	TR024
+TR024-Ca	TR024-Ca:LP-DIR-T	TR024-C				LT1	25.8	43.9	2	3	100	126.1	4.4	473	273	K		hargrave 2018-03-02 10:37:50	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Quick_River	TR024
+TR024-Ca	TR024-Ca:LP-DIR-T	TR024-C				HT1	146.3	-18.5	2	14	0	0.0	3.7	965	933	K		hargrave 2018-03-02 10:37:50	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Quick_River	TR024
+TR024-Ca	TR024-Ca:LP-DIR-T	TR024-C				LT1	359.1	37.4	2	3	0	126.1	4.4	473	273	K		hargrave 2018-03-02 10:37:50	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Quick_River	TR024
+TR024-Ca	TR024-Ca:LP-DIR-T	TR024-C				HT1	79.0	-50.7	2	14	-1	0.0	3.7	965	933	K		hargrave 2018-03-02 10:37:50	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Quick_River	TR024
+TR024-Ca	TR024-Ca:LP-DIR-T	TR024-C				LT1	196.5	66.4	2	3	-1	126.1	4.4	473	273	K		hargrave 2018-03-02 10:37:50	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Quick_River	TR024
+TR024-Da	TR024-Da:LP-DIR-T	TR024-D				HT1	153.8	-51.8	2	13	100	0.0	4.9	965	938	K		hargrave 2018-03-02 10:39:18	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Quick_River	TR024
+TR024-Da	TR024-Da:LP-DIR-T	TR024-D				LT1	25.8	43.3	2	6	100	121.9	4.9	673	273	K		hargrave 2018-03-02 10:39:18	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Quick_River	TR024
+TR024-Da	TR024-Da:LP-DIR-T	TR024-D				HT1	140.0	-25.6	2	13	0	0.0	4.9	965	938	K		hargrave 2018-03-02 10:39:18	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Quick_River	TR024
+TR024-Da	TR024-Da:LP-DIR-T	TR024-D				LT1	359.6	37.0	2	6	0	121.9	4.9	673	273	K		hargrave 2018-03-02 10:39:18	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Quick_River	TR024
+TR024-Da	TR024-Da:LP-DIR-T	TR024-D				HT1	69.6	-44.1	2	13	-1	0.0	4.9	965	938	K		hargrave 2018-03-02 10:39:18	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Quick_River	TR024
+TR024-Da	TR024-Da:LP-DIR-T	TR024-D				LT1	198.6	67.7	2	6	-1	121.9	4.9	673	273	K		hargrave 2018-03-02 10:39:18	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Quick_River	TR024
+TR024-Ea	TR024-Ea:LP-DIR-T	TR024-E				HT1	67.5	-36.4	2	12	-1	8.2	5.2	965	943	K		hargrave 2018-03-02 10:40:45	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Quick_River	TR024
+TR024-Ea	TR024-Ea:LP-DIR-T	TR024-E				LT1	0.0	44.1	2	4	0	110.9	5.2	573	273	K		hargrave 2018-03-02 10:40:45	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Quick_River	TR024
+TR024-Ea	TR024-Ea:LP-DIR-T	TR024-E				HT1	136.0	-27.9	2	12	0	8.2	5.2	965	943	K		hargrave 2018-03-02 10:40:45	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Quick_River	TR024
+TR024-Ea	TR024-Ea:LP-DIR-T	TR024-E				LT1	32.9	48.3	2	4	100	110.9	5.2	573	273	K		hargrave 2018-03-02 10:40:45	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Quick_River	TR024
+TR024-Ea	TR024-Ea:LP-DIR-T	TR024-E				HT1	149.5	-55.2	2	12	100	8.2	5.2	965	943	K		hargrave 2018-03-02 10:40:45	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Quick_River	TR024
+TR024-Ea	TR024-Ea:LP-DIR-T	TR024-E				LT1	199.8	60.7	2	4	-1	110.9	5.2	573	273	K		hargrave 2018-03-02 10:40:45	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Quick_River	TR024
+TR024-Ga	TR024-Ga:LP-DIR-T	TR024-G				HT1	35.9	-52.2	2	13	100	0.0	4.1	965	938	K		hargrave 2018-03-02 10:42:17	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Quick_River	TR024
+TR024-Ga	TR024-Ga:LP-DIR-T	TR024-G				LT1	39.0	51.4	2	5	100	85.1	4.1	623	273	K		hargrave 2018-03-02 10:42:17	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Quick_River	TR024
+TR024-Ga	TR024-Ga:LP-DIR-T	TR024-G				HT1	64.5	-37.9	2	13	0	0.0	4.1	965	938	K		hargrave 2018-03-02 10:42:17	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Quick_River	TR024
+TR024-Ga	TR024-Ga:LP-DIR-T	TR024-G				LT1	0.7	49.0	2	5	0	85.1	4.1	623	273	K		hargrave 2018-03-02 10:42:17	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Quick_River	TR024
+TR024-Ga	TR024-Ga:LP-DIR-T	TR024-G				LT1	192.9	53.7	2	5	-1	85.1	4.1	623	273	K		hargrave 2018-03-02 10:42:17	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Quick_River	TR024
+TR024-Ga	TR024-Ga:LP-DIR-T	TR024-G				HT1	41.1	18.7	2	13	-1	0.0	4.1	965	938	K		hargrave 2018-03-02 10:42:17	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Quick_River	TR024
+TR024-Ha	TR024-Ha:LP-DIR-T	TR024-H				LT1	182.8	49.7	2	3	-1	75.0	5.2	473	273	K		hargrave 2018-03-02 10:43:48	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Quick_River	TR024
+TR024-Ha	TR024-Ha:LP-DIR-T	TR024-H				HT1	69.5	10.3	2	14	-1	0.0	4.0	965	933	K		hargrave 2018-03-02 10:43:48	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Quick_River	TR024
+TR024-Ha	TR024-Ha:LP-DIR-T	TR024-H				LT1	7.4	52.2	2	3	0	75.0	5.2	473	273	K		hargrave 2018-03-02 10:43:48	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Quick_River	TR024
+TR024-Ha	TR024-Ha:LP-DIR-T	TR024-H				HT1	85.3	-17.4	2	14	0	0.0	4.0	965	933	K		hargrave 2018-03-02 10:43:48	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Quick_River	TR024
+TR024-Ha	TR024-Ha:LP-DIR-T	TR024-H				LT1	47.2	50.2	2	3	100	75.0	5.2	473	273	K		hargrave 2018-03-02 10:43:48	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Quick_River	TR024
+TR024-Ha	TR024-Ha:LP-DIR-T	TR024-H				HT1	75.1	-43.2	2	14	100	0.0	4.0	965	933	K		hargrave 2018-03-02 10:43:48	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Quick_River	TR024
+TR024-Ia	TR024-Ia:LP-DIR-T	TR024-I				HT1	127.7	-74.6	2	14	100	0.0	3.1	965	933	K		hargrave 2018-03-02 10:45:16	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Quick_River	TR024
+TR024-Ia	TR024-Ia:LP-DIR-T	TR024-I				LT1	45.5	48.5	2	3	100	122.4	2.6	473	273	K		hargrave 2018-03-02 10:45:16	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Quick_River	TR024
+TR024-Ia	TR024-Ia:LP-DIR-T	TR024-I				HT1	119.0	-44.2	2	14	0	0.0	3.1	965	933	K		hargrave 2018-03-02 10:45:16	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Quick_River	TR024
+TR024-Ia	TR024-Ia:LP-DIR-T	TR024-I				HT1	47.9	-22.3	2	14	-1	0.0	3.1	965	933	K		hargrave 2018-03-02 10:45:16	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Quick_River	TR024
+TR024-Ia	TR024-Ia:LP-DIR-T	TR024-I				LT1	184.5	54.6	2	3	-1	122.4	2.6	473	273	K		hargrave 2018-03-02 10:45:16	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Quick_River	TR024
+TR024-Ia	TR024-Ia:LP-DIR-T	TR024-I				LT1	8.2	50.2	2	3	0	122.4	2.6	473	273	K		hargrave 2018-03-02 10:45:16	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Quick_River	TR024
+TR024-Ja	TR024-Ja:LP-DIR-T	TR024-J				LT1	237.5	47.2	2	3	-1	132.0	5.4	473	273	K		hargrave 2018-03-02 10:46:44	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Quick_River	TR024
+TR024-Ja	TR024-Ja:LP-DIR-T	TR024-J				HT1	31.2	-13.4	2	26	-1	0.0	2.6	965	833	K		hargrave 2018-03-02 10:46:44	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Quick_River	TR024
+TR024-Ja	TR024-Ja:LP-DIR-T	TR024-J				LT1	330.8	33.6	2	3	0	132.0	5.4	473	273	K		hargrave 2018-03-02 10:46:44	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Quick_River	TR024
+TR024-Ja	TR024-Ja:LP-DIR-T	TR024-J				HT1	103.5	-59.7	2	26	0	0.0	2.6	965	833	K		hargrave 2018-03-02 10:46:44	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Quick_River	TR024
+TR024-Ja	TR024-Ja:LP-DIR-T	TR024-J				LT1	353.8	54.7	2	3	100	132.0	5.4	473	273	K		hargrave 2018-03-02 10:46:44	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Quick_River	TR024
+TR024-Ja	TR024-Ja:LP-DIR-T	TR024-J				HT1	14.7	-84.7	2	26	100	0.0	2.6	965	833	K		hargrave 2018-03-02 10:46:44	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Quick_River	TR024
+TR026-Aa	TR026-Aa:LP-DIR-T	TR026-A				LT1	5.5	39.4	2	4	100	114.6	2.0	573	273	K		hargrave 2018-03-02 10:48:15	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Quick_River	TR026
+TR026-Aa	TR026-Aa:LP-DIR-T	TR026-A				HT1	246.7	-66.6	2	14	100	0.0	2.6	965	933	K		hargrave 2018-03-02 10:48:15	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Quick_River	TR026
+TR026-Aa	TR026-Aa:LP-DIR-T	TR026-A				HT1	164.8	-67.9	2	14	0	0.0	2.6	965	933	K		hargrave 2018-03-02 10:48:15	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Quick_River	TR026
+TR026-Aa	TR026-Aa:LP-DIR-T	TR026-A				LT1	237.4	67.9	2	4	-1	114.6	2.0	573	273	K		hargrave 2018-03-02 10:48:15	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Quick_River	TR026
+TR026-Aa	TR026-Aa:LP-DIR-T	TR026-A				HT1	10.4	-34.0	2	14	-1	0.0	2.6	965	933	K		hargrave 2018-03-02 10:48:15	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Quick_River	TR026
+TR026-Aa	TR026-Aa:LP-DIR-T	TR026-A				LT1	347.9	24.9	2	4	0	114.6	2.0	573	273	K		hargrave 2018-03-02 10:48:15	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Quick_River	TR026
+TR026-Ba	TR026-Ba:LP-DIR-T	TR026-B				LT1	254.9	43.2	2	3	-1	110.2	3.2	573	373	K		hargrave 2018-03-02 10:51:08	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Quick_River	TR026
+TR026-Ba	TR026-Ba:LP-DIR-T	TR026-B				HT1	12.6	-11.3	2	14	-1	0.0	2.1	965	933	K		hargrave 2018-03-02 10:51:08	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Quick_River	TR026
+TR026-Ba	TR026-Ba:LP-DIR-T	TR026-B				LT1	314.0	23.7	2	3	0	110.2	3.2	573	373	K		hargrave 2018-03-02 10:51:08	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Quick_River	TR026
+TR026-Ba	TR026-Ba:LP-DIR-T	TR026-B				HT1	63.5	-75.6	2	14	0	0.0	2.1	965	933	K		hargrave 2018-03-02 10:51:08	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Quick_River	TR026
+TR026-Ba	TR026-Ba:LP-DIR-T	TR026-B				LT1	324.5	51.7	2	3	100	110.2	3.2	573	373	K		hargrave 2018-03-02 10:51:08	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Quick_River	TR026
+TR026-Ba	TR026-Ba:LP-DIR-T	TR026-B				HT1	322.0	-66.0	2	14	100	0.0	2.1	965	933	K		hargrave 2018-03-02 10:51:08	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Quick_River	TR026
+TR026-Ca	TR026-Ca:LP-DIR-T	TR026-C				HT1	161.6	-71.3	2	12	100	0.0	4.2	965	943	K		hargrave 2018-03-02 10:52:41	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Quick_River	TR026
+TR026-Ca	TR026-Ca:LP-DIR-T	TR026-C				LT1	23.3	40.8	2	3	100	120.1	4.2	473	273	K		hargrave 2018-03-02 10:52:41	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Quick_River	TR026
+TR026-Ca	TR026-Ca:LP-DIR-T	TR026-C				HT1	133.4	-44.8	2	12	0	0.0	4.2	965	943	K		hargrave 2018-03-02 10:52:41	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Quick_River	TR026
+TR026-Ca	TR026-Ca:LP-DIR-T	TR026-C				LT1	200.9	81.5	2	3	-1	120.1	4.2	473	273	K		hargrave 2018-03-02 10:52:41	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Quick_River	TR026
+TR026-Ca	TR026-Ca:LP-DIR-T	TR026-C				HT1	51.5	-46.0	2	12	-1	0.0	4.2	965	943	K		hargrave 2018-03-02 10:52:41	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Quick_River	TR026
+TR026-Ca	TR026-Ca:LP-DIR-T	TR026-C				LT1	359.7	33.9	2	3	0	120.1	4.2	473	273	K		hargrave 2018-03-02 10:52:41	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Quick_River	TR026
+TR026-Da	TR026-Da:LP-DIR-T	TR026-D				LT1	52.7	25.2	2	5	100	131.0	10.9	673	373	K		hargrave 2018-03-02 10:54:14	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Quick_River	TR026
+TR026-Da	TR026-Da:LP-DIR-T	TR026-D				HT1	241.9	-60.6	2	11	100	0.0	3.3	965	947	K		hargrave 2018-03-02 10:54:14	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Quick_River	TR026
+TR026-Da	TR026-Da:LP-DIR-T	TR026-D				HT1	178.3	-64.6	2	11	0	0.0	3.3	965	947	K		hargrave 2018-03-02 10:54:14	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Quick_River	TR026
+TR026-Da	TR026-Da:LP-DIR-T	TR026-D				LT1	140.2	62.1	2	5	-1	131.0	10.9	673	373	K		hargrave 2018-03-02 10:54:14	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Quick_River	TR026
+TR026-Da	TR026-Da:LP-DIR-T	TR026-D				HT1	8.4	-40.3	2	11	-1	0.0	3.3	965	947	K		hargrave 2018-03-02 10:54:14	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Quick_River	TR026
+TR026-Da	TR026-Da:LP-DIR-T	TR026-D				LT1	35.1	36.1	2	5	0	131.0	10.9	673	373	K		hargrave 2018-03-02 10:54:14	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Quick_River	TR026
+TR026-Ea	TR026-Ea:LP-DIR-T	TR026-E				LT1	215.4	60.3	2	6	-1	15.6	1.8	673	273	K		hargrave 2018-03-02 12:12:54	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Quick_River	TR026
+TR026-Ea	TR026-Ea:LP-DIR-T	TR026-E				HT1	77.3	-21.5	2	7	-1	0.0	13.9	961	949	K		hargrave 2018-03-02 12:12:54	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Quick_River	TR026
+TR026-Ea	TR026-Ea:LP-DIR-T	TR026-E				LT1	357.8	46.2	2	6	0	15.6	1.8	673	273	K		hargrave 2018-03-02 12:12:54	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Quick_River	TR026
+TR026-Ea	TR026-Ea:LP-DIR-T	TR026-E				HT1	127.8	-19.6	2	7	0	0.0	13.9	961	949	K		hargrave 2018-03-02 12:12:54	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Quick_River	TR026
+TR026-Ea	TR026-Ea:LP-DIR-T	TR026-E				LT1	33.7	50.9	2	6	100	15.6	1.8	673	273	K		hargrave 2018-03-02 12:12:54	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Quick_River	TR026
+TR026-Ea	TR026-Ea:LP-DIR-T	TR026-E				HT1	134.1	-49.0	2	7	100	0.0	13.9	961	949	K		hargrave 2018-03-02 12:12:54	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Quick_River	TR026
+TR026-Ga	TR026-Ga:LP-DIR-T	TR026-G				LT1	229.0	64.3	2	6	-1	87.4	10.3	623	273	K		hargrave 2018-03-02 10:57:52	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Quick_River	TR026
+TR026-Ga	TR026-Ga:LP-DIR-T	TR026-G				HT1	33.3	-7.9	2	10	-1	1.6	5.5	965	947	K		hargrave 2018-03-02 10:57:52	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Quick_River	TR026
+TR026-Ga	TR026-Ga:LP-DIR-T	TR026-G				LT1	356.4	38.8	2	6	0	87.4	10.3	623	273	K		hargrave 2018-03-02 10:57:52	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Quick_River	TR026
+TR026-Ga	TR026-Ga:LP-DIR-T	TR026-G				HT1	90.1	-54.3	2	10	0	1.6	5.5	965	947	K		hargrave 2018-03-02 10:57:52	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Quick_River	TR026
+TR026-Ga	TR026-Ga:LP-DIR-T	TR026-G				LT1	24.8	46.3	2	6	100	87.4	10.3	623	273	K		hargrave 2018-03-02 10:57:52	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Quick_River	TR026
+TR026-Ga	TR026-Ga:LP-DIR-T	TR026-G				HT1	34.7	-76.1	2	10	100	1.6	5.5	965	947	K		hargrave 2018-03-02 10:57:52	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Quick_River	TR026
+TR026-Ha	TR026-Ha:LP-DIR-T	TR026-H				HT1	31.6	-82.6	2	10	100	0.0	3.1	965	947	K		hargrave 2018-03-02 12:14:20	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Quick_River	TR026
+TR026-Ha	TR026-Ha:LP-DIR-T	TR026-H				LT1	32.9	52.4	2	3	100	108.9	7.6	473	273	K		hargrave 2018-03-02 12:14:20	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Quick_River	TR026
+TR026-Ha	TR026-Ha:LP-DIR-T	TR026-H				HT1	100.1	-57.5	2	10	0	0.0	3.1	965	947	K		hargrave 2018-03-02 12:14:20	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Quick_River	TR026
+TR026-Ha	TR026-Ha:LP-DIR-T	TR026-H				HT1	33.9	-16.6	2	10	-1	0.0	3.1	965	947	K		hargrave 2018-03-02 12:14:20	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Quick_River	TR026
+TR026-Ha	TR026-Ha:LP-DIR-T	TR026-H				LT1	208.5	61.5	2	3	-1	108.9	7.6	473	273	K		hargrave 2018-03-02 12:14:20	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Quick_River	TR026
+TR026-Ha	TR026-Ha:LP-DIR-T	TR026-H				LT1	355.8	46.9	2	3	0	108.9	7.6	473	273	K		hargrave 2018-03-02 12:14:20	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Quick_River	TR026
+TR026-Ia	TR026-Ia:LP-DIR-T	TR026-I				LT1	356.2	53.4	2	3	100	129.4	7.9	473	273	K		hargrave 2018-03-02 11:00:42	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Quick_River	TR026
+TR026-Ia	TR026-Ia:LP-DIR-T	TR026-I				HT1	101.8	-49.1	2	11	0	0.0	2.3	965	945	K		hargrave 2018-03-02 11:00:42	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Quick_River	TR026
+TR026-Ia	TR026-Ia:LP-DIR-T	TR026-I				HT1	73.9	-77.6	2	11	100	0.0	2.3	965	945	K		hargrave 2018-03-02 11:00:42	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Quick_River	TR026
+TR026-Ia	TR026-Ia:LP-DIR-T	TR026-I				HT1	42.8	-15.6	2	11	-1	0.0	2.3	965	945	K		hargrave 2018-03-02 11:00:42	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Quick_River	TR026
+TR026-Ia	TR026-Ia:LP-DIR-T	TR026-I				LT1	244.8	52.4	2	3	-1	129.4	7.9	473	273	K		hargrave 2018-03-02 11:00:42	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Quick_River	TR026
+TR026-Ia	TR026-Ia:LP-DIR-T	TR026-I				LT1	333.0	33.3	2	3	0	129.4	7.9	473	273	K		hargrave 2018-03-02 11:00:42	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Quick_River	TR026
+TR026-Ja	TR026-Ja:LP-DIR-T	TR026-J				LT1	188.6	62.8	2	3	-1	89.3	9.1	473	273	K		hargrave 2018-03-02 11:02:08	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Quick_River	TR026
+TR026-Ja	TR026-Ja:LP-DIR-T	TR026-J				HT1	51.0	-7.9	2	11	-1	0.0	3.2	965	945	K		hargrave 2018-03-02 11:02:08	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Quick_River	TR026
+TR026-Ja	TR026-Ja:LP-DIR-T	TR026-J				LT1	12.9	43.8	2	3	0	89.3	9.1	473	273	K		hargrave 2018-03-02 11:02:08	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Quick_River	TR026
+TR026-Ja	TR026-Ja:LP-DIR-T	TR026-J				HT1	104.5	-39.5	2	11	0	0.0	3.2	965	945	K		hargrave 2018-03-02 11:02:08	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Quick_River	TR026
+TR026-Ja	TR026-Ja:LP-DIR-T	TR026-J				LT1	42.3	41.7	2	3	100	89.3	9.1	473	273	K		hargrave 2018-03-02 11:02:08	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Quick_River	TR026
+TR026-Ja	TR026-Ja:LP-DIR-T	TR026-J				HT1	92.9	-69.3	2	11	100	0.0	3.2	965	945	K		hargrave 2018-03-02 11:02:08	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Quick_River	TR026
+TR035-AAa	TR035-AAa:LP-DIR-T	TR035-AA				LT1	357.8	33.8	2	7	100	23.8	31.4	723	273	K		hargrave 2018-02-28 16:47:41	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Luoman2	TR035
+TR035-AAa	TR035-AAa:LP-DIR-T	TR035-AA				HT1	11.8	56.1	2	12	100	0.0	8.1	963	938	K		hargrave 2018-02-28 16:47:41	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Luoman2	TR035
+TR035-AAa	TR035-AAa:LP-DIR-T	TR035-AA				HT1	14.9	75.6	2	12	0	0.0	8.1	963	938	K		hargrave 2018-02-28 16:47:41	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Luoman2	TR035
+TR035-AAa	TR035-AAa:LP-DIR-T	TR035-AA				LT1	216.9	-2.6	2	7	-1	23.8	31.4	723	273	K		hargrave 2018-02-28 16:47:41	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Luoman2	TR035
+TR035-AAa	TR035-AAa:LP-DIR-T	TR035-AA				HT1	194.0	5.5	2	12	-1	0.0	8.1	963	938	K		hargrave 2018-02-28 16:47:41	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Luoman2	TR035
+TR035-AAa	TR035-AAa:LP-DIR-T	TR035-AA				LT1	353.3	52.8	2	7	0	23.8	31.4	723	273	K		hargrave 2018-02-28 16:47:41	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Luoman2	TR035
+TR035-Aa	TR035-Aa:LP-DIR-T	TR035-A				LT1	225.3	17.3	1	7	-1	59.4	7.9	748	373	K		hargrave 2018-02-28 16:12:35	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Luoman2	TR035
+TR035-Aa	TR035-Aa:LP-DIR-T	TR035-A				LT1	29.8	46.4	1	7	0	59.4	7.9	748	373	K		hargrave 2018-02-28 16:12:35	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Luoman2	TR035
+TR035-Aa	TR035-Aa:LP-DIR-T	TR035-A				LT1	21.3	23.9	1	7	100	59.4	7.9	748	373	K		hargrave 2018-02-28 16:12:35	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Luoman2	TR035
+TR035-BBa	TR035-BBa:LP-DIR-T	TR035-BB				LT1	194.2	-3.2	1	4	-1	15.3	4.4	573	273	K		hargrave 2018-02-28 16:49:03	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Luoman2	TR035
+TR035-BBa	TR035-BBa:LP-DIR-T	TR035-BB				LT1	8.4	75.4	1	4	0	15.3	4.4	573	273	K		hargrave 2018-02-28 16:49:03	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Luoman2	TR035
+TR035-BBa	TR035-BBa:LP-DIR-T	TR035-BB				LT1	8.9	55.9	1	4	100	15.3	4.4	573	273	K		hargrave 2018-02-28 16:49:03	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Luoman2	TR035
+TR035-Ba	TR035-Ba:LP-DIR-T	TR035-B				LT1	227.8	-10.2	1	11	-1	13.7	6.8	823	273	K		hargrave 2018-02-28 16:14:10	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Luoman2	TR035
+TR035-Ba	TR035-Ba:LP-DIR-T	TR035-B				LT1	4.2	40.9	1	11	0	13.7	6.8	823	273	K		hargrave 2018-02-28 16:14:10	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Luoman2	TR035
+TR035-Ba	TR035-Ba:LP-DIR-T	TR035-B				LT1	2.8	15.8	1	11	100	13.7	6.8	823	273	K		hargrave 2018-02-28 16:14:10	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Luoman2	TR035
+TR035-CCa	TR035-CCa:LP-DIR-T	TR035-CC				LT1	240.1	6.3	1	4	-1	40.1	7.1	573	273	K		hargrave 2018-02-28 16:50:27	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Luoman2	TR035
+TR035-CCa	TR035-CCa:LP-DIR-T	TR035-CC				LT1	19.4	28.6	1	4	0	40.1	7.1	573	273	K		hargrave 2018-02-28 16:50:27	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Luoman2	TR035
+TR035-CCa	TR035-CCa:LP-DIR-T	TR035-CC				LT1	18.3	9.3	1	4	100	40.1	7.1	573	273	K		hargrave 2018-02-28 16:50:27	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Luoman2	TR035
+TR035-Ca	TR035-Ca:LP-DIR-T	TR035-C				LT1	47.7	41.6	1	7	0	38.8	12.2	828	673	K		hargrave 2018-02-28 16:15:39	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Luoman2	TR035
+TR035-Ca	TR035-Ca:LP-DIR-T	TR035-C				LT1	36.3	23.3	1	7	100	38.8	12.2	828	673	K		hargrave 2018-02-28 16:15:39	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Luoman2	TR035
+TR035-Ca	TR035-Ca:LP-DIR-T	TR035-C				LT1	226.5	23.3	1	7	-1	38.8	12.2	828	673	K		hargrave 2018-02-28 16:15:39	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Luoman2	TR035
+TR035-DDa	TR035-DDa:LP-DIR-T	TR035-DD				LT1	243.6	-5.0	2	4	-1	38.9	23.5	573	273	K		hargrave 2018-02-28 16:51:50	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Luoman2	TR035
+TR035-DDa	TR035-DDa:LP-DIR-T	TR035-DD				HT1	202.8	30.6	2	6	-1	0.0	10.2	963	953	K		hargrave 2018-02-28 16:51:50	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Luoman2	TR035
+TR035-DDa	TR035-DDa:LP-DIR-T	TR035-DD				LT1	17.3	26.6	2	4	0	38.9	23.5	573	273	K		hargrave 2018-02-28 16:51:50	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Luoman2	TR035
+TR035-DDa	TR035-DDa:LP-DIR-T	TR035-DD				HT1	80.1	49.9	2	6	0	0.0	10.2	963	953	K		hargrave 2018-02-28 16:51:50	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Luoman2	TR035
+TR035-DDa	TR035-DDa:LP-DIR-T	TR035-DD				LT1	16.5	7.2	2	4	100	38.9	23.5	573	273	K		hargrave 2018-02-28 16:51:50	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Luoman2	TR035
+TR035-DDa	TR035-DDa:LP-DIR-T	TR035-DD				HT1	62.5	40.6	2	6	100	0.0	10.2	963	953	K		hargrave 2018-02-28 16:51:50	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Luoman2	TR035
+TR035-Da	TR035-Da:LP-DIR-T	TR035-D				LT1	232.7	5.5	2	6	-1	77.6	8.5	673	273	K		hargrave 2018-02-28 16:17:10	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Luoman2	TR035
+TR035-Da	TR035-Da:LP-DIR-T	TR035-D				HT1	138.3	34.9	2	8	-1	0.0	14.8	943	903	K		hargrave 2018-02-28 16:17:10	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Luoman2	TR035
+TR035-Da	TR035-Da:LP-DIR-T	TR035-D				LT1	12.7	37.3	2	6	0	77.6	8.5	673	273	K		hargrave 2018-02-28 16:17:10	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Luoman2	TR035
+TR035-Da	TR035-Da:LP-DIR-T	TR035-D				HT1	142.1	39.2	2	8	0	0.0	14.8	943	903	K		hargrave 2018-02-28 16:17:10	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Luoman2	TR035
+TR035-Da	TR035-Da:LP-DIR-T	TR035-D				LT1	9.9	12.8	2	6	100	77.6	8.5	673	273	K		hargrave 2018-02-28 16:17:10	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Luoman2	TR035
+TR035-Da	TR035-Da:LP-DIR-T	TR035-D				HT1	121.3	57.1	2	8	100	0.0	14.8	943	903	K		hargrave 2018-02-28 16:17:10	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Luoman2	TR035
+TR035-FFa	TR035-FFa:LP-DIR-T	TR035-FF				LT1	43.4	40.0	2	3	100	0.0	0.4	473	273	K		hargrave 2018-02-28 16:53:15	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Luoman2	TR035
+TR035-FFa	TR035-FFa:LP-DIR-T	TR035-FF				HT1	39.5	27.1	2	5	100	11.7	23.5	963	955	K		hargrave 2018-02-28 16:53:15	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Luoman2	TR035
+TR035-FFa	TR035-FFa:LP-DIR-T	TR035-FF				HT1	47.3	43.3	2	5	0	11.7	23.5	963	955	K		hargrave 2018-02-28 16:53:15	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Luoman2	TR035
+TR035-FFa	TR035-FFa:LP-DIR-T	TR035-FF				LT1	216.8	33.0	2	3	-1	0.0	0.4	473	273	K		hargrave 2018-02-28 16:53:15	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Luoman2	TR035
+TR035-FFa	TR035-FFa:LP-DIR-T	TR035-FF				HT1	230.7	27.2	2	5	-1	11.7	23.5	963	955	K		hargrave 2018-02-28 16:53:15	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Luoman2	TR035
+TR035-FFa	TR035-FFa:LP-DIR-T	TR035-FF				LT1	57.6	54.8	2	3	0	0.0	0.4	473	273	K		hargrave 2018-02-28 16:53:15	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Luoman2	TR035
+TR035-Fa	TR035-Fa:LP-DIR-T	TR035-F				LT1	229.9	-9.3	1	15	-1	28.1	3.2	843	273	K		hargrave 2018-02-28 16:18:44	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Luoman2	TR035
+TR035-Fa	TR035-Fa:LP-DIR-T	TR035-F				LT1	8.4	40.3	1	15	0	28.1	3.2	843	273	K		hargrave 2018-02-28 16:18:44	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Luoman2	TR035
+TR035-Fa	TR035-Fa:LP-DIR-T	TR035-F				LT1	6.2	15.5	1	15	100	28.1	3.2	843	273	K		hargrave 2018-02-28 16:18:44	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Luoman2	TR035
+TR035-GGa	TR035-GGa:LP-DIR-T	TR035-GG				HT1	197.9	32.2	1	7	-1	0.0	6.3	963	951	K		hargrave 2018-02-28 16:54:45	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Luoman2	TR035
+TR035-GGa	TR035-GGa:LP-DIR-T	TR035-GG				HT1	75.2	61.5	1	7	0	0.0	6.3	963	951	K		hargrave 2018-02-28 16:54:45	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Luoman2	TR035
+TR035-GGa	TR035-GGa:LP-DIR-T	TR035-GG				HT1	51.7	49.7	1	7	100	0.0	6.3	963	951	K		hargrave 2018-02-28 16:54:45	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Luoman2	TR035
+TR035-Ga	TR035-Ga:LP-DIR-T	TR035-G				HT1	167.4	6.4	2	11	100	0.0	12.9	963	943	K		hargrave 2018-02-28 16:20:22	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Luoman2	TR035
+TR035-Ga	TR035-Ga:LP-DIR-T	TR035-G				LT1	6.4	7.5	2	9	100	166.4	13.0	773	273	K		hargrave 2018-02-28 16:20:22	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Luoman2	TR035
+TR035-Ga	TR035-Ga:LP-DIR-T	TR035-G				HT1	166.9	-18.4	2	11	0	0.0	12.9	963	943	K		hargrave 2018-02-28 16:20:22	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Luoman2	TR035
+TR035-Ga	TR035-Ga:LP-DIR-T	TR035-G				HT1	70.9	35.6	2	11	-1	0.0	12.9	963	943	K		hargrave 2018-02-28 16:20:22	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Luoman2	TR035
+TR035-Ga	TR035-Ga:LP-DIR-T	TR035-G				LT1	237.7	-15.2	2	9	-1	166.4	13.0	773	273	K		hargrave 2018-02-28 16:20:22	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Luoman2	TR035
+TR035-Ga	TR035-Ga:LP-DIR-T	TR035-G				LT1	7.9	32.4	2	9	0	166.4	13.0	773	273	K		hargrave 2018-02-28 16:20:22	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Luoman2	TR035
+TR035-HHa	TR035-HHa:LP-DIR-T	TR035-HH				LT1	223.7	3.2	2	9	-1	25.1	17.9	773	273	K		hargrave 2018-02-28 16:56:17	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Luoman2	TR035
+TR035-HHa	TR035-HHa:LP-DIR-T	TR035-HH				HT1	184.9	11.1	2	6	-1	6.1	8.0	963	953	K		hargrave 2018-02-28 16:56:17	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Luoman2	TR035
+TR035-HHa	TR035-HHa:LP-DIR-T	TR035-HH				LT1	17.8	46.4	2	9	0	25.1	17.9	773	273	K		hargrave 2018-02-28 16:56:17	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Luoman2	TR035
+TR035-HHa	TR035-HHa:LP-DIR-T	TR035-HH				HT1	73.1	81.4	2	6	0	6.1	8.0	963	953	K		hargrave 2018-02-28 16:56:17	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Luoman2	TR035
+TR035-HHa	TR035-HHa:LP-DIR-T	TR035-HH				LT1	15.8	27.1	2	9	100	25.1	17.9	773	273	K		hargrave 2018-02-28 16:56:17	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Luoman2	TR035
+TR035-HHa	TR035-HHa:LP-DIR-T	TR035-HH				HT1	28.2	65.5	2	6	100	6.1	8.0	963	953	K		hargrave 2018-02-28 16:56:17	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Luoman2	TR035
+TR035-Ha	TR035-Ha:LP-DIR-T	TR035-H				LT1	11.0	19.6	1	11	100	80.3	3.9	828	373	K		hargrave 2018-02-28 16:22:01	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Luoman2	TR035
+TR035-Ha	TR035-Ha:LP-DIR-T	TR035-H				LT1	217.6	-18.9	1	11	-1	80.3	3.9	828	373	K		hargrave 2018-02-28 16:22:01	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Luoman2	TR035
+TR035-Ha	TR035-Ha:LP-DIR-T	TR035-H				LT1	11.4	39.1	1	11	0	80.3	3.9	828	373	K		hargrave 2018-02-28 16:22:01	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Luoman2	TR035
+TR035-IIa	TR035-IIa:LP-DIR-T	TR035-II				HT1	48.9	35.3	1	14	100	0.0	5.6	963	949	K		hargrave 2018-02-28 16:58:04	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Luoman2	TR035
+TR035-IIa	TR035-IIa:LP-DIR-T	TR035-II				HT1	61.8	49.0	1	14	0	0.0	5.6	963	949	K		hargrave 2018-02-28 16:58:04	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Luoman2	TR035
+TR035-IIa	TR035-IIa:LP-DIR-T	TR035-II				HT1	205.9	47.9	1	14	-1	0.0	5.6	963	949	K		hargrave 2018-02-28 16:58:04	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Luoman2	TR035
+TR035-Ia	TR035-Ia:LP-DIR-T	TR035-I				LT1	170.4	17.4	1	10	-1	20.1	5.8	798	273	K		hargrave 2018-02-28 12:01:38	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Luoman2	TR035
+TR035-Ia	TR035-Ia:LP-DIR-T	TR035-I				LT1	15.6	43.0	1	10	0	20.1	5.8	798	273	K		hargrave 2018-02-28 12:01:38	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Luoman2	TR035
+TR035-Ia	TR035-Ia:LP-DIR-T	TR035-I				LT1	14.3	23.6	1	10	100	20.1	5.8	798	273	K		hargrave 2018-02-28 12:01:38	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Luoman2	TR035
+TR035-JJa	TR035-JJa:LP-DIR-T	TR035-JJ				LT1	238.5	15.0	2	8	-1	46.0	30.0	798	473	K		hargrave 2018-02-28 16:59:38	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Luoman2	TR035
+TR035-JJa	TR035-JJa:LP-DIR-T	TR035-JJ				HT1	185.4	26.9	2	13	-1	0.0	9.7	963	949	K		hargrave 2018-02-28 16:59:38	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Luoman2	TR035
+TR035-JJa	TR035-JJa:LP-DIR-T	TR035-JJ				LT1	6.2	33.5	2	8	0	46.0	30.0	798	473	K		hargrave 2018-02-28 16:59:38	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Luoman2	TR035
+TR035-JJa	TR035-JJa:LP-DIR-T	TR035-JJ				HT1	66.6	76.2	2	13	0	0.0	9.7	963	949	K		hargrave 2018-02-28 16:59:38	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Luoman2	TR035
+TR035-JJa	TR035-JJa:LP-DIR-T	TR035-JJ				LT1	6.6	14.0	2	8	100	46.0	30.0	798	473	K		hargrave 2018-02-28 16:59:38	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Luoman2	TR035
+TR035-JJa	TR035-JJa:LP-DIR-T	TR035-JJ				HT1	33.6	60.7	2	13	100	0.0	9.7	963	949	K		hargrave 2018-02-28 16:59:38	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Luoman2	TR035
+TR035-Ja	TR035-Ja:LP-DIR-T	TR035-J				LT1	231.3	-3.1	1	6	-1	12.5	15.8	823	673	K		hargrave 2018-02-28 16:23:35	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Luoman2	TR035
+TR035-Ja	TR035-Ja:LP-DIR-T	TR035-J				LT1	11.6	35.6	1	6	0	12.5	15.8	823	673	K		hargrave 2018-02-28 16:23:35	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Luoman2	TR035
+TR035-Ja	TR035-Ja:LP-DIR-T	TR035-J				LT1	11.2	16.1	1	6	100	12.5	15.8	823	673	K		hargrave 2018-02-28 16:23:35	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Luoman2	TR035
+TR035-KKa	TR035-KKa:LP-DIR-T	TR035-KK				HT1	252.5	55.2	2	7	100	0.0	4.2	963	951	K		hargrave 2018-02-28 17:02:25	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Luoman2	TR035
+TR035-KKa	TR035-KKa:LP-DIR-T	TR035-KK				LT1	355.9	32.9	2	8	100	55.1	11.7	798	473	K		hargrave 2018-02-28 17:02:25	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Luoman2	TR035
+TR035-KKa	TR035-KKa:LP-DIR-T	TR035-KK				HT1	233.9	43.4	2	7	0	0.0	4.2	963	951	K		hargrave 2018-02-28 17:02:25	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Luoman2	TR035
+TR035-KKa	TR035-KKa:LP-DIR-T	TR035-KK				LT1	217.4	-2.8	2	8	-1	55.1	11.7	798	473	K		hargrave 2018-02-28 17:02:25	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Luoman2	TR035
+TR035-KKa	TR035-KKa:LP-DIR-T	TR035-KK				HT1	148.2	-29.1	2	7	-1	0.0	4.2	963	951	K		hargrave 2018-02-28 17:02:25	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Luoman2	TR035
+TR035-KKa	TR035-KKa:LP-DIR-T	TR035-KK				LT1	351.0	51.7	2	8	0	55.1	11.7	798	473	K		hargrave 2018-02-28 17:02:25	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Luoman2	TR035
+TR035-Ka	TR035-Ka:LP-DIR-T	TR035-K				LT1	226.3	11.3	2	9	-1	69.2	6.6	823	473	K		hargrave 2018-02-28 16:25:07	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Luoman2	TR035
+TR035-Ka	TR035-Ka:LP-DIR-T	TR035-K				HT1	114.5	9.1	2	8	-1	38.9	10.1	961	947	K		hargrave 2018-02-28 16:25:07	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Luoman2	TR035
+TR035-Ka	TR035-Ka:LP-DIR-T	TR035-K				LT1	5.5	44.8	2	9	0	69.2	6.6	823	473	K		hargrave 2018-02-28 16:25:07	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Luoman2	TR035
+TR035-Ka	TR035-Ka:LP-DIR-T	TR035-K				HT1	185.9	26.0	2	8	0	38.9	10.1	961	947	K		hargrave 2018-02-28 16:25:07	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Luoman2	TR035
+TR035-Ka	TR035-Ka:LP-DIR-T	TR035-K				LT1	6.3	25.4	2	9	100	69.2	6.6	823	473	K		hargrave 2018-02-28 16:25:07	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Luoman2	TR035
+TR035-Ka	TR035-Ka:LP-DIR-T	TR035-K				HT1	185.0	45.5	2	8	100	38.9	10.1	961	947	K		hargrave 2018-02-28 16:25:07	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Luoman2	TR035
+TR035-LLa	TR035-LLa:LP-DIR-T	TR035-LL				LT1	354.7	28.3	2	11	100	47.6	7.3	823	273	K		hargrave 2018-02-28 17:03:52	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Luoman2	TR035
+TR035-LLa	TR035-LLa:LP-DIR-T	TR035-LL				HT1	266.7	39.5	2	17	100	0.0	15.8	963	947	K		hargrave 2018-02-28 17:03:52	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Luoman2	TR035
+TR035-LLa	TR035-LLa:LP-DIR-T	TR035-LL				HT1	253.0	32.9	2	17	0	0.0	15.8	963	947	K		hargrave 2018-02-28 17:03:52	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Luoman2	TR035
+TR035-LLa	TR035-LLa:LP-DIR-T	TR035-LL				LT1	350.3	47.0	2	11	0	47.6	7.3	823	273	K		hargrave 2018-02-28 17:03:52	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Luoman2	TR035
+TR035-LLa	TR035-LLa:LP-DIR-T	TR035-LL				HT1	167.6	-51.1	2	17	-1	0.0	15.8	963	947	K		hargrave 2018-02-28 17:03:52	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Luoman2	TR035
+TR035-LLa	TR035-LLa:LP-DIR-T	TR035-LL				LT1	223.0	2.3	2	11	-1	47.6	7.3	823	273	K		hargrave 2018-02-28 17:03:52	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Luoman2	TR035
+TR035-La	TR035-La:LP-DIR-T	TR035-L				LT1	232.3	11.4	1	12	-1	10.8	12.1	848	623	K		hargrave 2018-02-28 16:26:55	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Luoman2	TR035
+TR035-La	TR035-La:LP-DIR-T	TR035-L				LT1	359.2	39.1	1	12	0	10.8	12.1	848	623	K		hargrave 2018-02-28 16:26:55	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Luoman2	TR035
+TR035-La	TR035-La:LP-DIR-T	TR035-L				LT1	1.0	19.9	1	12	100	10.8	12.1	848	623	K		hargrave 2018-02-28 16:26:55	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Luoman2	TR035
+TR035-NNa	TR035-NNa:LP-DIR-T	TR035-NN				LT1	229.6	16.4	2	9	-1	36.0	15.0	823	473	K		hargrave 2018-02-28 17:05:17	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Luoman2	TR035
+TR035-NNa	TR035-NNa:LP-DIR-T	TR035-NN				HT1	187.1	8.7	2	23	-1	0.0	20.3	963	928	K		hargrave 2018-02-28 17:05:17	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Luoman2	TR035
+TR035-NNa	TR035-NNa:LP-DIR-T	TR035-NN				LT1	4.5	41.6	2	9	0	36.0	15.0	823	473	K		hargrave 2018-02-28 17:05:17	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Luoman2	TR035
+TR035-NNa	TR035-NNa:LP-DIR-T	TR035-NN				HT1	334.9	82.7	2	23	0	0.0	20.3	963	928	K		hargrave 2018-02-28 17:05:17	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Luoman2	TR035
+TR035-NNa	TR035-NNa:LP-DIR-T	TR035-NN				LT1	5.4	22.2	2	9	100	36.0	15.0	823	473	K		hargrave 2018-02-28 17:05:17	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Luoman2	TR035
+TR035-NNa	TR035-NNa:LP-DIR-T	TR035-NN				HT1	359.8	64.1	2	23	100	0.0	20.3	963	928	K		hargrave 2018-02-28 17:05:17	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Luoman2	TR035
+TR035-Na	TR035-Na:LP-DIR-T	TR035-N				HT1	53.5	37.0	2	12	100	0.0	18.4	963	947	K		hargrave 2018-02-28 16:29:45	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Luoman2	TR035
+TR035-Na	TR035-Na:LP-DIR-T	TR035-N				LT1	20.8	32.1	2	7	100	35.3	10.9	823	623	K		hargrave 2018-02-28 16:29:45	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Luoman2	TR035
+TR035-Na	TR035-Na:LP-DIR-T	TR035-N				HT1	67.9	49.3	2	12	0	0.0	18.4	963	947	K		hargrave 2018-02-28 16:29:45	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Luoman2	TR035
+TR035-Na	TR035-Na:LP-DIR-T	TR035-N				LT1	24.8	51.1	2	7	0	35.3	10.9	823	623	K		hargrave 2018-02-28 16:29:45	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Luoman2	TR035
+TR035-Na	TR035-Na:LP-DIR-T	TR035-N				HT1	201.7	39.6	2	12	-1	0.0	18.4	963	947	K		hargrave 2018-02-28 16:29:45	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Luoman2	TR035
+TR035-Na	TR035-Na:LP-DIR-T	TR035-N				LT1	217.6	16.1	2	7	-1	35.3	10.9	823	623	K		hargrave 2018-02-28 16:29:45	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Luoman2	TR035
+TR035-PPa	TR035-PPa:LP-DIR-T	TR035-PP				LT1	220.7	17.9	2	8	-1	76.5	8.9	773	373	K		hargrave 2018-02-28 17:06:41	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Luoman2	TR035
+TR035-PPa	TR035-PPa:LP-DIR-T	TR035-PP				HT1	171.5	11.5	2	18	-1	0.0	23.6	963	928	K		hargrave 2018-02-28 17:06:41	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Luoman2	TR035
+TR035-PPa	TR035-PPa:LP-DIR-T	TR035-PP				LT1	8.3	49.8	2	8	0	76.5	8.9	773	373	K		hargrave 2018-02-28 17:06:41	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Luoman2	TR035
+TR035-PPa	TR035-PPa:LP-DIR-T	TR035-PP				HT1	161.0	81.5	2	18	0	0.0	23.6	963	928	K		hargrave 2018-02-28 17:06:41	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Luoman2	TR035
+TR035-PPa	TR035-PPa:LP-DIR-T	TR035-PP				LT1	8.6	30.3	2	8	100	76.5	8.9	773	373	K		hargrave 2018-02-28 17:06:41	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Luoman2	TR035
+TR035-PPa	TR035-PPa:LP-DIR-T	TR035-PP				HT1	27.8	77.3	2	18	100	0.0	23.6	963	928	K		hargrave 2018-02-28 17:06:41	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Luoman2	TR035
+TR035-Pa	TR035-Pa:LP-DIR-T	TR035-P				LT1	232.8	12.5	1	11	-1	65.3	4.3	823	273	K		hargrave 2018-02-28 16:31:15	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Luoman2	TR035
+TR035-Pa	TR035-Pa:LP-DIR-T	TR035-P				LT1	348.4	39.0	1	11	0	65.3	4.3	823	273	K		hargrave 2018-02-28 16:31:15	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Luoman2	TR035
+TR035-Pa	TR035-Pa:LP-DIR-T	TR035-P				LT1	352.1	20.5	1	11	100	65.3	4.3	823	273	K		hargrave 2018-02-28 16:31:15	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Luoman2	TR035
+TR035-Qa		TR035-Q																								Luoman2	TR035
+TR035-RRa		TR035-RR																								Luoman2	TR035
+TR035-Ra		TR035-R																								Luoman2	TR035
+TR035-SSa	TR035-SSa:LP-DIR-T	TR035-SS				LT1	10.3	27.0	1	11	100	23.0	7.2	838	573	K		hargrave 2018-02-28 17:09:33	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Luoman2	TR035
+TR035-SSa	TR035-SSa:LP-DIR-T	TR035-SS				LT1	217.1	11.4	1	11	-1	23.0	7.2	838	573	K		hargrave 2018-02-28 17:09:33	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Luoman2	TR035
+TR035-SSa	TR035-SSa:LP-DIR-T	TR035-SS				LT1	10.6	46.5	1	11	0	23.0	7.2	838	573	K		hargrave 2018-02-28 17:09:33	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Luoman2	TR035
+TR035-Sa		TR035-S																								Luoman2	TR035
+TR035-TTa	TR035-TTa:LP-DIR-T	TR035-TT				LT1	12.0	35.8	2	12	0	28.6	13.4	828	273	K		hargrave 2018-02-28 17:11:03	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Luoman2	TR035
+TR035-TTa	TR035-TTa:LP-DIR-T	TR035-TT				LT1	233.1	-3.0	2	12	-1	28.6	13.4	828	273	K		hargrave 2018-02-28 17:11:03	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Luoman2	TR035
+TR035-TTa	TR035-TTa:LP-DIR-T	TR035-TT				HT1	251.2	29.3	2	25	-1	0.0	12.6	963	903	K		hargrave 2018-02-28 17:11:03	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Luoman2	TR035
+TR035-TTa	TR035-TTa:LP-DIR-T	TR035-TT				HT1	50.4	20.7	2	25	0	0.0	12.6	963	903	K		hargrave 2018-02-28 17:11:03	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Luoman2	TR035
+TR035-TTa	TR035-TTa:LP-DIR-T	TR035-TT				HT1	47.4	5.7	2	25	100	0.0	12.6	963	903	K		hargrave 2018-02-28 17:11:03	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Luoman2	TR035
+TR035-TTa	TR035-TTa:LP-DIR-T	TR035-TT				LT1	11.6	16.3	2	12	100	28.6	13.4	828	273	K		hargrave 2018-02-28 17:11:03	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Luoman2	TR035
+TR035-Ta	TR035-Ta:LP-DIR-T	TR035-T				LT1	357.5	48.2	2	3	0	52.9	7.6	723	623	K		hargrave 2018-02-28 16:37:13	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Luoman2	TR035
+TR035-Ta	TR035-Ta:LP-DIR-T	TR035-T				HT1	170.8	77.4	2	13	0	0.0	20.1	963	933	K		hargrave 2018-02-28 16:37:13	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Luoman2	TR035
+TR035-Ta	TR035-Ta:LP-DIR-T	TR035-T				LT1	0.3	29.0	2	3	100	52.9	7.6	723	623	K		hargrave 2018-02-28 16:37:13	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Luoman2	TR035
+TR035-Ta	TR035-Ta:LP-DIR-T	TR035-T				HT1	37.2	81.5	2	13	100	0.0	20.1	963	933	K		hargrave 2018-02-28 16:37:13	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Luoman2	TR035
+TR035-Ta	TR035-Ta:LP-DIR-T	TR035-T				LT1	199.5	-34.6	2	3	-1	52.9	7.6	723	623	K		hargrave 2018-02-28 16:37:13	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Luoman2	TR035
+TR035-Ta	TR035-Ta:LP-DIR-T	TR035-T				HT1	176.1	15.0	2	13	-1	0.0	20.1	963	933	K		hargrave 2018-02-28 16:37:13	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Luoman2	TR035
+TR035-Ua	TR035-Ua:LP-DIR-T	TR035-U				HT1	200.5	16.9	2	11	-1	0.0	11.9	963	943	K		hargrave 2018-02-28 16:38:41	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Luoman2	TR035
+TR035-Ua	TR035-Ua:LP-DIR-T	TR035-U				LT1	26.2	33.1	2	4	0	54.9	6.1	748	623	K		hargrave 2018-02-28 16:38:41	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Luoman2	TR035
+TR035-Ua	TR035-Ua:LP-DIR-T	TR035-U				HT1	108.7	64.3	2	11	0	0.0	11.9	963	943	K		hargrave 2018-02-28 16:38:41	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Luoman2	TR035
+TR035-Ua	TR035-Ua:LP-DIR-T	TR035-U				LT1	23.9	14.3	2	4	100	54.9	6.1	748	623	K		hargrave 2018-02-28 16:38:41	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Luoman2	TR035
+TR035-Ua	TR035-Ua:LP-DIR-T	TR035-U				HT1	70.5	60.8	2	11	100	0.0	11.9	963	943	K		hargrave 2018-02-28 16:38:41	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Luoman2	TR035
+TR035-Ua	TR035-Ua:LP-DIR-T	TR035-U				LT1	227.8	-34.1	2	4	-1	54.9	6.1	748	623	K		hargrave 2018-02-28 16:38:41	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Luoman2	TR035
+TR035-Va		TR035-V																								Luoman2	TR035
+TR035-Wa	TR035-Wa:LP-DIR-T	TR035-W				LT1	1.4	26.3	1	10	100	28.2	7.5	798	273	K		hargrave 2018-02-28 16:41:39	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Luoman2	TR035
+TR035-Wa	TR035-Wa:LP-DIR-T	TR035-W				LT1	359.1	45.5	1	10	0	28.2	7.5	798	273	K		hargrave 2018-02-28 16:41:39	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Luoman2	TR035
+TR035-Wa	TR035-Wa:LP-DIR-T	TR035-W				LT1	226.2	19.6	1	10	-1	28.2	7.5	798	273	K		hargrave 2018-02-28 16:41:39	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Luoman2	TR035
+TR035-Xa	TR035-Xa:LP-DIR-T	TR035-X				LT1	344.4	35.0	1	11	0	36.6	13.9	823	273	K		hargrave 2018-02-28 16:43:23	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Luoman2	TR035
+TR035-Xa	TR035-Xa:LP-DIR-T	TR035-X				LT1	235.1	1.5	1	11	-1	36.6	13.9	823	273	K		hargrave 2018-02-28 16:43:23	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Luoman2	TR035
+TR035-Xa	TR035-Xa:LP-DIR-T	TR035-X				LT1	348.1	17.0	1	11	100	36.6	13.9	823	273	K		hargrave 2018-02-28 16:43:23	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Luoman2	TR035
+TR035-Ya	TR035-Ya:LP-DIR-T	TR035-Y				HT1	164.0	8.8	1	6	-1	0.0	5.5	963	953	K		hargrave 2018-02-28 16:46:12	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Luoman2	TR035
+TR035-Ya	TR035-Ya:LP-DIR-T	TR035-Y				HT1	160.3	73.6	1	6	0	0.0	5.5	963	953	K		hargrave 2018-02-28 16:46:12	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Luoman2	TR035
+TR035-Ya	TR035-Ya:LP-DIR-T	TR035-Y				HT1	66.5	80.6	1	6	100	0.0	5.5	963	953	K		hargrave 2018-02-28 16:46:12	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Luoman2	TR035
+TR035-Za	TR035-Za:LP-DIR-T	TR035-Z				HT1	139.7	-4.2	1	5	-1	0.0	1.9	963	955	K		hargrave 2018-02-28 12:26:57	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Luoman2	TR035
+TR035-Za	TR035-Za:LP-DIR-T	TR035-Z				HT1	184.7	48.7	1	5	0	0.0	1.9	963	955	K		hargrave 2018-02-28 12:26:57	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Luoman2	TR035
+TR035-Za	TR035-Za:LP-DIR-T	TR035-Z				HT1	181.1	68.1	1	5	100	0.0	1.9	963	955	K		hargrave 2018-02-28 12:26:57	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Luoman2	TR035
+TR036-Aa	TR036-Aa:LP-DIR-T	TR036-A				LT1	165.2	-32.3	1	6	-1	31.9	12.4	833	748	K		hargrave 2018-02-14 17:10:09	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Luoman2	TR036
+TR036-Aa	TR036-Aa:LP-DIR-T	TR036-A				LT1	24.4	54.8	1	6	0	31.9	12.4	833	748	K		hargrave 2018-02-14 17:10:09	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Luoman2	TR036
+TR036-Aa	TR036-Aa:LP-DIR-T	TR036-A				LT1	335.7	-1.2	1	6	100	31.9	12.4	833	748	K		hargrave 2018-02-14 17:10:09	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Luoman2	TR036
+TR036-Ba	TR036-Ba:LP-DIR-T	TR036-B				LT1	339.2	-7.1	1	4	100	11.9	3.6	573	273	K		hargrave 2018-02-14 17:13:18	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Luoman2	TR036
+TR036-Ba	TR036-Ba:LP-DIR-T	TR036-B				LT1	15.8	50.2	1	4	0	11.9	3.6	573	273	K		hargrave 2018-02-14 17:13:18	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Luoman2	TR036
+TR036-Ba	TR036-Ba:LP-DIR-T	TR036-B				LT1	168.7	10.4	1	4	-1	11.9	3.6	573	273	K		hargrave 2018-02-14 17:13:18	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Luoman2	TR036
+TR036-Ca	TR036-Ca:LP-DIR-T	TR036-C				HT1	26.8	33.4	1	8	100	0.0	13.5	961	947	K		hargrave 2018-02-14 17:16:29	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Luoman2	TR036
+TR036-Ca	TR036-Ca:LP-DIR-T	TR036-C				HT1	64.0	4.9	1	8	0	0.0	13.5	961	947	K		hargrave 2018-02-14 17:16:29	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Luoman2	TR036
+TR036-Ca	TR036-Ca:LP-DIR-T	TR036-C				HT1	223.2	-29.6	1	8	-1	0.0	13.5	961	947	K		hargrave 2018-02-14 17:16:29	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Luoman2	TR036
+TR036-Da	TR036-Da:LP-DIR-T	TR036-D				LT1	157.8	-19.2	1	5	-1	11.4	6.4	798	673	K		hargrave 2018-02-14 17:19:38	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Luoman2	TR036
+TR036-Da	TR036-Da:LP-DIR-T	TR036-D				LT1	357.5	-15.4	1	5	100	11.4	6.4	798	673	K		hargrave 2018-02-14 17:19:38	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Luoman2	TR036
+TR036-Da	TR036-Da:LP-DIR-T	TR036-D				LT1	10.7	30.9	1	5	0	11.4	6.4	798	673	K		hargrave 2018-02-14 17:19:38	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Luoman2	TR036
+TR036-Ea	TR036-Ea:LP-DIR-T	TR036-E		10.9	22.9	HT1	301.5	-39.8	2	27	0		29.2	955	723	K		hargrave 2018-02-14 17:21:10	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFP:DA-DIR-GEO	g			Luoman2	TR036
+TR036-Ea	TR036-Ea:LP-DIR-T	TR036-E		175.3	-40.2	HT1	59.3	-27.4	2	27	-1		29.2	955	723	K		hargrave 2018-02-14 17:21:10	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFP:DA-DIR	g			Luoman2	TR036
+TR036-Ea	TR036-Ea:LP-DIR-T	TR036-E				LT1	134.0	-6.9	2	6	-1	39.5	12.9	673	273	K		hargrave 2018-02-14 17:21:10	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Luoman2	TR036
+TR036-Ea	TR036-Ea:LP-DIR-T	TR036-E				LT1	331.3	28.0	2	6	0	39.5	12.9	673	273	K		hargrave 2018-02-14 17:21:10	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Luoman2	TR036
+TR036-Ea	TR036-Ea:LP-DIR-T	TR036-E				LT1	342.2	-47.3	2	6	100	39.5	12.9	673	273	K		hargrave 2018-02-14 17:21:10	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Luoman2	TR036
+TR036-Ea	TR036-Ea:LP-DIR-T	TR036-E		5.6	-16.9	HT1	119.6	-53.2	2	27	100		29.2	955	723	K		hargrave 2018-02-14 17:21:10	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFP:DA-DIR-TILT	g			Luoman2	TR036
+TR036-Ga	TR036-Ga:LP-DIR-T	TR036-G				LT1	18.0	43.0	1	6	0	9.5	9.4	823	673	K		hargrave 2018-02-14 17:24:34	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Luoman2	TR036
+TR036-Ga	TR036-Ga:LP-DIR-T	TR036-G				LT1	346.7	-7.2	1	6	100	9.5	9.4	823	673	K		hargrave 2018-02-14 17:24:34	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Luoman2	TR036
+TR036-Ga	TR036-Ga:LP-DIR-T	TR036-G				LT1	184.3	15.1	1	6	-1	9.5	9.4	823	673	K		hargrave 2018-02-14 17:24:34	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Luoman2	TR036
+TR036-Ha	TR036-Ha:LP-DIR-T	TR036-H				LT1	172.2	-32.8	1	5	-1	24.2	12.8	623	273	K		hargrave 2018-02-14 17:26:06	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Luoman2	TR036
+TR036-Ha	TR036-Ha:LP-DIR-T	TR036-H				LT1	14.3	34.7	1	5	0	24.2	12.8	623	273	K		hargrave 2018-02-14 17:26:06	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Luoman2	TR036
+TR036-Ha	TR036-Ha:LP-DIR-T	TR036-H				LT1	354.4	-11.6	1	5	100	24.2	12.8	623	273	K		hargrave 2018-02-14 17:26:06	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Luoman2	TR036
+TR036-Ia	TR036-Ia:LP-DIR-T	TR036-I				LT1	173.3	-27.6	1	12	-1	11.4	13.9	828	273	K		hargrave 2018-02-14 17:28:49	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Luoman2	TR036
+TR036-Ia	TR036-Ia:LP-DIR-T	TR036-I				LT1	9.5	29.1	1	12	0	11.4	13.9	828	273	K		hargrave 2018-02-14 17:28:49	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Luoman2	TR036
+TR036-Ia	TR036-Ia:LP-DIR-T	TR036-I				LT1	359.1	-16.8	1	12	100	11.4	13.9	828	273	K		hargrave 2018-02-14 17:28:49	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Luoman2	TR036
+TR036-Ja	TR036-Ja:LP-DIR-T	TR036-J				LT1	161.3	-11.3	1	3	-1	14.7	7.0	473	273	K		hargrave 2018-02-14 17:32:02	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Luoman2	TR036
+TR036-Ja	TR036-Ja:LP-DIR-T	TR036-J				LT1	336.4	-19.2	1	3	100	14.7	7.0	473	273	K		hargrave 2018-02-14 17:32:02	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Luoman2	TR036
+TR036-Ja	TR036-Ja:LP-DIR-T	TR036-J				LT1	356.9	48.5	1	3	0	14.7	7.0	473	273	K		hargrave 2018-02-14 17:32:02	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Luoman2	TR036
+TR036-Ka	TR036-Ka:LP-DIR-T	TR036-K		359.3	37.6	HT1	225.2	42.1	2	11	0		10.2	893	773	K		hargrave 2018-02-14 17:33:38	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFP:DA-DIR-GEO	g			Luoman2	TR036
+TR036-Ka	TR036-Ka:LP-DIR-T	TR036-K				LT1	335.4	-15.6	2	3	100	13.6	5.5	473	273	K		hargrave 2018-02-14 17:33:38	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Luoman2	TR036
+TR036-Ka	TR036-Ka:LP-DIR-T	TR036-K		347.7	-22.3	HT1	74.1	8.7	2	11	100		10.2	893	773	K		hargrave 2018-02-14 17:33:38	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFP:DA-DIR-TILT	g			Luoman2	TR036
+TR036-Ka	TR036-Ka:LP-DIR-T	TR036-K		171.9	-22.8	HT1	318.1	-63.2	2	11	-1		10.2	893	773	K		hargrave 2018-02-14 17:33:38	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFP:DA-DIR	g			Luoman2	TR036
+TR036-Ka	TR036-Ka:LP-DIR-T	TR036-K				LT1	1.3	51.0	2	3	0	13.6	5.5	473	273	K		hargrave 2018-02-14 17:33:38	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Luoman2	TR036
+TR036-Ka	TR036-Ka:LP-DIR-T	TR036-K				LT1	167.2	-13.0	2	3	-1	13.6	5.5	473	273	K		hargrave 2018-02-14 17:33:38	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Luoman2	TR036
+TR036-Ma	TR036-Ma:LP-DIR-T	TR036-M				HT1	10.2	-63.3	2	18	100	0.0	11.2	961	945	K		hargrave 2018-02-14 17:36:52	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Luoman2	TR036
+TR036-Ma	TR036-Ma:LP-DIR-T	TR036-M				LT1	8.2	46.8	2	9	0	27.9	7.9	823	473	K		hargrave 2018-02-14 17:36:52	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Luoman2	TR036
+TR036-Ma	TR036-Ma:LP-DIR-T	TR036-M				LT1	187.1	-17.6	2	9	-1	27.9	7.9	823	473	K		hargrave 2018-02-14 17:36:52	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Luoman2	TR036
+TR036-Ma	TR036-Ma:LP-DIR-T	TR036-M				HT1	130.4	-45.5	2	18	-1	0.0	11.2	961	945	K		hargrave 2018-02-14 17:36:52	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Luoman2	TR036
+TR036-Ma	TR036-Ma:LP-DIR-T	TR036-M				HT1	325.8	6.4	2	18	0	0.0	11.2	961	945	K		hargrave 2018-02-14 17:36:52	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Luoman2	TR036
+TR036-Ma	TR036-Ma:LP-DIR-T	TR036-M				LT1	341.2	-12.9	2	9	100	27.9	7.9	823	473	K		hargrave 2018-02-14 17:36:52	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Luoman2	TR036
+TR042-Aa	TR042-Aa:LP-DIR-T	TR042-A				HT1	53.7	-43.4	1	11	-1	0.0	4.4	961	938	K		hargrave 2018-02-26 12:06:57	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Luoman2	TR042
+TR042-Aa	TR042-Aa:LP-DIR-T	TR042-A				HT1	63.2	-50.8	1	11	0	0.0	4.4	961	938	K		hargrave 2018-02-26 12:06:57	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Luoman2	TR042
+TR042-Aa	TR042-Aa:LP-DIR-T	TR042-A				HT1	63.9	-59.2	1	11	100	0.0	4.4	961	938	K		hargrave 2018-02-26 12:06:57	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Luoman2	TR042
+TR042-Ba	TR042-Ba:LP-DIR-T	TR042-B				HT1	126.7	-61.9	1	19	0	0.0	1.1	961	873	K		hargrave 2018-02-26 12:09:15	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Luoman2	TR042
+TR042-Ba	TR042-Ba:LP-DIR-T	TR042-B				HT1	142.7	-64.2	1	19	100	0.0	1.1	961	873	K		hargrave 2018-02-26 12:09:15	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Luoman2	TR042
+TR042-Ba	TR042-Ba:LP-DIR-T	TR042-B				HT1	348.8	-61.2	1	19	-1	0.0	1.1	961	873	K		hargrave 2018-02-26 12:09:15	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Luoman2	TR042
+TR042-Ca	TR042-Ca:LP-DIR-T	TR042-C				LT1	106.7	49.6	2	3	-1	106.6	6.4	473	273	K		hargrave 2018-02-26 12:10:26	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Luoman2	TR042
+TR042-Ca	TR042-Ca:LP-DIR-T	TR042-C				HT1	28.9	-46.6	2	9	-1	0.0	5.9	961	945	K		hargrave 2018-02-26 12:10:26	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Luoman2	TR042
+TR042-Ca	TR042-Ca:LP-DIR-T	TR042-C				LT1	341.4	33.5	2	3	0	106.6	6.4	473	273	K		hargrave 2018-02-26 12:10:26	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Luoman2	TR042
+TR042-Ca	TR042-Ca:LP-DIR-T	TR042-C				HT1	66.5	-62.9	2	9	0	0.0	5.9	961	945	K		hargrave 2018-02-26 12:10:26	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Luoman2	TR042
+TR042-Ca	TR042-Ca:LP-DIR-T	TR042-C				LT1	346.6	31.5	2	3	100	106.6	6.4	473	273	K		hargrave 2018-02-26 12:10:26	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Luoman2	TR042
+TR042-Ca	TR042-Ca:LP-DIR-T	TR042-C				HT1	69.2	-71.2	2	9	100	0.0	5.9	961	945	K		hargrave 2018-02-26 12:10:26	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Luoman2	TR042
+TR042-Da	TR042-Da:LP-DIR-T	TR042-D				HT1	333.9	-41.2	1	8	-1	0.0	2.0	961	947	K		hargrave 2018-02-26 14:42:56	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Luoman2	TR042
+TR042-Da	TR042-Da:LP-DIR-T	TR042-D				HT1	204.7	-64.0	1	8	100	0.0	2.0	961	947	K		hargrave 2018-02-26 14:42:56	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Luoman2	TR042
+TR042-Da	TR042-Da:LP-DIR-T	TR042-D				HT1	191.3	-70.2	1	8	0	0.0	2.0	961	947	K		hargrave 2018-02-26 14:42:56	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Luoman2	TR042
+TR042-Ea	TR042-Ea:LP-DIR-T	TR042-E				HT1	109.0	-64.2	1	8	0	0.0	2.8	961	947	K		hargrave 2018-02-26 12:12:40	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Luoman2	TR042
+TR042-Ea	TR042-Ea:LP-DIR-T	TR042-E				HT1	125.3	-68.9	1	8	100	0.0	2.8	961	947	K		hargrave 2018-02-26 12:12:40	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Luoman2	TR042
+TR042-Ea	TR042-Ea:LP-DIR-T	TR042-E				HT1	5.1	-57.5	1	8	-1	0.0	2.8	961	947	K		hargrave 2018-02-26 12:12:40	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Luoman2	TR042
+TR042-Fa	TR042-Fa:LP-DIR-T	TR042-F				HT1	0.2	-48.3	1	8	-1	0.0	2.9	961	947	K		hargrave 2018-02-26 12:13:47	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Luoman2	TR042
+TR042-Fa	TR042-Fa:LP-DIR-T	TR042-F				HT1	115.9	-62.7	1	8	0	0.0	2.9	961	947	K		hargrave 2018-02-26 12:13:47	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Luoman2	TR042
+TR042-Fa	TR042-Fa:LP-DIR-T	TR042-F				HT1	131.8	-66.4	1	8	100	0.0	2.9	961	947	K		hargrave 2018-02-26 12:13:47	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Luoman2	TR042
+TR042-Ga	TR042-Ga:LP-DIR-T	TR042-G				HT1	359.2	-62.2	1	10	-1	1.3	2.4	961	945	K		hargrave 2018-02-26 14:50:07	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Luoman2	TR042
+TR042-Ga	TR042-Ga:LP-DIR-T	TR042-G				HT1	133.7	-62.2	1	10	100	1.3	2.4	961	945	K		hargrave 2018-02-26 14:50:07	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Luoman2	TR042
+TR042-Ga	TR042-Ga:LP-DIR-T	TR042-G				HT1	120.0	-58.8	1	10	0	1.3	2.4	961	945	K		hargrave 2018-02-26 14:50:07	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Luoman2	TR042
+TR042-Ha	TR042-Ha:LP-DIR-T	TR042-H				HT1	99.0	-66.6	1	8	100	0.0	4.5	961	947	K		hargrave 2018-02-26 12:19:01	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Luoman2	TR042
+TR042-Ha	TR042-Ha:LP-DIR-T	TR042-H				HT1	89.7	-59.6	1	8	0	0.0	4.5	961	947	K		hargrave 2018-02-26 12:19:01	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Luoman2	TR042
+TR042-Ha	TR042-Ha:LP-DIR-T	TR042-H				HT1	31.4	-67.2	1	8	-1	0.0	4.5	961	947	K		hargrave 2018-02-26 12:19:01	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Luoman2	TR042
+TR042-Ia	TR042-Ia:LP-DIR-T	TR042-I				HT1	4.1	-32.5	1	8	-1	1.1	4.8	961	947	K		hargrave 2018-02-26 12:20:12	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Luoman2	TR042
+TR042-Ia	TR042-Ia:LP-DIR-T	TR042-I				HT1	293.8	-70.6	1	8	100	1.1	4.8	961	947	K		hargrave 2018-02-26 12:20:12	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Luoman2	TR042
+TR042-Ia	TR042-Ia:LP-DIR-T	TR042-I				HT1	318.2	-74.2	1	8	0	1.1	4.8	961	947	K		hargrave 2018-02-26 12:20:12	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Luoman2	TR042
+TR042-Ja	TR042-Ja:LP-DIR-T	TR042-J				HT1	83.1	-47.5	1	7	0	0.0	3.4	961	949	K		hargrave 2018-02-26 12:21:27	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Luoman2	TR042
+TR042-Ja	TR042-Ja:LP-DIR-T	TR042-J				HT1	79.7	-63.7	1	7	-1	0.0	3.4	961	949	K		hargrave 2018-02-26 12:21:27	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Luoman2	TR042
+TR042-Ja	TR042-Ja:LP-DIR-T	TR042-J				HT1	87.5	-55.1	1	7	100	0.0	3.4	961	949	K		hargrave 2018-02-26 12:21:27	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Luoman2	TR042
+TR042-Ka	TR042-Ka:LP-DIR-T	TR042-K				HT1	43.0	-81.1	1	8	-1	0.0	7.8	961	947	K		hargrave 2018-02-26 12:22:57	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Luoman2	TR042
+TR042-Ka	TR042-Ka:LP-DIR-T	TR042-K				HT1	113.5	-39.2	1	8	0	0.0	7.8	961	947	K		hargrave 2018-02-26 12:22:57	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Luoman2	TR042
+TR042-Ka	TR042-Ka:LP-DIR-T	TR042-K				HT1	119.7	-43.9	1	8	100	0.0	7.8	961	947	K		hargrave 2018-02-26 12:22:57	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Luoman2	TR042
+TR042-Ma	TR042-Ma:LP-DIR-T	TR042-M				HT1	326.4	-45.4	1	7	-1	0.0	2.3	961	949	K		hargrave 2018-02-26 12:25:17	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Luoman2	TR042
+TR042-Ma	TR042-Ma:LP-DIR-T	TR042-M				HT1	187.8	-64.0	1	7	0	0.0	2.3	961	949	K		hargrave 2018-02-26 12:25:17	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Luoman2	TR042
+TR042-Ma	TR042-Ma:LP-DIR-T	TR042-M				HT1	199.0	-58.2	1	7	100	0.0	2.3	961	949	K		hargrave 2018-02-26 12:25:17	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Luoman2	TR042
+TR042-Pa	TR042-Pa:LP-DIR-T	TR042-P				HT1	105.9	-64.5	1	7	100	0.0	2.3	961	949	K		hargrave 2018-02-26 12:26:30	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Luoman2	TR042
+TR042-Pa	TR042-Pa:LP-DIR-T	TR042-P				HT1	95.9	-58.1	1	7	0	0.0	2.3	961	949	K		hargrave 2018-02-26 12:26:30	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Luoman2	TR042
+TR042-Pa	TR042-Pa:LP-DIR-T	TR042-P				HT1	20.4	-43.8	1	7	-1	0.0	2.3	961	949	K		hargrave 2018-02-26 12:26:30	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Luoman2	TR042
+TR042-Ta	TR042-Ta:LP-DIR-T	TR042-T				HT1	216.0	-69.7	1	5	0	0.0	0.9	961	951	K		hargrave 2018-02-26 12:27:40	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Luoman2	TR042
+TR042-Ta	TR042-Ta:LP-DIR-T	TR042-T				HT1	339.7	-27.7	1	5	-1	0.0	0.9	961	951	K		hargrave 2018-02-26 12:27:40	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Luoman2	TR042
+TR042-Ta	TR042-Ta:LP-DIR-T	TR042-T				HT1	222.7	-61.9	1	5	100	0.0	0.9	961	951	K		hargrave 2018-02-26 12:27:40	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Luoman2	TR042
+TR045-Aa	TR045-Aa:LP-DIR-T	TR045-A				HT1	281.0	37.2	1	8	-1	0.0	2.6	963	949	K		hargrave 2018-02-28 12:53:19	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Luoman2	TR045
+TR045-Aa	TR045-Aa:LP-DIR-T	TR045-A				HT1	224.8	20.3	1	8	0	0.0	2.6	963	949	K		hargrave 2018-02-28 12:53:19	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Luoman2	TR045
+TR045-Aa	TR045-Aa:LP-DIR-T	TR045-A				HT1	239.8	26.1	1	8	100	0.0	2.6	963	949	K		hargrave 2018-02-28 12:53:19	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Luoman2	TR045
+TR045-Ba	TR045-Ba:LP-DIR-T	TR045-B				HT1	218.0	13.4	2	10	0	0.0	6.6	963	945	K		hargrave 2018-02-28 12:56:11	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Luoman2	TR045
+TR045-Ba	TR045-Ba:LP-DIR-T	TR045-B				LT1	9.0	4.2	2	3	100	110.2	6.9	473	273	K		hargrave 2018-02-28 12:56:11	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Luoman2	TR045
+TR045-Ba	TR045-Ba:LP-DIR-T	TR045-B				HT1	229.4	24.2	2	10	100	0.0	6.6	963	945	K		hargrave 2018-02-28 12:56:11	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Luoman2	TR045
+TR045-Ba	TR045-Ba:LP-DIR-T	TR045-B				LT1	130.8	11.8	2	3	-1	110.2	6.9	473	273	K		hargrave 2018-02-28 12:56:11	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Luoman2	TR045
+TR045-Ba	TR045-Ba:LP-DIR-T	TR045-B				HT1	312.7	36.6	2	10	-1	0.0	6.6	963	945	K		hargrave 2018-02-28 12:56:11	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Luoman2	TR045
+TR045-Ba	TR045-Ba:LP-DIR-T	TR045-B				LT1	16.2	30.3	2	3	0	110.2	6.9	473	273	K		hargrave 2018-02-28 12:56:11	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Luoman2	TR045
+TR045-Ca	TR045-Ca:LP-DIR-T	TR045-C				HT1	230.7	21.0	2	8	0	0.0	19.7	963	949	K		hargrave 2018-02-28 17:12:42	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Luoman2	TR045
+TR045-Ca	TR045-Ca:LP-DIR-T	TR045-C				LT1	352.5	3.5	2	10	100	62.3	5.0	823	373	K		hargrave 2018-02-28 17:12:42	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Luoman2	TR045
+TR045-Ca	TR045-Ca:LP-DIR-T	TR045-C				LT1	357.4	35.0	2	10	0	62.3	5.0	823	373	K		hargrave 2018-02-28 17:12:42	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Luoman2	TR045
+TR045-Ca	TR045-Ca:LP-DIR-T	TR045-C				HT1	277.2	49.5	2	8	-1	0.0	19.7	963	949	K		hargrave 2018-02-28 17:12:42	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Luoman2	TR045
+TR045-Ca	TR045-Ca:LP-DIR-T	TR045-C				LT1	117.3	23.7	2	10	-1	62.3	5.0	823	373	K		hargrave 2018-02-28 17:12:42	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Luoman2	TR045
+TR045-Ca	TR045-Ca:LP-DIR-T	TR045-C				HT1	245.0	23.3	2	8	100	0.0	19.7	963	949	K		hargrave 2018-02-28 17:12:42	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Luoman2	TR045
+TR045-Da	TR045-Da:LP-DIR-T	TR045-D				LT1	341.2	22.3	1	14	0	49.4	5.3	838	273	K		hargrave 2018-02-28 17:14:08	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Luoman2	TR045
+TR045-Da	TR045-Da:LP-DIR-T	TR045-D				LT1	340.7	-11.4	1	14	100	49.4	5.3	838	273	K		hargrave 2018-02-28 17:14:08	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Luoman2	TR045
+TR045-Da	TR045-Da:LP-DIR-T	TR045-D				LT1	95.7	29.9	1	14	-1	49.4	5.3	838	273	K		hargrave 2018-02-28 17:14:08	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Luoman2	TR045
+TR045-Ea	TR045-Ea:LP-DIR-T	TR045-E				LT1	104.5	28.6	1	9	-1	79.3	6.0	798	373	K		hargrave 2018-02-28 17:15:31	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Luoman2	TR045
+TR045-Ea	TR045-Ea:LP-DIR-T	TR045-E				LT1	349.1	30.8	1	9	0	79.3	6.0	798	373	K		hargrave 2018-02-28 17:15:31	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Luoman2	TR045
+TR045-Ea	TR045-Ea:LP-DIR-T	TR045-E				LT1	346.6	-2.0	1	9	100	79.3	6.0	798	373	K		hargrave 2018-02-28 17:15:31	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Luoman2	TR045
+TR045-Fa	TR045-Fa:LP-DIR-T	TR045-F				HT1	217.9	31.5	2	12	100	0.0	7.4	963	938	K		hargrave 2018-02-28 17:18:02	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Luoman2	TR045
+TR045-Fa	TR045-Fa:LP-DIR-T	TR045-F				LT1	105.4	47.0	2	4	-1	72.8	6.0	573	273	K		hargrave 2018-02-28 17:18:02	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Luoman2	TR045
+TR045-Fa	TR045-Fa:LP-DIR-T	TR045-F				HT1	283.7	31.9	2	12	-1	0.0	7.4	963	938	K		hargrave 2018-02-28 17:18:02	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Luoman2	TR045
+TR045-Fa	TR045-Fa:LP-DIR-T	TR045-F				HT1	205.1	13.9	2	12	0	0.0	7.4	963	938	K		hargrave 2018-02-28 17:18:02	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Luoman2	TR045
+TR045-Fa	TR045-Fa:LP-DIR-T	TR045-F				LT1	323.4	40.7	2	4	0	72.8	6.0	573	273	K		hargrave 2018-02-28 17:18:02	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Luoman2	TR045
+TR045-Fa	TR045-Fa:LP-DIR-T	TR045-F				LT1	325.4	6.9	2	4	100	72.8	6.0	573	273	K		hargrave 2018-02-28 17:18:02	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Luoman2	TR045
+TR045-Ga	TR045-Ga:LP-DIR-T	TR045-G				LT1	106.3	31.8	2	11	-1	13.9	10.6	833	473	K		hargrave 2018-02-28 17:19:26	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Luoman2	TR045
+TR045-Ga	TR045-Ga:LP-DIR-T	TR045-G				HT1	53.7	60.5	2	5	-1	0.0	10.1	963	955	K		hargrave 2018-02-28 17:19:26	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Luoman2	TR045
+TR045-Ga	TR045-Ga:LP-DIR-T	TR045-G				LT1	350.8	33.7	2	11	0	13.9	10.6	833	473	K		hargrave 2018-02-28 17:19:26	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Luoman2	TR045
+TR045-Ga	TR045-Ga:LP-DIR-T	TR045-G				HT1	299.0	27.7	2	5	0	0.0	10.1	963	955	K		hargrave 2018-02-28 17:19:26	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Luoman2	TR045
+TR045-Ga	TR045-Ga:LP-DIR-T	TR045-G				LT1	347.5	1.1	2	11	100	13.9	10.6	833	473	K		hargrave 2018-02-28 17:19:26	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Luoman2	TR045
+TR045-Ga	TR045-Ga:LP-DIR-T	TR045-G				HT1	303.1	-1.9	2	5	100	0.0	10.1	963	955	K		hargrave 2018-02-28 17:19:26	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Luoman2	TR045
+TR045-Ha	TR045-Ha:LP-DIR-T	TR045-H				HT1	28.2	45.3	1	8	100	0.0	5.4	963	949	K		hargrave 2018-02-28 17:20:53	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Luoman2	TR045
+TR045-Ha	TR045-Ha:LP-DIR-T	TR045-H				HT1	169.6	-23.9	1	8	-1	0.0	5.4	963	949	K		hargrave 2018-02-28 17:20:53	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Luoman2	TR045
+TR045-Ha	TR045-Ha:LP-DIR-T	TR045-H				HT1	69.2	53.7	1	8	0	0.0	5.4	963	949	K		hargrave 2018-02-28 17:20:53	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Luoman2	TR045
+TR045-Ia	TR045-Ia:LP-DIR-T	TR045-I				HT1	153.5	25.4	1	8	-1	0.0	4.8	963	951	K		hargrave 2018-02-28 17:22:21	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Luoman2	TR045
+TR045-Ia	TR045-Ia:LP-DIR-T	TR045-I				HT1	52.0	52.4	1	8	0	0.0	4.8	963	951	K		hargrave 2018-02-28 17:22:21	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Luoman2	TR045
+TR045-Ia	TR045-Ia:LP-DIR-T	TR045-I				HT1	20.3	36.7	1	8	100	0.0	4.8	963	951	K		hargrave 2018-02-28 17:22:21	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Luoman2	TR045
+TR045-Ja	TR045-Ja:LP-DIR-T	TR045-J				HT1	144.1	11.0	1	8	-1	0.0	6.3	963	949	K		hargrave 2018-02-28 17:25:30	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Luoman2	TR045
+TR045-Ja	TR045-Ja:LP-DIR-T	TR045-J				HT1	19.1	42.4	1	8	0	0.0	6.3	963	949	K		hargrave 2018-02-28 17:25:30	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Luoman2	TR045
+TR045-Ja	TR045-Ja:LP-DIR-T	TR045-J				HT1	6.1	16.1	1	8	100	0.0	6.3	963	949	K		hargrave 2018-02-28 17:25:30	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Luoman2	TR045
+TR045-Ka	TR045-Ka:LP-DIR-T	TR045-K				HT1	174.6	44.3	1	9	-1	0.0	3.6	963	947	K		hargrave 2018-02-28 17:27:18	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Luoman2	TR045
+TR045-Ka	TR045-Ka:LP-DIR-T	TR045-K				HT1	58.3	75.0	1	9	0	0.0	3.6	963	947	K		hargrave 2018-02-28 17:27:18	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Luoman2	TR045
+TR045-Ka	TR045-Ka:LP-DIR-T	TR045-K				HT1	356.7	52.3	1	9	100	0.0	3.6	963	947	K		hargrave 2018-02-28 17:27:18	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Luoman2	TR045
+TR045-La	TR045-La:LP-DIR-T	TR045-L				HT1	72.8	64.9	2	6	0	13.3	4.4	963	953	K		hargrave 2018-02-28 17:28:52	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Luoman2	TR045
+TR045-La	TR045-La:LP-DIR-T	TR045-L				LT1	121.7	36.4	2	11	-1	41.7	14.4	823	273	K		hargrave 2018-02-28 17:28:52	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Luoman2	TR045
+TR045-La	TR045-La:LP-DIR-T	TR045-L				HT1	181.3	36.9	2	6	-1	13.3	4.4	963	953	K		hargrave 2018-02-28 17:28:52	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Luoman2	TR045
+TR045-La	TR045-La:LP-DIR-T	TR045-L				LT1	343.2	13.1	2	11	100	41.7	14.4	823	273	K		hargrave 2018-02-28 17:28:52	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Luoman2	TR045
+TR045-La	TR045-La:LP-DIR-T	TR045-L				LT1	348.1	46.3	2	11	0	41.7	14.4	823	273	K		hargrave 2018-02-28 17:28:52	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Luoman2	TR045
+TR045-La	TR045-La:LP-DIR-T	TR045-L				HT1	15.1	52.7	2	6	100	13.3	4.4	963	953	K		hargrave 2018-02-28 17:28:52	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Luoman2	TR045
+TR045-Na	TR045-Na:LP-DIR-T	TR045-N				LT1	79.0	19.9	2	3	-1	67.9	1.2	473	273	K		hargrave 2018-02-28 17:30:22	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Luoman2	TR045
+TR045-Na	TR045-Na:LP-DIR-T	TR045-N				HT1	222.0	-1.8	2	5	0	0.0	5.8	963	955	K		hargrave 2018-02-28 17:30:22	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Luoman2	TR045
+TR045-Na	TR045-Na:LP-DIR-T	TR045-N				HT1	224.2	9.3	2	5	100	0.0	5.8	963	955	K		hargrave 2018-02-28 17:30:22	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Luoman2	TR045
+TR045-Na	TR045-Na:LP-DIR-T	TR045-N				LT1	346.0	-26.7	2	3	100	67.9	1.2	473	273	K		hargrave 2018-02-28 17:30:22	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Luoman2	TR045
+TR045-Na	TR045-Na:LP-DIR-T	TR045-N				LT1	344.6	6.5	2	3	0	67.9	1.2	473	273	K		hargrave 2018-02-28 17:30:22	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Luoman2	TR045
+TR045-Na	TR045-Na:LP-DIR-T	TR045-N				HT1	298.2	23.0	2	5	-1	0.0	5.8	963	955	K		hargrave 2018-02-28 17:30:22	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Luoman2	TR045
+TR045-Pa	TR045-Pa:LP-DIR-T	TR045-P				HT1	203.5	41.6	2	15	-1	0.0	4.6	963	923	K		hargrave 2018-02-28 17:31:53	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Luoman2	TR045
+TR045-Pa	TR045-Pa:LP-DIR-T	TR045-P				LT1	347.7	-5.9	2	3	0	101.8	15.4	473	273	K		hargrave 2018-02-28 17:31:53	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Luoman2	TR045
+TR045-Pa	TR045-Pa:LP-DIR-T	TR045-P				LT1	352.2	-38.4	2	3	100	101.8	15.4	473	273	K		hargrave 2018-02-28 17:31:53	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Luoman2	TR045
+TR045-Pa	TR045-Pa:LP-DIR-T	TR045-P				HT1	313.2	71.4	2	15	100	0.0	4.6	963	923	K		hargrave 2018-02-28 17:31:53	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Luoman2	TR045
+TR045-Pa	TR045-Pa:LP-DIR-T	TR045-P				LT1	81.2	0.5	2	3	-1	101.8	15.4	473	273	K		hargrave 2018-02-28 17:31:53	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Luoman2	TR045
+TR045-Pa	TR045-Pa:LP-DIR-T	TR045-P				HT1	171.4	72.7	2	15	0	0.0	4.6	963	923	K		hargrave 2018-02-28 17:31:53	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Luoman2	TR045
+TR045-Qa	TR045-Qa:LP-DIR-T	TR045-Q				HT1	242.8	37.1	1	19	-1	0.0	5.8	963	893	K		hargrave 2018-02-28 17:34:58	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Luoman2	TR045
+TR045-Qa	TR045-Qa:LP-DIR-T	TR045-Q				HT1	191.4	42.7	1	19	0	0.0	5.8	963	893	K		hargrave 2018-02-28 17:34:58	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Luoman2	TR045
+TR045-Qa	TR045-Qa:LP-DIR-T	TR045-Q				HT1	231.1	61.4	1	19	100	0.0	5.8	963	893	K		hargrave 2018-02-28 17:34:58	pmagpy-3.16.0: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Luoman2	TR045
