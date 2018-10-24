@@ -1,0 +1,88 @@
+2018-05-11 13:13:03: TR032-Ia: NRM  0 (Up): Red
+2018-05-11 13:22:18: TR032-Na: NRM  0 (Up): Red
+2018-05-14 10:21:11: TR032-Ga: TT  100 (Up): Red
+2018-05-14 10:33:08: TR032-Na: TT  100 (Up): Red
+2018-05-14 18:03:57: TR032-Ga: TT  200 (Up): Red
+2018-05-15 11:27:46: TR032-Fa: TT  200 (Dn): Red
+2018-05-15 18:52:09: TR032-Na: TT  300 (Up): Red
+2018-05-16 10:03:24: TR032-Fa: TT  300 (Dn): Red
+2018-05-16 16:15:28: TR032-Ga: TT  350 (Up): Red
+2018-05-16 17:50:20: TR032-Fa: TT  350 (Dn): Red
+2018-05-16 17:53:45: TR032-Ha: TT  350 (Dn): Red
+2018-05-18 15:36:14: TR032-Ga: TT  450 (Up): Red
+2018-05-21 15:27:49: TR032-Ha: TT  475 (Dn): Red
+2018-07-30 18:37:52: TR032-Ga: TT  500 (Up): Red
+2018-07-30 18:41:36: TR032-Ia: TT  500 (Up): Red
+2018-07-30 18:51:37: TR032-Na: TT  500 (Up): Red
+2018-07-31 16:51:52: TR032-Fa: TT  525 (Dn): Red
+2018-08-01 13:26:42: TR032-Na: TT  550 (Up): Red
+2018-08-02 10:23:16: TR032-Ga: TT  555 (Up): Red
+2018-08-02 10:36:15: TR032-Na: TT  555 (Up): Red
+2018-08-03 13:30:28: TR032-Ga: TT  560 (Up): Red
+2018-08-03 13:43:18: TR032-Na: TT  560 (Up): Red
+2018-08-03 15:15:16: TR032-Fa: TT  560 (Dn): Red
+2018-08-13 18:51:20: TR032-Na: TT  570 (Up): Red
+2018-08-14 15:28:12: TR032-Ga: TT  575 (Up): Red
+2018-08-15 11:58:07: TR032-Ga: TT  580 (Up): Red
+2018-08-15 12:11:51: TR032-Na: TT  580 (Up): Red
+2018-08-15 13:46:57: TR032-Fa: TT  580 (Dn): Red
+2018-08-15 18:59:26: TR032-Ga: TT  600 (Up): Red
+2018-08-15 19:03:14: TR032-Ia: TT  600 (Up): Red
+2018-08-16 17:07:41: TR032-Fa: TT  620 (Dn): Red
+2018-09-10 13:59:46: TR032-Ga: TT  645 (Up): Red
+2018-09-10 15:42:51: TR032-Fa: TT  645 (Dn): Red
+2018-09-10 17:24:59: TR032-La: TT  645 (Dn): Red
+2018-09-11 15:46:58: TR032-Ga: TT  650 (Up): Red
+2018-09-20 10:13:28: TR032-Ia: TT  655 (Up): Red
+2018-09-20 15:57:07: TR032-Ga: TT  660 (Up): Red
+2018-09-21 13:28:23: TR032-Ga: TT  665 (Up): Red
+2018-09-25 14:07:50: TR032-Ga: TT  672 (Up): Red
+2018-09-26 10:09:59: TR032-Ga: TT  674 (Up): Red
+2018-10-09 14:29:58: TR032-Ia: TT  680 (Dn): Unacceptable slop on up/down motor moving from  -28 to -44545 at speed  80000000.    Target position: -44545  Current position: -28067    Execution has been paused. Please check machine.
+2018-10-09 14:30:10: TR032-Ia: TT  680 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-10-09 14:30:20: TR032-Ia: TT  680 (Dn): Homed to top but did not hit switch.
+2018-10-09 14:30:22: TR032-Ia: TT  680 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-10-09 14:48:25: TR032-Ia: TT  680 (Up): Unacceptable slop on up/down motor moving from  -27 to -44544 at speed  80000000.    Target position: -44544  Current position: -28598    Execution has been paused. Please check machine.
+2018-10-09 14:48:39: TR032-Ia: TT  680 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-10-09 14:48:45: TR032-Ia: TT  680 (Up): Homed to top but did not hit switch.
+2018-10-09 14:48:48: TR032-Ia: TT  680 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-10-09 14:49:54: TR032-Ia: TT  680 (Up): Unacceptable slop on up/down motor moving from  -40 to -93146 at speed  30000000.    Target position: -93146  Current position: -5494    Execution has been paused. Please check machine.
+2018-10-09 14:50:01: TR032-Ia: TT  680 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-10-09 15:10:26: TR032-Ia: TT  680 (Dn): Unacceptable slop on up/down motor moving from  -27 to -44544 at speed  80000000.    Target position: -44544  Current position: -44747    Execution has been paused. Please check machine.
+2018-10-09 15:10:38: TR032-Ia: TT  680 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-10-09 15:10:43: TR032-Ia: TT  680 (Dn): Homed to top but did not hit switch.
+2018-10-09 15:10:51: TR032-Ia: TT  680 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-10-12 11:32:44: TR032-Ga: TT  684 (Up): Unacceptable slop on up/down motor moving from  -28 to -44562 at speed  80000000.    Target position: -44562  Current position: -5733    Execution has been paused. Please check machine.
+2018-10-12 11:32:57: TR032-Ga: TT  684 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-10-12 11:33:24: TR032-Ga: TT  684 (Up): Homed to top but did not hit switch.
+2018-10-12 11:33:34: TR032-Ga: TT  684 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-10-12 16:45:58: TR032-Na: TT  686 (Up): Unacceptable slop on up/down motor moving from  -26 to -44543 at speed  80000000.    Target position: -44543  Current position: -28314    Execution has been paused. Please check machine.
+2018-10-12 16:46:09: TR032-Na: TT  686 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-10-12 16:46:19: TR032-Na: TT  686 (Up): Homed to top but did not hit switch.
+2018-10-12 16:46:22: TR032-Na: TT  686 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-10-12 18:07:53: TR032-Ba: TT  686 (Dn): Unacceptable slop on up/down motor moving from  -29 to -44560 at speed  80000000.    Target position: -44560  Current position: -5721    Execution has been paused. Please check machine.
+2018-10-12 18:08:03: TR032-Ba: TT  686 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-10-12 18:08:08: TR032-Ba: TT  686 (Dn): Homed to top but did not hit switch.
+2018-10-12 18:08:10: TR032-Ba: TT  686 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-10-19 09:51:43: TR032-Aa: TT  686 (Up): Unacceptable slop on up/down motor moving from  -24 to -44601 at speed  80000000.    Target position: -44601  Current position: -18705    Execution has been paused. Please check machine.
+2018-10-19 09:53:18: TR032-Aa: TT  686 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-10-19 09:53:27: TR032-Aa: TT  686 (Up): Homed to top but did not hit switch.
+2018-10-19 09:53:30: TR032-Aa: TT  686 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-10-19 09:54:31: TR032-Aa: TT  686 (Up): Unacceptable slop on up/down motor moving from  -18705 to -93203 at speed  30000000.    Target position: -93203  Current position: -67569    Execution has been paused. Please check machine.
+2018-10-19 09:55:05: TR032-Aa: TT  686 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-10-20 15:13:14: TR032-Ha: TT  690 (Up): Unacceptable slop on up/down motor moving from  -33 to -44673 at speed  80000000.    Target position: -44673  Current position: -5707    Execution has been paused. Please check machine.
+2018-10-20 15:13:25: TR032-Ha: TT  690 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-10-20 15:13:53: TR032-Ha: TT  690 (Up): Homed to top but did not hit switch.
+2018-10-20 15:14:06: TR032-Ha: TT  690 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-10-20 15:20:22: TR032-La: TT  690 (Up): Unacceptable slop on up/down motor moving from  -35 to -44645 at speed  80000000.    Target position: -44645  Current position: -5618    Execution has been paused. Please check machine.
+2018-10-20 15:20:36: TR032-La: TT  690 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-10-20 15:20:49: TR032-La: TT  690 (Up): Homed to top but did not hit switch.
+2018-10-20 15:20:51: TR032-La: TT  690 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-10-20 16:49:39: TR032-Ia: TT  690 (Dn): Unacceptable slop on up/down motor moving from  -37 to -44668 at speed  80000000.    Target position: -44668  Current position: -5654    Execution has been paused. Please check machine.
+2018-10-20 16:50:03: TR032-Ia: TT  690 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-10-20 16:50:13: TR032-Ia: TT  690 (Dn): Homed to top but did not hit switch.
+2018-10-20 16:50:15: TR032-Ia: TT  690 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-10-20 17:06:40: TR032-Qa: TT  690 (Dn): Homed to top but did not hit switch.
+2018-10-20 17:06:43: TR032-Qa: TT  690 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-10-20 17:06:52: TR032-Qa: TT  690 (Dn): Homed to top but did not hit switch.
+2018-10-20 17:06:54: TR032-Qa: TT  690 (Dn): Hargraves Magnetometer is now operating at code Blue  

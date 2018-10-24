@@ -1,0 +1,27 @@
+tab	specimens
+specimen	sample	analysts	citations	method_codes	volume	weight
+TR038-Aa	TR038-A		This study	LP-NOMAG		
+TR038-Ba	TR038-B		This study	LP-NOMAG		
+TR038-Ca	TR038-C		This study	LP-NOMAG		
+TR038-Da	TR038-D		This study	LP-NOMAG		
+TR038-Ea	TR038-E		This study	LP-NOMAG		
+TR038-Fa	TR038-F		This study	LP-NOMAG		
+TR038-Ga	TR038-G		This study	LP-NOMAG		
+TR038-Ha	TR038-H		This study	LP-NOMAG		
+TR038-Ia	TR038-I		This study	LP-NOMAG		
+TR038-Ja	TR038-J		This study	LP-NOMAG		
+TR038-Ka	TR038-K		This study	LP-NOMAG		
+TR038-La	TR038-L		This study	LP-NOMAG		
+TR038-Ma	TR038-M		This study	LP-NOMAG		
+TR038-Na	TR038-N		This study	LP-NOMAG		
+TR038-Pa	TR038-P		This study	LP-NOMAG		
+TR038-Qa	TR038-Q		This study	LP-NOMAG		
+TR038-Ra	TR038-R		This study	LP-NOMAG		
+TR038-Sa	TR038-S		This study	LP-NOMAG		
+TR038-Ta	TR038-T		This study	LP-NOMAG		
+TR038-Ua	TR038-U		This study	LP-NOMAG		
+TR038-Va	TR038-V		This study	LP-NOMAG		
+TR038-Wa	TR038-W		This study	LP-NOMAG		
+TR038-Xa	TR038-X		This study	LP-NOMAG		
+TR038-Ya	TR038-Y		This study	LP-NOMAG		
+TR038-Za	TR038-Z		This study	LP-NOMAG		

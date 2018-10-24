@@ -1,0 +1,68 @@
+2018-05-14 16:49:10: TR038-Na: TT  100 (Dn): Red
+2018-05-15 17:24:13: TR038-Za: TT  200 (Dn): Red
+2018-05-18 14:21:00: TR038-Pa: TT  400 (Dn): Red
+2018-05-21 11:21:06: TR038-Pa: TT  450 (Dn): Red
+2018-07-30 17:22:21: TR038-Pa: TT  475 (Dn): Red
+2018-07-31 13:45:20: TR038-Na: TT  500 (Dn): Red
+2018-08-03 19:01:49: TR038-Na: TT  560 (Dn): Red
+2018-08-15 10:36:11: TR038-Na: TT  575 (Dn): Red
+2018-08-17 12:11:47: TR038-Na: TT  620 (Dn): Red
+2018-08-28 13:51:15: TR038-Na: TT  630 (Dn): Red
+2018-09-25 12:19:40: TR038-Wa: TT  670 (Dn): Unacceptable slop on up/down motor moving from  -30 to -44446 at speed  80000000.    Target position: -44446  Current position: -5483    Execution has been paused. Please check machine.
+2018-09-25 12:20:20: TR038-Wa: TT  670 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-09-25 12:20:51: TR038-Wa: TT  670 (Dn): Homed to top but did not hit switch.
+2018-09-25 12:21:00: TR038-Wa: TT  670 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-09-25 20:28:24: TR038-Wa: TT  672 (Dn): Unacceptable slop on up/down motor moving from  -28 to -44438 at speed  80000000.    Target position: -44438  Current position: -5468    Execution has been paused. Please check machine.
+2018-09-26 08:58:40: TR038-Wa: TT  672 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-09-26 08:59:09: TR038-Wa: TT  672 (Dn): Homed to top but did not hit switch.
+2018-09-26 08:59:18: TR038-Wa: TT  672 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-09-26 15:11:33: TR038-Ca: TT  674 (Up): Unacceptable slop on up/down motor moving from  -30 to -44421 at speed  80000000.    Target position: -44421  Current position: -5415    Execution has been paused. Please check machine.
+2018-09-26 15:11:52: TR038-Ca: TT  674 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-09-26 15:12:07: TR038-Ca: TT  674 (Up): Homed to top but did not hit switch.
+2018-09-26 15:12:10: TR038-Ca: TT  674 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-09-26 16:37:23: TR038-Ca: TT  674 (Dn): Unacceptable slop on up/down motor moving from  -29 to -44416 at speed  80000000.    Target position: -44416  Current position: -5336    Execution has been paused. Please check machine.
+2018-09-26 16:37:44: TR038-Ca: TT  674 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-09-26 16:37:58: TR038-Ca: TT  674 (Dn): Homed to top but did not hit switch.
+2018-09-26 16:38:01: TR038-Ca: TT  674 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-09-26 17:07:42: TR038-Wa: TT  674 (Dn): Unacceptable slop on up/down motor moving from  -29 to -44439 at speed  80000000.    Target position: -44439  Current position: -5479    Execution has been paused. Please check machine.
+2018-09-26 17:07:55: TR038-Wa: TT  674 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-09-26 17:08:23: TR038-Wa: TT  674 (Dn): Homed to top but did not hit switch.
+2018-09-26 17:08:26: TR038-Wa: TT  674 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-10-04 16:04:58: TR038-Ca: TT  676 (Dn): Unacceptable slop on up/down motor moving from  -26 to -44456 at speed  80000000.    Target position: -44456  Current position: -5470    Execution has been paused. Please check machine.
+2018-10-04 16:39:18: TR038-Ca: TT  676 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-10-04 16:39:26: TR038-Ca: TT  676 (Dn): Homed to top but did not hit switch.
+2018-10-04 16:39:29: TR038-Ca: TT  676 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-10-05 12:42:30: TR038-Wa: TT  678 (Up): Unacceptable slop on up/down motor moving from   0 to -44512 at speed  80000000.    Target position: -44512  Current position: -5647    Execution has been paused. Please check machine.
+2018-10-05 12:48:34: TR038-Wa: TT  678 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-10-05 12:48:41: TR038-Wa: TT  678 (Up): Homed to top but did not hit switch.
+2018-10-05 12:48:44: TR038-Wa: TT  678 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-10-05 13:42:46: TR038-Ca: TT  678 (Dn): Unacceptable slop on up/down motor moving from   0 to -44496 at speed  80000000.    Target position: -44496  Current position: -5514    Execution has been paused. Please check machine.
+2018-10-05 13:42:58: TR038-Ca: TT  678 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-10-05 14:13:33: TR038-Wa: TT  678 (Dn): Unacceptable slop on up/down motor moving from  -21 to -44444 at speed  80000000.    Target position: -44444  Current position: -5469    Execution has been paused. Please check machine.
+2018-10-05 14:13:41: TR038-Wa: TT  678 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-10-09 16:22:57: TR038-Ga: TT  680 (Up): Unacceptable slop on up/down motor moving from  -29 to -44524 at speed  80000000.    Target position: -44524  Current position: -5603    Execution has been paused. Please check machine.
+2018-10-09 16:23:17: TR038-Ga: TT  680 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-10-09 16:23:33: TR038-Ga: TT  680 (Up): Homed to top but did not hit switch.
+2018-10-09 16:23:36: TR038-Ga: TT  680 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-10-09 17:45:42: TR038-Da: TT  680 (Dn): Unacceptable slop on up/down motor moving from  -28 to -44564 at speed  80000000.    Target position: -44564  Current position: -5715    Execution has been paused. Please check machine.
+2018-10-09 17:45:53: TR038-Da: TT  680 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-10-09 17:46:04: TR038-Da: TT  680 (Dn): Homed to top but did not hit switch.
+2018-10-09 17:46:06: TR038-Da: TT  680 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-10-09 18:16:09: TR038-Wa: TT  680 (Dn): Unacceptable slop on up/down motor moving from  -27 to -44561 at speed  80000000.    Target position: -44561  Current position: -5680    Execution has been paused. Please check machine.
+2018-10-10 09:04:56: TR038-Wa: TT  680 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-10-10 09:05:09: TR038-Wa: TT  680 (Dn): Homed to top but did not hit switch.
+2018-10-10 09:05:12: TR038-Wa: TT  680 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-10-11 16:22:27: TR038-Wa: TT  682 (Dn): Unacceptable slop on up/down motor moving from  -29 to -44553 at speed  80000000.    Target position: -44553  Current position: -5725    Execution has been paused. Please check machine.
+2018-10-11 16:22:46: TR038-Wa: TT  682 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-10-12 13:23:30: TR038-Wa: TT  684 (Up): Unacceptable slop on up/down motor moving from  -26 to -44569 at speed  80000000.    Target position: -44569  Current position: -5768    Execution has been paused. Please check machine.
+2018-10-12 13:23:46: TR038-Wa: TT  684 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-10-12 13:24:34: TR038-Wa: TT  684 (Up): Homed to top but did not hit switch.
+2018-10-12 13:24:47: TR038-Wa: TT  684 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-10-20 11:59:44: TR038-Ca: TT  688 (Up): Unacceptable slop on up/down motor moving from  -33 to -44646 at speed  80000000.    Target position: -44646  Current position: -5698    Execution has been paused. Please check machine.
+2018-10-20 11:59:54: TR038-Ca: TT  688 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-10-20 12:00:09: TR038-Ca: TT  688 (Up): Homed to top but did not hit switch.
+2018-10-20 12:00:12: TR038-Ca: TT  688 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-10-20 13:12:46: TR038-Ca: TT  688 (Dn): Unacceptable slop on up/down motor moving from  -34 to -44644 at speed  80000000.    Target position: -44644  Current position: -5631    Execution has been paused. Please check machine.
+2018-10-20 13:12:55: TR038-Ca: TT  688 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-10-20 13:13:01: TR038-Ca: TT  688 (Dn): Homed to top but did not hit switch.
+2018-10-20 13:13:04: TR038-Ca: TT  688 (Dn): Hargraves Magnetometer is now operating at code Blue  

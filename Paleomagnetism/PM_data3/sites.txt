@@ -1,0 +1,8 @@
+tab	sites
+analysts	citations	lat	location	lon	site
+	This study	27.9	Luoman1	108.8	TR030
+	This study	27.9	Mingyaci	108.8	TR028
+	This study	27.9	Luoman3	108.8	TR040
+	This study	27.9	Mingyaci	108.8	TR016
+	This study	27.9	Luoman1	108.8	TR032
+	This study	27.9	Luoman3	108.8	TR038

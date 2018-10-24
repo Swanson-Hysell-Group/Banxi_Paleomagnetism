@@ -1,0 +1,33 @@
+2018-05-11 12:38:23: TR028-Ca: NRM  0 (Up): Unacceptable slop on up/down motor moving from  -25 to -44554 at speed  70000000.    Target position: -44554  Current position: -5421    Execution has been paused. Please check machine.
+2018-05-11 12:47:18: TR028-Ca: NRM  0 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-05-11 12:47:26: TR028-Ca: NRM  0 (Up): Homed to top but did not hit switch.
+2018-05-11 12:47:28: TR028-Ca: NRM  0 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-05-11 14:29:50: TR028-Ea: NRM  0 (Dn): Red
+2018-05-14 13:13:42: TR028-Ea: TT  100 (Dn): Red
+2018-05-15 11:09:07: TR028-Ea: TT  200 (Dn): Red
+2018-05-16 15:47:29: TR028-Aa: TT  350 (Up): Red
+2018-07-30 18:08:03: TR028-Aa: TT  500 (Up): Red
+2018-07-31 09:50:27: TR028-Ea: TT  500 (Dn): Red
+2018-07-31 14:37:17: TR028-Aa: TT  525 (Up): Red
+2018-08-01 14:30:03: TR028-Aa: TT  550 (Dn): Red
+2018-08-03 13:01:29: TR028-Aa: TT  560 (Up): Red
+2018-08-03 13:01:31: TR028-Aa: TT  560 (Up): Red
+2018-08-03 14:47:00: TR028-Aa: TT  560 (Dn): Red
+2018-08-03 14:55:34: TR028-Ea: TT  560 (Dn): Red
+2018-08-14 10:03:43: TR028-Ea: TT  570 (Dn): Red
+2018-08-14 10:09:12: TR028-Ha: TT  570 (Dn): Red
+2018-08-14 16:56:52: TR028-Ha: TT  575 (Dn): Red
+2018-08-15 13:30:52: TR028-Ha: TT  580 (Dn): Red
+2018-08-15 18:28:05: TR028-Aa: TT  600 (Up): Red
+2018-08-16 09:58:25: TR028-Ha: TT  600 (Dn): Red
+2018-08-16 14:42:23: TR028-Aa: TT  620 (Up): Red
+2018-08-17 14:47:45: TR028-Aa: TT  630 (Dn): Red
+2018-08-28 14:35:40: TR028-Aa: TT  640 (Up): Red
+2018-09-10 13:31:14: TR028-Aa: TT  645 (Up): Red
+2018-09-10 15:20:58: TR028-Da: TT  645 (Dn): Red
+2018-09-12 16:02:40: TR028-Aa: TT  655 (Up): Red
+2018-09-21 13:03:12: TR028-Ca: TT  665 (Up): Unacceptable slop on up/down motor moving from  -33 to -44485 at speed  80000000.    Target position: -44485  Current position: -5536    Execution has been paused. Please check machine.
+2018-09-21 13:04:19: TR028-Ca: TT  665 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-09-25 15:29:34: TR028-Ea: TT  672 (Dn): Red
+2018-09-25 15:34:55: TR028-Ha: TT  672 (Dn): Red
+2018-09-26 11:54:35: TR028-Ha: TT  674 (Dn): Red

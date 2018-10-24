@@ -1,0 +1,3 @@
+tab	sites
+site	location	lat	lon	analysts	citations
+TR016	Mingyaci	27.9	108.8		This study
