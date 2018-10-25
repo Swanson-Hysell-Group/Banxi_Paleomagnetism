@@ -1,0 +1,19 @@
+tab	specimens
+specimen	sample	analysts	citations	method_codes	volume	weight
+TR040-Ba	TR040-B		This study	LP-NOMAG		
+TR040-Ca	TR040-C		This study	LP-NOMAG		
+TR040-Da	TR040-D		This study	LP-NOMAG		
+TR040-Ea	TR040-E		This study	LP-NOMAG		
+TR040-Fa	TR040-F		This study	LP-NOMAG		
+TR040-Ga	TR040-G		This study	LP-NOMAG		
+TR040-Ha	TR040-H		This study	LP-NOMAG		
+TR040-Ja	TR040-J		This study	LP-NOMAG		
+TR040-Ka	TR040-K		This study	LP-NOMAG		
+TR040-La	TR040-L		This study	LP-NOMAG		
+TR040-Na	TR040-N		This study	LP-NOMAG		
+TR040-Pa	TR040-P		This study	LP-NOMAG		
+TR040-Qa	TR040-Q		This study	LP-NOMAG		
+TR040-Ra	TR040-R		This study	LP-NOMAG		
+TR040-Sa	TR040-S		This study	LP-NOMAG		
+TR040-Ta	TR040-T		This study	LP-NOMAG		
+TR040-Ua	TR040-U		This study	LP-NOMAG		

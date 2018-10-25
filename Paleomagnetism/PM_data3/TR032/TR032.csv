@@ -1,0 +1,23 @@
+,site_info,,,,,,,,,,,,,,,,,,,,,
+site_id,TR032,,,,,,,,,,,,,,,,,,,,,
+site_name,Luoman1,,,,,,,,,,,,,,,,,,,,,
+site_lat,27.93841054,(N),,,,,,,,,,,,,,,,,,,,
+site_long,108.8312642,(E),,,,,,Sun Compass Information,,,,,,,,,Calculated Fields,,,,,
+site_elevation,0,,,,,,,,,,,,,,,,,,,,,
+sample_name,comment,strat_level,magnetic_core_strike,core_dip,bedding_strike,bedding_dip,correct_bedding_using_local_dec,shadow_angle,GMT_offset,year,month,days,hours,minutes,mass,runs,sun_core_strike,calculated_IGRF,IGRF_local_dec,calculated_mag_dec,core_strike,corrected_bedding_strike
+-Aa,mag compass orientation (IGRF corrected),7.65,85,58.0,11.0,14.1,no,nan,8.0,2016.0,6.0,3.0,1.0,1.0,1.0,nan,nan,[357.30595326402533; 43.34848979007721; 48803.11527240445],-2.6940467359746663,insufficient data,82.3,nan
+-Ba,mag compass orientation (IGRF corrected),7.81,99,73.0,11.0,14.1,no,nan,8.0,2016.0,6.0,3.0,1.0,1.0,1.0,nan,nan,[357.30595326402533; 43.34848979007721; 48803.11527240445],-2.6940467359746663,insufficient data,96.3,nan
+-Ca,mag compass orientation (IGRF corrected),7.96,99,60.0,11.0,14.1,no,nan,8.0,2016.0,6.0,3.0,1.0,1.0,1.0,nan,nan,[357.30595326402533; 43.34848979007721; 48803.11527240445],-2.6940467359746663,insufficient data,96.3,nan
+-Ea,mag compass orientation (IGRF corrected),8.31,57,45.0,11.0,14.1,no,nan,8.0,2016.0,6.0,4.0,1.0,1.0,1.0,nan,nan,[357.3058418572873; 43.34882683509473; 48803.25837308316],-2.694158142712695,insufficient data,54.3,nan
+-Fa,mag compass orientation (IGRF corrected),8.58,64,76.0,11.0,14.1,no,nan,8.0,2016.0,6.0,4.0,1.0,1.0,1.0,nan,nan,[357.3058418572873; 43.34882683509473; 48803.25837308316],-2.694158142712695,insufficient data,61.3,nan
+-Ga,mag compass orientation (IGRF corrected),8.78,36,40.0,11.0,14.1,no,nan,8.0,2016.0,6.0,4.0,1.0,1.0,1.0,nan,nan,[357.3058418572873; 43.34882683509473; 48803.25837308316],-2.694158142712695,insufficient data,33.3,nan
+-Ha,mag compass orientation (IGRF corrected),8.79,65,71.0,11.0,14.1,no,nan,8.0,2016.0,6.0,4.0,1.0,1.0,1.0,nan,nan,[357.3058418572873; 43.34882683509473; 48803.25837308316],-2.694158142712695,insufficient data,62.3,nan
+-Ia,mag compass orientation (IGRF corrected),8.98,63,76.0,11.0,14.1,no,nan,8.0,2016.0,6.0,4.0,1.0,1.0,1.0,nan,nan,[357.3058418572873; 43.34882683509473; 48803.25837308316],-2.694158142712695,insufficient data,60.3,nan
+-Ja,mag compass orientation (IGRF corrected),9.14,43,57.0,11.0,14.1,no,nan,8.0,2016.0,6.0,4.0,1.0,1.0,1.0,nan,nan,[357.3058418572873; 43.34882683509473; 48803.25837308316],-2.694158142712695,insufficient data,40.3,nan
+-Ka,mag compass orientation (IGRF corrected),9.33,38,65.0,11.0,14.1,no,nan,8.0,2016.0,6.0,4.0,1.0,1.0,1.0,nan,nan,[357.3058418572873; 43.34882683509473; 48803.25837308316],-2.694158142712695,insufficient data,35.3,nan
+-La,mag compass orientation (IGRF corrected),9.5,42,59.0,11.0,14.1,no,nan,8.0,2016.0,6.0,4.0,1.0,1.0,1.0,nan,nan,[357.3058418572873; 43.34882683509473; 48803.25837308316],-2.694158142712695,insufficient data,39.3,nan
+-Ma,mag compass orientation (IGRF corrected),9.65,34,88.0,11.0,14.1,no,nan,8.0,2016.0,6.0,4.0,1.0,1.0,1.0,nan,nan,[357.3058418572873; 43.34882683509473; 48803.25837308316],-2.694158142712695,insufficient data,31.3,nan
+-Na,mag compass orientation (IGRF corrected),9.78,53,95.0,11.0,14.1,no,nan,8.0,2016.0,6.0,4.0,1.0,1.0,1.0,nan,nan,[357.3058418572873; 43.34882683509473; 48803.25837308316],-2.694158142712695,insufficient data,50.3,nan
+-Pa,mag compass orientation (IGRF corrected),9.98,78,108.0,11.0,14.1,no,nan,8.0,2016.0,6.0,4.0,1.0,1.0,1.0,nan,nan,[357.3058418572873; 43.34882683509473; 48803.25837308316],-2.694158142712695,insufficient data,75.3,nan
+-Qa,mag compass orientation (IGRF corrected),10.16,76,92.0,11.0,14.1,no,nan,8.0,2016.0,6.0,4.0,1.0,1.0,1.0,nan,nan,[357.3058418572873; 43.34882683509473; 48803.25837308316],-2.694158142712695,insufficient data,73.3,nan
+-Sa,mag compass orientation (IGRF corrected),10.44,68,112.0,11.0,14.1,no,nan,8.0,2016.0,6.0,4.0,1.0,1.0,1.0,nan,nan,[357.3058418572873; 43.34882683509473; 48803.25837308316],-2.694158142712695,insufficient data,65.3,nan

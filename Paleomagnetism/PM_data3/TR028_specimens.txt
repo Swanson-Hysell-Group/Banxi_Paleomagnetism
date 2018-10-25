@@ -1,0 +1,13 @@
+tab	specimens
+specimen	sample	analysts	citations	method_codes	volume	weight
+TR028-Aa	TR028-A		This study	LP-NOMAG		
+TR028-Ba	TR028-B		This study	LP-NOMAG		
+TR028-Ca	TR028-C		This study	LP-NOMAG		
+TR028-Da	TR028-D		This study	LP-NOMAG		
+TR028-Ea	TR028-E		This study	LP-NOMAG		
+TR028-Fa	TR028-F		This study	LP-NOMAG		
+TR028-Ga	TR028-G		This study	LP-NOMAG		
+TR028-Ha	TR028-H		This study	LP-NOMAG		
+TR028-Ia	TR028-I		This study	LP-NOMAG		
+TR028-Ja	TR028-J		This study	LP-NOMAG		
+TR028-Ka	TR028-K		This study	LP-NOMAG		

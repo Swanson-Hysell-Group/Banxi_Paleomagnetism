@@ -1,0 +1,18 @@
+tab	samples
+sample	site	height	geologic_classes	geologic_types	lithologies	analysts	azimuth	azimuth_dec_correction	bed_dip	bed_dip_direction	dip	citations	method_codes
+TR032-A	TR032	7.65					   -7.7	    0.0	   14.1	  101.0	  -58.0	This study	SO-CMD-NORTH
+TR032-B	TR032	7.81					    6.3	    0.0	   14.1	  101.0	  -73.0	This study	SO-CMD-NORTH
+TR032-C	TR032	7.96					    6.3	    0.0	   14.1	  101.0	  -60.0	This study	SO-CMD-NORTH
+TR032-E	TR032	8.31					  -35.7	    0.0	   14.1	  101.0	  -45.0	This study	SO-CMD-NORTH
+TR032-F	TR032	8.58					  -28.7	    0.0	   14.1	  101.0	  -76.0	This study	SO-CMD-NORTH
+TR032-G	TR032	8.78					  -56.7	    0.0	   14.1	  101.0	  -40.0	This study	SO-CMD-NORTH
+TR032-H	TR032	8.79					  -27.7	    0.0	   14.1	  101.0	  -71.0	This study	SO-CMD-NORTH
+TR032-I	TR032	8.98					  -29.7	    0.0	   14.1	  101.0	  -76.0	This study	SO-CMD-NORTH
+TR032-J	TR032	9.14					  -49.7	    0.0	   14.1	  101.0	  -57.0	This study	SO-CMD-NORTH
+TR032-K	TR032	9.33					  -54.7	    0.0	   14.1	  101.0	  -65.0	This study	SO-CMD-NORTH
+TR032-L	TR032	9.5					  -50.7	    0.0	   14.1	  101.0	  -59.0	This study	SO-CMD-NORTH
+TR032-M	TR032	9.65					  -58.7	    0.0	   14.1	  101.0	  -88.0	This study	SO-CMD-NORTH
+TR032-N	TR032	9.78					  -39.7	    0.0	   14.1	  101.0	  -95.0	This study	SO-CMD-NORTH
+TR032-P	TR032	9.98					  -14.7	    0.0	   14.1	  101.0	 -108.0	This study	SO-CMD-NORTH
+TR032-Q	TR032	10.16					  -16.7	    0.0	   14.1	  101.0	  -92.0	This study	SO-CMD-NORTH
+TR032-S	TR032	10.44					  -24.7	    0.0	   14.1	  101.0	 -112.0	This study	SO-CMD-NORTH
