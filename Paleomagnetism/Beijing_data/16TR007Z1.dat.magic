@@ -1,0 +1,27 @@
+tab	measurements
+measurement	experiment	specimen	dir_csd	dir_dec	dir_inc	treat_ac_field	treat_dc_field	treat_dc_field_phi	treat_dc_field_theta	treat_step_num	treat_temp	magn_moment	magn_volume	citations	instrument_codes	method_codes	quality	sequence	standard	meas_n_orient	meas_temp	analysts	description	software_packages	magn_x_sigma	magn_y_sigma	magn_z_sigma
+16tr007z:LP-DIR-T1	16tr007z:LP-DIR-T	16tr007z		180.7	31.2	0	0	0	0	1	2.730e+02	 8.667e-08	 8.667e-03	This study	2G	LT-NO:LP-DIR-T	g	0	u	4	2.730e+02			pmagpy-3.18.0	 2.024e-09	 1.612e-09	 2.086e-09
+16tr007z:LP-DIR-T2	16tr007z:LP-DIR-T	16tr007z		172.8	29.4	0	0	0	0	2	3.530e+02	 8.005e-08	 8.005e-03	This study	2G	LT-T-Z:LP-DIR-T	g	1	u	4	2.730e+02			pmagpy-3.18.0	 1.941e-09	 1.595e-09	 2.341e-09
+16tr007z:LP-DIR-T3	16tr007z:LP-DIR-T	16tr007z		174.3	30.0	0	0	0	0	3	4.730e+02	 7.970e-08	 7.970e-03	This study	2G	LT-T-Z:LP-DIR-T	g	2	u	4	2.730e+02			pmagpy-3.18.0	 1.878e-09	 1.854e-09	 2.118e-09
+16tr007z:LP-DIR-T4	16tr007z:LP-DIR-T	16tr007z		175.4	29.5	0	0	0	0	4	5.730e+02	 7.734e-08	 7.734e-03	This study	2G	LT-T-Z:LP-DIR-T	g	3	u	4	2.730e+02			pmagpy-3.18.0	 1.680e-09	 1.931e-09	 2.024e-09
+16tr007z:LP-DIR-T5	16tr007z:LP-DIR-T	16tr007z		175.5	31.6	0	0	0	0	5	6.730e+02	 7.626e-08	 7.626e-03	This study	2G	LT-T-Z:LP-DIR-T	g	4	u	4	2.730e+02			pmagpy-3.18.0	 1.577e-09	 1.762e-09	 1.798e-09
+16tr007z:LP-DIR-T6	16tr007z:LP-DIR-T	16tr007z		175.5	32.4	0	0	0	0	6	7.730e+02	 7.343e-08	 7.343e-03	This study	2G	LT-T-Z:LP-DIR-T	g	5	u	4	2.730e+02			pmagpy-3.18.0	 1.836e-09	 1.670e-09	 2.077e-09
+16tr007z:LP-DIR-T7	16tr007z:LP-DIR-T	16tr007z		174.0	33.1	0	0	0	0	7	8.230e+02	 7.094e-08	 7.094e-03	This study	2G	LT-T-Z:LP-DIR-T	g	6	u	4	2.730e+02			pmagpy-3.18.0	 1.819e-09	 1.561e-09	 1.995e-09
+16tr007z:LP-DIR-T8	16tr007z:LP-DIR-T	16tr007z		169.1	34.5	0	0	0	0	8	8.480e+02	 6.930e-08	 6.930e-03	This study	2G	LT-T-Z:LP-DIR-T	g	7	u	4	2.730e+02			pmagpy-3.18.0	 1.821e-09	 1.725e-09	 1.896e-09
+16tr007z:LP-DIR-T9	16tr007z:LP-DIR-T	16tr007z		166.1	35.5	0	0	0	0	9	8.730e+02	 6.508e-08	 6.508e-03	This study	2G	LT-T-Z:LP-DIR-T	g	8	u	4	2.730e+02			pmagpy-3.18.0	 1.933e-09	 1.867e-09	 1.917e-09
+16tr007z:LP-DIR-T10	16tr007z:LP-DIR-T	16tr007z		165.9	36.6	0	0	0	0	10	8.880e+02	 6.507e-08	 6.507e-03	This study	2G	LT-T-Z:LP-DIR-T	g	9	u	4	2.730e+02			pmagpy-3.18.0	 1.775e-09	 1.578e-09	 1.657e-09
+16tr007z:LP-DIR-T11	16tr007z:LP-DIR-T	16tr007z		169.6	36.2	0	0	0	0	11	9.030e+02	 6.304e-08	 6.304e-03	This study	2G	LT-T-Z:LP-DIR-T	g	10	u	4	2.730e+02			pmagpy-3.18.0	 1.750e-09	 1.724e-09	 1.435e-09
+16tr007z:LP-DIR-T12	16tr007z:LP-DIR-T	16tr007z		163.4	38.1	0	0	0	0	12	9.130e+02	 6.319e-08	 6.319e-03	This study	2G	LT-T-Z:LP-DIR-T	g	11	u	4	2.730e+02			pmagpy-3.18.0	 1.659e-09	 1.540e-09	 1.309e-09
+16tr007z:LP-DIR-T13	16tr007z:LP-DIR-T	16tr007z		163.4	36.5	0	0	0	0	13	9.230e+02	 6.235e-08	 6.235e-03	This study	2G	LT-T-Z:LP-DIR-T	g	12	u	4	2.730e+02			pmagpy-3.18.0	 2.023e-09	 1.892e-09	 1.650e-09
+16tr007z:LP-DIR-T14	16tr007z:LP-DIR-T	16tr007z		158.5	35.8	0	0	0	0	14	9.300e+02	 6.152e-08	 6.152e-03	This study	2G	LT-T-Z:LP-DIR-T	g	13	u	4	2.730e+02			pmagpy-3.18.0	 1.873e-09	 1.749e-09	 1.519e-09
+16tr007z:LP-DIR-T15	16tr007z:LP-DIR-T	16tr007z		157.8	35.6	0	0	0	0	15	9.330e+02	 6.129e-08	 6.129e-03	This study	2G	LT-T-Z:LP-DIR-T	g	14	u	4	2.730e+02			pmagpy-3.18.0	 1.728e-09	 1.554e-09	 1.219e-09
+16tr007z:LP-DIR-T16	16tr007z:LP-DIR-T	16tr007z		153.9	37.1	0	0	0	0	16	9.360e+02	 5.882e-08	 5.882e-03	This study	2G	LT-T-Z:LP-DIR-T	g	15	u	4	2.730e+02			pmagpy-3.18.0	 1.710e-09	 1.843e-09	 1.268e-09
+16tr007z:LP-DIR-T17	16tr007z:LP-DIR-T	16tr007z		160.0	34.2	0	0	0	0	17	9.390e+02	 6.157e-08	 6.157e-03	This study	2G	LT-T-Z:LP-DIR-T	g	16	u	4	2.730e+02			pmagpy-3.18.0	 2.082e-09	 1.857e-09	 1.520e-09
+16tr007z:LP-DIR-T18	16tr007z:LP-DIR-T	16tr007z		148.5	45.4	0	0	0	0	18	9.420e+02	 4.954e-08	 4.954e-03	This study	2G	LT-T-Z:LP-DIR-T	g	17	u	4	2.730e+02			pmagpy-3.18.0	 2.054e-09	 1.816e-09	 1.055e-09
+16tr007z:LP-DIR-T19	16tr007z:LP-DIR-T	16tr007z	    9.4	  162.0	   38.9	0	0	0	0	19	9.450e+02	5.392e-08	 5.112e-03	This study	2G	LT-T-Z:DE-VM:LP-DIR-T	g	18	u	    2.0	2.730e+02		average of multiple measurements	pmagpy-3.18.0	 1.500e-09	 2.021e-09	 1.050e-09
+16tr007z:LP-DIR-T20	16tr007z:LP-DIR-T	16tr007z		165.2	31.4	0	0	0	0	20	9.480e+02	 5.348e-08	 5.348e-03	This study	2G	LT-T-Z:LP-DIR-T	g	19	u	4	2.730e+02			pmagpy-3.18.0	 1.877e-09	 1.706e-09	 1.245e-09
+16tr007z:LP-DIR-T21	16tr007z:LP-DIR-T	16tr007z		162.7	24.9	0	0	0	0	21	9.510e+02	 4.076e-08	 4.076e-03	This study	2G	LT-T-Z:LP-DIR-T	g	20	u	4	2.730e+02			pmagpy-3.18.0	 1.624e-09	 1.514e-09	 1.160e-09
+16tr007z:LP-DIR-T22	16tr007z:LP-DIR-T	16tr007z		134.7	26.9	0	0	0	0	22	9.540e+02	 2.991e-08	 2.991e-03	This study	2G	LT-T-Z:LP-DIR-T	g	21	u	4	2.730e+02			pmagpy-3.18.0	 1.249e-09	 1.214e-09	 9.883e-10
+16tr007z:LP-DIR-T23	16tr007z:LP-DIR-T	16tr007z		155.9	14.0	0	0	0	0	23	9.570e+02	 2.811e-08	 2.811e-03	This study	2G	LT-T-Z:LP-DIR-T	g	22	u	4	2.730e+02			pmagpy-3.18.0	 9.178e-10	 1.014e-09	 7.428e-10
+16tr007z:LP-DIR-T24	16tr007z:LP-DIR-T	16tr007z		145.2	-9.4	0	0	0	0	24	9.600e+02	 1.273e-08	 1.273e-03	This study	2G	LT-T-Z:LP-DIR-T	g	23	u	4	2.730e+02			pmagpy-3.18.0	 6.349e-10	 6.632e-10	 3.753e-10
+16tr007z:LP-DIR-T25	16tr007z:LP-DIR-T	16tr007z		136.2	-17.1	0	0	0	0	25	9.630e+02	 9.507e-09	 9.507e-04	This study	2G	LT-T-Z:LP-DIR-T	g	24	u	4	2.730e+02			pmagpy-3.18.0	 5.662e-10	 5.800e-10	 2.598e-10
