@@ -285,8 +285,8 @@
 5501 550.0   29.9   42.3  -60.5  7702 !
 5501 600.0   19.54   58.3  -79.89  7702 !
 5501 600.1   48.97  -76.38  -47.78  001 !Torsvik et al 2012, 2014
-5501 700.0  -1.2   -105.3   -298.9  6603 !no constraint, collision with South China, hand-off from 001
-5501 920.0  -1.2   -105.3   -298.9  6603 !no constraint, collision with South China, hand-off from 001
+5501 700.0   -1.2 -105.3 -298.9  6603 !no constraint, collision with South China, hand-off from 001
+5501 920.0   -1.2 -105.3 -298.9  6603 !no constraint, collision with South China, hand-off from 001
 5501 1015.0   63.73  -23.82  -55.67  001 !interpolation as India approached Laurentia et al. after TPW ends at Haliburton pole
 5501 1080.0   46.67  -90.83  -80.84  001 !constrained by Majhgawan Kimberlite pole
 5501 1113.0   52.83  -79.54  -90.9  001 !Satisfying Mahoba dykes pole
@@ -349,8 +349,8 @@
 6603 580.0  -49.83 -111.24   40.65  7702 !Hand-off to S Afr.
 6603 580.1  -32.76   71.01   77.29  001 !Doushantuo B pole
 6603 645.0    0.39 -109.07  -81.89  001 !Satisfying Nantuo Fm. pole
-6603 778.0  -45.6294  -31.4638 -159.2272  001 !Satisfy Liantuo pole
-6603 814.0  -70.6  -90.97 -177.18  001 !Satisfy Banxi pole
+6603 778.0  -51.0235  -35.9639 -162.6666  001 !Satisfy Liantuo pole
+6603 815.0  -70.6  -90.97 -177.18  001 !Satisfy Banxi pole
 6603 820.0  -54.09 -103.67 -154.73  001 !Satisfy Xiaofeng pole
 6603 1275.0   43.09  -33.56   56.4  001 !Pehrsson2015 Yangtze Euler for the end of their model
 6601  0.0   90.0    0.0    0.0  6603 !Cathaysia connection to Yangtze persists to present day

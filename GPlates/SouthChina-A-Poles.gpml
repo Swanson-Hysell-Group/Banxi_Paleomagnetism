@@ -81,8 +81,8 @@
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
-            <gpml:poleA95>2.3811761800000002</gpml:poleA95>
-            <gpml:averageAge>745</gpml:averageAge>
+            <gpml:poleA95>5.3</gpml:poleA95>
+            <gpml:averageAge>778</gpml:averageAge>
             <gpml:averageSampleSitePosition>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -97,7 +97,7 @@
                 <gpml:ConstantValue>
                     <gpml:value>
                         <gml:Point>
-                            <gml:pos>3.3999999999999995 163.59999999999999</gml:pos>
+                            <gml:pos>13.2 155.2</gml:pos>
                         </gml:Point>
                     </gpml:value>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Point</gpml:valueType>
