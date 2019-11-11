@@ -2,22 +2,22 @@
 <gpml:FeatureCollection xmlns:gpml="http://www.gplates.org/gplates" xmlns:gml="http://www.opengis.net/gml" xmlns:xsi="http://www.w3.org/XMLSchema-instance" gpml:version="1.6.0330" xsi:schemaLocation="http://www.gplates.org/gplates ../xsd/gpml.xsd http://www.opengis.net/gml ../../../gml/current/base">
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-8c849d43-d76d-457b-bf63-b7affa566409</gpml:identity>
-            <gpml:revision>GPlates-6306789b-aa9c-4ac5-a483-f1680c491e3d</gpml:revision>
-            <gml:name>Xiaofeng Dikes</gml:name>
+            <gpml:identity>GPlates-fe6de4f0-a874-4a5e-8aa8-b6bc2921550a</gpml:identity>
+            <gpml:revision>GPlates-828689ce-b80e-47c1-9a07-9e440045da78</gpml:revision>
+            <gml:name>Johnny's Creek siltstones</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
-                    <gpml:value>6603</gpml:value>
+                    <gpml:value>8010</gpml:value>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
-            <gpml:poleA95>10.8927</gpml:poleA95>
-            <gpml:averageAge>821</gpml:averageAge>
+            <gpml:poleA95>10.6</gpml:poleA95>
+            <gpml:averageAge>760</gpml:averageAge>
             <gpml:averageSampleSitePosition>
                 <gpml:ConstantValue>
                     <gpml:value>
                         <gml:Point>
-                            <gml:pos>31 111.2</gml:pos>
+                            <gml:pos>-24.000000000000004 133.5</gml:pos>
                         </gml:Point>
                     </gpml:value>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Point</gpml:valueType>
@@ -27,7 +27,7 @@
                 <gpml:ConstantValue>
                     <gpml:value>
                         <gml:Point>
-                            <gml:pos>13.5 91</gml:pos>
+                            <gml:pos>7.9000000000000004 74.299999999999997</gml:pos>
                         </gml:Point>
                     </gpml:value>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Point</gpml:valueType>
@@ -37,22 +37,22 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-8c849d43-d76d-457b-bf63-b7affa566409</gpml:identity>
-            <gpml:revision>GPlates-6306789b-aa9c-4ac5-a483-f1680c491e3d</gpml:revision>
-            <gml:name>Xiaofeng Dykes (reversed)</gml:name>
+            <gpml:identity>GPlates-8d53c634-3a7b-4743-9d27-aaf9c8df9fb9</gpml:identity>
+            <gpml:revision>GPlates-6b10faa6-2f08-4e06-84e7-97dbd21c352a</gpml:revision>
+            <gml:name>Wooltana Volcanics</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
-                    <gpml:value>6603</gpml:value>
+                    <gpml:value>8002</gpml:value>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
-            <gpml:poleA95>10.8927</gpml:poleA95>
-            <gpml:averageAge>821</gpml:averageAge>
+            <gpml:poleA95>16.970562749999999</gpml:poleA95>
+            <gpml:averageAge>800</gpml:averageAge>
             <gpml:averageSampleSitePosition>
                 <gpml:ConstantValue>
                     <gpml:value>
                         <gml:Point>
-                            <gml:pos>31 111.2</gml:pos>
+                            <gml:pos>-30.299999999999997 139.5</gml:pos>
                         </gml:Point>
                     </gpml:value>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Point</gpml:valueType>
@@ -62,7 +62,7 @@
                 <gpml:ConstantValue>
                     <gpml:value>
                         <gml:Point>
-                            <gml:pos>-13.5 271</gml:pos>
+                            <gml:pos>-62 142</gml:pos>
                         </gml:Point>
                     </gpml:value>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Point</gpml:valueType>
@@ -72,22 +72,22 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-a0b046ed-5782-451d-a84c-ab3bf09c5107</gpml:identity>
-            <gpml:revision>GPlates-e3610a99-89f3-48ba-907d-1a77ed3ed3f7</gpml:revision>
-            <gml:name>Liantuo Formation</gml:name>
+            <gpml:identity>GPlates-4a5dc0c4-3cde-43bd-a598-1119da0b4476</gpml:identity>
+            <gpml:revision>GPlates-cba09076-b734-4f72-8327-6dfd0901df7f</gpml:revision>
+            <gml:name>Lancer borehole, Browne Formation</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
-                    <gpml:value>6603</gpml:value>
+                    <gpml:value>8003</gpml:value>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
-            <gpml:poleA95>5.3</gpml:poleA95>
-            <gpml:averageAge>778</gpml:averageAge>
+            <gpml:poleA95>6.7</gpml:poleA95>
+            <gpml:averageAge>815</gpml:averageAge>
             <gpml:averageSampleSitePosition>
                 <gpml:ConstantValue>
                     <gpml:value>
                         <gml:Point>
-                            <gml:pos>30.90 111.2</gml:pos>
+                            <gml:pos>-25.042 123.756</gml:pos>
                         </gml:Point>
                     </gpml:value>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Point</gpml:valueType>
@@ -97,7 +97,7 @@
                 <gpml:ConstantValue>
                     <gpml:value>
                         <gml:Point>
-                            <gml:pos>13.2 155.2</gml:pos>
+                            <gml:pos>44.5 141.7</gml:pos>
                         </gml:Point>
                     </gpml:value>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Point</gpml:valueType>
