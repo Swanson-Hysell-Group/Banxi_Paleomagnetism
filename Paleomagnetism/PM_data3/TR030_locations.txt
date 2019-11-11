@@ -1,3 +1,0 @@
-tab	locations
-location	lat_n	lat_s	lon_e	lon_w	analysts	citations
-Luoman1	27.9	27.9	108.8	108.8		This study
