@@ -1,3 +1,0 @@
-tab	sites
-analysts	citations	lat	location	lon	site
-	This study	27.8	Mamagou	108.8	TR004

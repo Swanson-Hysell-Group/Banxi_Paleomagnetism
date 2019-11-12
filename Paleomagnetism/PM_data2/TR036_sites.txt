@@ -1,3 +1,0 @@
-tab	sites
-site	location	lat	lon	analysts	citations
-TR036	Luoman2	28.0	108.8		This study

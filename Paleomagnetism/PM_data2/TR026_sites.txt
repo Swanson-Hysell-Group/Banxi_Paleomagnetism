@@ -1,3 +1,0 @@
-tab	sites
-site	location	lat	lon	analysts	citations
-TR026	Quick_River	27.9	108.8		This study

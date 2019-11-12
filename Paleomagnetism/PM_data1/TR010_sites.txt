@@ -1,3 +1,0 @@
-tab	sites
-analysts	citations	lat	location	lon	site
-	This study	28.0	Hongzixi	108.8	TR010
