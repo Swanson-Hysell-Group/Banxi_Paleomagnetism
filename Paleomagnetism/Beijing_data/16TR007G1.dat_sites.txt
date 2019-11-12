@@ -1,3 +1,0 @@
-tab	sites
-site	location	lat	lon	geologic_classes	geologic_types	lithologies
-16tr007	unknown	28	107.8			

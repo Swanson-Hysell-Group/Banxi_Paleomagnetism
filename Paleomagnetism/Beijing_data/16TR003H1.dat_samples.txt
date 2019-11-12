@@ -1,3 +1,0 @@
-tab	samples
-sample	site	geologic_classes	geologic_types	lithologies	azimuth	azimuth_dec_correction	bed_dip	bed_dip_direction	dip	method_codes
-16tr003h	16tr003				  120.0	    0.0	   51.0	   55.0	  -53.0	SO-SM:SO-CMD-NORTH

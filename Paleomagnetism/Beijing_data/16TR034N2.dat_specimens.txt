@@ -1,3 +1,0 @@
-tab	specimens
-specimen	sample	geologic_classes	geologic_types	lithologies	volume
-16tr034n	16tr034n				 1.000e-05
