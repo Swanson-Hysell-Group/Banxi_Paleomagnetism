@@ -54,7 +54,7 @@
                         <gpml:KeyValueDictionaryElement>
                             <gpml:key>FROMAGE</gpml:key>
                             <gpml:valueType xmlns:xsi="http://www.w3.org/XMLSchema-instance">xsi:double</gpml:valueType>
-                            <gpml:value>1900</gpml:value>
+                            <gpml:value>1113</gpml:value>
                         </gpml:KeyValueDictionaryElement>
                     </gpml:element>
                     <gpml:element>

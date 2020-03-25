@@ -1,109 +1,25 @@
 001  0.0   90.0    0.0    0.0  000 !
-001 788.0   90.0    0.0    0.0  000 !
-001 800.0    0.0  180.0  -50.0  000 !
-001 812.0   90.0    0.0    0.0  000 !
 001 1800.0   90.0    0.0    0.0  000 !
-1000  0.0   90.0    0.0    0.0  7703 !
-1000  5.0   80.9   22.8    1.3  7703 !From Torsvik+2012
-1000 10.0   80.9   22.9    2.6  7703 !From Torsvik+2012
-1000 15.0   80.9   23.2    4.1  7703 !From Torsvik+2012
-1000 20.0   80.6   24.4    5.5  7703 !From Torsvik+2012
-1000 25.0   79.5   28.1    6.8  7703 !From Torsvik+2012
-1000 30.0   77.4   12.5    8.6  7703 !From Torsvik+2012
-1000 35.0   75.4    3.5   10.5  7703 !From Torsvik+2012
-1000 40.0   74.5   -1.1   12.6  7703 !From Torsvik+2012
-1000 45.0   74.3   -4.3   14.6  7703 !From Torsvik+2012
-1000 50.0   75.9   -3.5   16.2  7703 !From Torsvik+2012
-1000 55.0   79.8    4.1   17.6  7703 !From Torsvik+2012
-1000 60.0   81.6    5.1   19.1  7703 !From Torsvik+2012
-1000 65.0   82.6    3.2   20.7  7703 !From Torsvik+2012
-1000 70.0   81.6   -6.5   22.4  7703 !From Torsvik+2012
-1000 75.0   80.4  -13.1   24.6  7703 !From Torsvik+2012
-1000 80.0   78.2  -18.8   27.5  7703 !From Torsvik+2012
-1000 85.0   76.2  -21.2   30.5  7703 !From Torsvik+2012
-1000 90.0   74.3  -22.7   33.9  7703 !From Torsvik+2012
-1000 95.0   71.6  -24.2   37.1  7703 !From Torsvik+2012
-1000 100.0   69.4  -23.5   40.5  7703 !From Torsvik+2012
-1000 105.0   68.4  -22.9   44.0  7703 !From Torsvik+2012
-1000 110.0   67.5  -22.1   47.5  7703 !From Torsvik+2012
-1000 115.0   66.7  -21.4   51.0  7703 !From Torsvik+2012
-1000 120.0   66.0  -20.6   54.2  7703 !From Torsvik+2012
-1000 125.0   65.9  -19.8   56.0  7703 !From Torsvik+2012
-1000 130.0   66.0  -19.2   57.7  7703 !From Torsvik+2012
-1000 135.0   66.4  -18.5   58.7  7703 !From Torsvik+2012
-1000 140.0   66.4  -18.2   60.1  7703 !From Torsvik+2012
-1000 145.0   66.1  -18.6   61.8  7703 !From Torsvik+2012
-1000 150.0   66.4  -17.8   63.2  7703 !From Torsvik+2012
-1000 155.0   67.1  -15.7   64.6  7703 !From Torsvik+2012
-1000 160.0   67.1  -15.1   66.6  7703 !From Torsvik+2012
-1000 165.0   67.1  -14.4   68.6  7703 !From Torsvik+2012
-1000 170.0   67.1  -13.9   70.6  7703 !From Torsvik+2012
-1000 175.0   66.5  -14.2   71.8  7703 !From Torsvik+2012
-1000 180.0   65.9  -14.5   73.1  7703 !From Torsvik+2012
-1000 185.0   65.4  -14.7   74.5  7703 !From Torsvik+2012
-1000 190.0   64.8  -15.0   75.8  7703 !From Torsvik+2012
-1000 195.0   64.3  -15.2   77.1  7703 !From Torsvik+2012
-1000 200.0   64.3  -15.0   77.4  7703 !From Torsvik+2012
-1000 205.0   64.3  -14.9   77.7  7703 !From Torsvik+2012
-1000 210.0   64.28  -14.74   78.05  7703 !NAM-NWA	Labails	et	al.	-2010	Gradstein1994TS	-	closure	max
-1000 310.0   64.28  -14.74   78.05  7703 !NAM-NWA	Labails	et	al.	-2010	Gradstein1994TS	-	closure	max
-1000 320.0   64.28  -14.74   78.05  7703 !Pangea	in	place
-1000 330.0   53.21  -21.16   79.73  7703 !Finetuded	longitude	4th	ITE
-1000 330.1   18.37   45.23   71.16  001 !PM60	27	LAU	Torsvik	2011
-1000 340.0    6.71   38.54   73.66  001 !PM60	10	LAU	Torsvik	2011
-1000 350.0   -2.15   31.5   77.46  001 !Finetuded	longitude	4th	ITE
-1000 360.0    8.81 -156.84  -81.38  001 !PM60	-25	LAU	Torsvik	2011
-1000 370.0   11.96 -163.67  -85.28  001 !Torsvik et al 2012, 2014
-1000 380.0   12.66 -168.73  -88.9  001 !Torsvik et al 2012, 2014
-1000 390.0   14.21 -174.83  -93.04  001 !Torsvik et al 2012, 2014
-1000 400.0   15.03 -176.83  -94.35  001 !Torsvik et al 2012, 2014
-1000 410.0   21.36 -178.09  -93.55  001 !IT6	finetune
-1000 420.0   32.15 -171.98  -93.19  001 !Finetuning	after	IT5
-1000 422.0   33.47 -170.54  -93.46  001 !Finetuning	after	IT5
-1000 430.0   40.47 -167.08  -97.63  001 !Finetuded	longitude	4th	ITE
-1000 440.0   42.41 -173.17 -105.17  001 !Torsvik et al 2012, 2014
-1000 450.0   45.48 -174.25 -113.75  001 !Torsvik et al 2012, 2014
-1000 460.0   46.08 -172.39 -117.61  001 !Torsvik et al 2012, 2014
-1000 470.0   44.31 -166.33 -114.85  001 !Torsvik et al 2012, 2014
-1000 480.0   46.48 -172.5 -131.66  001 !adjusted paleolong from Domeier2015 - farther west
-1000 490.0   47.81 -176.18 -149.22  001 !adjusted paleolong from Domeier2015 - farther west
-1000 500.0   46.55  175.93 -162.72  001 !adjusted paleolong from Domeier2015 - farther west
-1000 510.0   44.0  176.82 -170.06  001 !adjusted paleolong from Domeier2015 - farther west
-1000 520.0   41.5 -177.16 -169.77  001 !adjusted paleolong from Domeier2015 - farther west
-1000 530.0   41.36 -173.16 -164.38  001 !adjusted paleolong from Domeier2015 - farther west
-1000 540.0   43.78 -173.02 -159.25  001 !adjusted paleolong from Domeier2015 - farther west
-1000 615.0   34.61 -173.55 -166.66  001 !Long Range Dykes pole - paleolong kept pretty similar to before, farther west
-1000 720.0  -47.05   -2.16  156.4  001 !Reconstruction from Franklin LIP pole
-1000 750.0  -45.6914   -6.5683  157.5503  001 !Reconstruction from Uinta Mtn/Galeros pole
-1000 778.0  -48.1907  -20.5893  144.7696  001 !Reconstruction from Tsezotene Sills/Gunbarrel poles
-1000 790.0  -61.72   -7.0  151.72  001 !rotation to Svanbergfjellet
-1000 805.0  -57.06  -27.64  150.23  001 !rotation to L Grus pole
-1000 925.0  -47.63   -0.83  210.86  001 !Laurentia et al. group satisfying Baltica Bratton pole
-1000 945.0  -45.02   -7.83  207.5  001 !Rotate Laurentia to satisfy 945 Ma Sweden dikes pole assuming standard Baltica-Laur fit
-1000 1015.0  -28.41  -32.4  174.59  001 !Laurentia reconstructed using Haliburton Pole
-1000 1080.0  -49.7709  -13.7503  201.5856  001 !
-1000 1085.0  -53.68  -12.9445  203.1903  001 !
-1000 1095.0  -61.2956  -10.3493  202.7078  001 !
-1000 1100.0  -63.6788   -3.3504  206.205  001 !
-1000 1105.0  -65.4043    9.7823  210.7673  001 !
-1000 1110.0  -67.1883   23.6505  214.9744  001 !Laurentia reconstructed to start of Kewee Track
-1000 1144.0  -68.52   27.25  216.73  001 !Laurentia reconstructed using Lamprophyre+Abitibi
-1000 1210.0  -56.5065   38.3802  228.7469  001 !Laurentia reconstructed to satisfy Fraser pole with Aus-fit
-1000 1237.0  -44.3581    0.7052  197.957  001 !Laurentia reconstructed using Sudbury pole
-1000 1270.0  -46.04   -1.48  196.66  001 !Laurentia reconstructed using Mackenzie pole
-1000 1305.0  -47.0477   -2.3292  224.6261  001 !Laurentia reconstructed using Nain Anorthosite pole
-1000 1440.0  -24.4641   -9.1478  224.4076  001 !Laurentia reconstructed using Purcell pole
-1000 1460.0  -24.4641   -9.1478  224.4076  001 !Laurentia reconstructed using Purcell pole
-1000 1590.0  -29.1632    3.6466  263.5929  001 !Laurentia reconstructed using Western Channel diabase pole
-1000 1635.0  -17.631    9.1677  267.5615  001 !Laurentia reconstructed using Melville Bugt pole
-1000 1740.0   -5.3961   10.7109  289.4095  001 !Laurentia reconstructed using Cleaver dikes pole
-1000 1800.0    0.2705    6.6469  277.5901  001 !Laurentia reconstructed using Dubawnt Group pole
-1000 1818.0   -0.0   18.0  270.0  001 !
-1000 1837.0   -0.0   20.0  290.0  001 !
+1000 615.0   34.61 -173.55 -166.66  001 !Satisfy Long Range Dykes pole (B-grade)
+1000 724.0  -47.05   -2.16  156.4  001 !Satisfy Franklin Dykes pole (A-grade)
+1000 758.0  -42.4817   -1.5271  164.7379  001 !Assume standard Siberia-Laurentia fit - satisfy Kitoi Cryogenian Dykes pole from Siberia (A-grade)
+1000 778.0  -48.1907  -20.5893  144.7696  001 !Satisfy Tsezotene Sills/Gunbarrel poles (B-grade)
+1000 800.0  -48.4136   20.1311  156.7102  001 !Satisfy Upper Grusdievbreen Formation pole (B-grade)
+1000 831.0  -57.06  -27.64  150.23  001 !Satisfy Lower Grusdievbreen Formation pole (B-grade)
+1000 848.0  -27.3846   -8.9722  178.7859  001 !Assume standard Baltica-Laurentia fit - satisfy Hunnedalen Dykes pole from Baltica (B-grade)
+1000 903.0  -29.1702   -9.8347  175.998  001 !Assume standard Baltica-Laurentia fit - satisfy Rogaland Igneous Complex pole from Baltica (B-grade)
+1000 916.0  -47.63   -0.83  210.86  001 !Assume standard Baltica-Laurentia fit - satisfy Bratton and Algon pole from Baltica (B-grade)
+1000 925.0  -29.4222   -5.3267  201.8555  001 !Satisfy Torridon Group Mean pole (B-grade)
+1000 945.0  -45.02   -7.83  207.5  001 !Assume standard Baltica-Laurentia fit - satisfy Sweden Dykes pole from Baltica (A-grade)
+1000 975.0  -37.7375  -20.2031  192.5779  001 !Assume standard Siberia-Laurentia fit - satisfy Kandykskaya Suite pole from Siberia (B-grade)
+1000 1015.0  -28.41  -32.4  174.59  001 !Satisfy Haliburton Intrusions pole (B-grade)
+1000 1025.0  -38.7637  -21.1445  214.432  001 !Assume standard Siberia-Laurentia fit - satisfy Milkon Formation pole from Siberia (B-grade)
+1000 1040.0  -44.9909  -18.0142  209.6871  001 !Assume standard Siberia-Laurentia fit - satisfy Kumakha Formation pole from Siberia (B-grade)
+1000 1050.0  -49.7709  -13.7503  201.5856  001 !Satisfy Freda Sandstone/Nonesuch Shale poles (B-grade)
+1000 1084.0  -52.9147  -17.1418  199.4011  001 !Satisfy Michipicoten Island Formation pole (A-grade)
 1013  0.0   90.0    0.0    0.0  1000 !Associate Superior Craton with Laurentia
 1013 1800.0   90.0    0.0    0.0  1000 !Associate Superior Craton with Laurentia
-1022  0.0   90.0    0.0    0.0  001 !hand-off Scotland to absolute reference frame
-1022 320.0   73.0   96.5  -22.0  1000 !
+1022  0.0   73.0   96.5  -22.0  1000 !
 1022 1800.0   73.0   96.5  -22.0  1000 !Rotate (proto-)Scotland to Laurentia-Greenland fit according to Darabi2004
 1201 250.0   67.5 -118.5  -13.8  1000 !Rotation of Greenland to Laurentia
 1201 1800.0   67.5 -118.5  -13.8  1000 !Rotation of Greenland to Laurentia
@@ -187,10 +103,7 @@
 3000 1120.0   81.5 -110.0  -50.0  1000 !Classic Baltica/Laurentia connection within Rodinia (rotation from Evans2009)
 3000 1274.99   47.51    1.53   48.99  1000 !hand-off of Baltica to Laurentia
 3000 1275.0   43.33  143.86  167.81  001 !Pehrsson2015 Baltica Euler for the end of their model
-3301  0.0   90.0    0.0    0.0  001 !
-3301 100.0  -54.13  141.9   36.9  001 !
-3301 100.1  -81.0  125.0   68.0  1000 !
-3301 400.0  -81.0  125.0   68.0  1000 !
+3301  0.0  -81.0  125.0   68.0  1000 !
 3301 1275.0  -81.0  125.0   68.0  1000 !Rotate Svalbard to Laurentia in fit that works well with East Greenland basin (Maloof et al., 2006 rotation)
 4306  0.0   90.0    0.0    0.0  3000 !Aldan (All of Siberia) in present day location
 4306 220.0   77.0  144.6    2.0  3000 !
@@ -238,63 +151,10 @@
 4309 2000.0   90.0    0.0    0.0  4306 !linking Tynda-Mogocha to Aldan
 4312  0.0   90.0    0.0    0.0  4306 !linking Siberia12 to Aldan
 4312 2000.0   90.0    0.0    0.0  4306 !linking Siberia12 to Aldan
-5501  0.0   90.0    0.0    0.0  7702 !INDIA SOMALIA PAVEL D 2011 JANUARY
-5501  0.78   19.04   27.94   -0.35  7702 !INDIA_SOMALIA Merkouriev and DeMets -2006
-5501  1.77   21.78   30.86   -0.75  7702 !Merkouriev and DeMets -2006
-5501  2.58   22.9   30.6   -1.07  7702 !Merkouriev and DeMets -2006
-5501  3.58   19.58   33.72   -1.59  7702 !Merkouriev and DeMets -2006
-5501  4.18   21.75   28.44   -1.75  7702 !Merkouriev and DeMets -2006
-5501  5.23   22.1   31.62   -2.18  7702 !Merkouriev and DeMets -2006
-5501  5.89   21.96   29.3   -2.41  7702 !Merkouriev and DeMets -2006
-5501  6.57   21.28   30.9   -2.75  7702 !Merkouriev and DeMets -2006
-5501  7.43   22.55   30.55   -2.98  7702 !Merkouriev and DeMets -2006
-5501  8.07   21.97   30.83   -3.29  7702 !Merkouriev and DeMets -2006
-5501  8.7   22.41   30.75   -3.49  7702 !Merkouriev and DeMets -2006
-5501  9.02   22.59   30.77   -3.68  7702 !Merkouriev and DeMets -2006
-5501  9.74   23.57   30.46   -3.89  7702 !Merkouriev and DeMets -2006
-5501 10.95   23.65   29.15   -4.3  7702 !Merkouriev and DeMets -2006
-5501 12.4   23.72   29.22   -4.88  7702 !Merkouriev and DeMets -2006
-5501 14.61   24.59   29.15   -5.76  7702 !Merkouriev and DeMets -2006
-5501 16.01   24.8   29.29   -6.4  7702 !Merkouriev and DeMets -2006
-5501 17.28   24.85   30.28   -7.15  7702 !Merkouriev and DeMets -2006
-5501 18.28   24.76   30.27   -7.64  7702 !Merkouriev and DeMets -2006
-5501 20.13   25.98   30.69   -8.43  7702 !Merkouriev and DeMets -2006
-5501 33.55  -20.48 -137.33   16.35  7702 !combined India 501-Capricorn 511 + Capricorn-Somalia 7702
-5501 40.13  -20.41 -135.53   19.61  7702 !combined India-Capricorn + Capricorn-Somalia
-5501 42.54  -20.82 -135.97   20.54  7702 !combined India-Capricorn + Capricorn-Somalia
-5501 43.79  -21.3 -136.45   20.94  7702 !combined India-Capricorn + Capricorn-Somalia
-5501 46.26  -20.42 -136.96   22.13  7702 !combined India-Capricorn + Capricorn-Somalia
-5501 47.91  -20.27 -137.7   23.2  7702 !combined India-Capricorn + Capricorn-Somalia
-5501 49.71  -20.37 -140.32   24.41  7702 !combined India-Capricorn + Capricorn-Somalia
-5501 51.74  -18.51 -141.93   27.11  7702 !combined India-Capricorn + Capricorn-Somalia
-5501 53.35  -18.32 -144.47   29.04  7702 !combined India-Capricorn + Capricorn-Somalia
-5501 55.9  -18.25 -147.66   31.81  7702 !combined India-Capricorn + Capricorn-Somalia
-5501 57.55  -17.33 -148.28   34.14  7702 !combined India-Capricorn + Capricorn-Somalia
-5501 60.92  -15.5 -148.94   38.42  7702 !combined India-Capricorn + Capricorn-Somalia
-5501 62.5  -14.93 -149.24   40.49  7702 !combined India-Capricorn + Capricorn-Somalia
-5501 64.75  -15.8 -152.6   42.68  7702 !combined India-Capricorn + Capricorn-Somalia
-5501 67.67   18.45   23.47  -44.14  7702 !Molnar et al. -1988
-5501 73.62   19.48   21.95  -48.11  7702 !Molnar et al. -1988
-5501 79.07   20.32   21.39  -51.3  7702 !Molnar et al. -1988
-5501 83.5   23.36   19.57  -51.54  7702 !Molnar et al. -1988
-5501 88.0   19.8   27.2  -59.16  7702 !RDM/chris 30/11/2001
-5501 120.4   24.02   32.04  -53.01  7702 !
-5501 124.0   23.14   33.1  -54.51  7702 !
-5501 132.0  -20.1 -145.22   61.25  7702 !
-5501 132.1    4.76 -165.5   88.01  8801 !
-5501 160.0    4.7 -165.5   88.25  8801 !This is tricky - India rifting with Mad and Ant and then link back to SAfr
-5501 160.1   29.9   42.3  -60.5  7702 !
-5501 550.0   29.9   42.3  -60.5  7702 !
-5501 550.0   29.9   42.3  -60.5  7702 !
-5501 600.0   19.54   58.3  -79.89  7702 !
-5501 600.1   48.97  -76.38  -47.78  001 !Torsvik et al 2012, 2014
-5501 760.0    6.5  167.1  -20.5  001 !Constrained by Malani pole
-5501 920.0  -31.49   -7.72   57.82  001 !no constraint, collision with South China, hand-off from 001
-5501 1015.0   63.73  -23.82  -55.67  001 !interpolation as India approached Laurentia et al. after TPW ends at Haliburton pole
-5501 1080.0   46.67  -90.83  -80.84  001 !constrained by Majhgawan Kimberlite pole
-5501 1113.0   52.83  -79.54  -90.9  001 !Satisfying Mahoba dykes pole
-5501 1192.0   61.04  144.31  -64.71  001 !Constrained by Harohalli pole
-5501 1275.0   41.87  117.33  -67.15  001 !India next to Australia - no constraint
+5501 600.1   48.97  -76.38  -47.78  001 !Following Torsvik et al. (2012, 2014)
+5501 759.0    6.5  167.1  -20.5  001 !Satisfy Malani Dykes pole (A-grade)
+5501 1073.5   46.67  -90.83  -80.84  001 !Satisfy Majhgawan Kimberlite pole (B-grade)
+5501 1113.0   52.83  -79.54  -90.9  001 !Satisfy Mahoba Dykes pole (B-grade)
 6003  0.0   90.0    0.0    0.0  001 !
 6003  0.0   90.0    0.0    0.0  4306 !Recalculated	to	Siberia
 6003 140.0   90.0    0.0    0.0  4306 !Recalculated	to	Siberia
@@ -353,7 +213,7 @@
 6603 580.1  -32.76   71.01   77.29  001 !Doushantuo B pole
 6603 645.0    0.39 -109.07  -81.89  001 !Satisfying Nantuo Fm. pole
 6603 740.0   16.4973 -122.7524  -91.4304  001 ! Satisfy Liantuo pole
-6603 821.0  48.62  65.6 140.1  001 !hand-off to 001 from Laurentia
+6603 821.0   48.62   65.6  140.1  001 !hand-off to 001 from Laurentia
 6603 821.0   -4.7632  -59.8685 -240.5441  1000 !Reconstruct to statisfy Xiaofeng dikes pole
 6603 900.0  -10.23  -26.77 -202.31  1000 !trying to satisfy Liantuo and Xiaofeng poles with the Laurentia path
 6603 1050.0  -10.23  -26.77 -202.31  1000 !Against India and Australia like Cawood et al. 2013
