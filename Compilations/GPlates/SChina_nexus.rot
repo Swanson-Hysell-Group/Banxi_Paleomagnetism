@@ -1054,7 +1054,7 @@
 501 720.0   43.8407 -143.278  -61.85  000 ! IND-000 India-Spin Axis @REF Merdith et al. (2017)
 501 725.0  -66.5449   -2.2428   80.9054  000 ! Park modification - COME BACK TO THIS S. CHINA PATH
 501 752.0   69.4022  139.4714  -61.2715  000 ! Park modification - COME BACK TO THIS S. CHINA PATH
-501 755.0    6.4834  154.7991  -16.9442  000 !
+501 755.0   32.208  178.1617  -23.636  000 !
 501 801.0  -41.4357  -66.6919   82.8756  000 ! Park modification - COME BACK TO THIS S. CHINA PATH
 501 814.0  -50.9342  -61.1068   78.6732  000 ! Park modification - COME BACK TO THIS S. CHINA PATH
 501 821.0  -47.7165  -59.0837   80.611  000 ! Park modification - COME BACK TO THIS S. CHINA PATH
@@ -1426,7 +1426,7 @@
 602 455.0   61.1119  -17.9612  -35.1005  701 ! SCB-AFR Merdith et al. (this study)
 602 550.0  -62.7136 -168.966   40.5891  701 ! SCB-AFR Merdith et al. (this study)
 602 550.0    1.98   74.44   40.29  501 ! SCB-IND South China Block-India Merdith et al. (2017)
-602 755.0  -13.5597   11.2896  -27.3169  501 !
+602 755.0    6.7224   77.6921   67.9571  501 !
 602 1100.0    1.98   74.44   40.29  501 ! SCB-IND Merdith et al. (2017)
 603  0.0   90.0    0.0    0.0  604 ! SBM-ICH Sino Burma Malaya-Indochina
 603 11.1   26.94   96.43    0.58  604 ! SBM-ICH @REF McCabe_++_1988 @DOI"10.1029/JB093iB10p11899" @CHRONID"An5"
@@ -2216,7 +2216,7 @@
 801 635.0  -29.9879 -101.4061   41.575  701 ! AUS-CON Merdith et al. (this study)
 801 750.0   20.6302 -124.458   87.8988  701 ! Park modification - Hand off to Congo
 801 750.0  -33.8769  -31.5064 -131.3747  101 ! Park modification - align Laurentia's Grenville loop with Australia poles - inspired by Swanson-Hysell et al. (2012)
-801 755.0  -33.8769  -31.5064 -131.3747  101 !
+801 755.0  -29.9108  -23.1709 -131.1567  101 !
 801 1275.0  -33.8769  -31.5064 -131.3747  101 ! Park modification - align Laurentia's Grenville loop with Australia poles - inspired by Swanson-Hysell et al. (2012)
 802  0.0   90.0    0.0    0.0  701 ! ANT-AFR Antarctica-Africa @C"ZEROROT"
 802 10.9    8.2  -49.4    1.53  701 ! ANT-AFR @REF Royer_++_1991 @DOI"10.1029/91JB00897" @CHRONID"C5"
@@ -2248,6 +2248,7 @@
 803  0.0   90.0    0.0    0.0  802 ! IAN-ANT Indo-Antarctica-Antarctica
 803 410.0   90.0    0.0    0.0  802 ! IAN-ANT
 803 410.0    3.64 -165.79  -88.28  501 ! IAN-IND Indo-Antarctica-India
+803 755.0    1.8434 -165.1696  -91.8395  501 !
 803 1110.0    3.64 -165.79  -88.28  501 ! IAN-IND
 804  0.0   90.0    0.0    0.0  802 ! MBL-ANT Marie Byrd Land-East Antarctica
 804 26.55   90.0    0.0    0.0  802 ! MBL-ANT @REF Cande_Stock_2004 @DOI"10.1029/151GM02" Based on Adare Trough anom 8o
