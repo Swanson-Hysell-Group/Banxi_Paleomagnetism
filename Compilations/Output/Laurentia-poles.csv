@@ -1,0 +1,107 @@
+name,terrane,age,age upper,age lower,plat,plon,a95,f,slat,slon,dec,inc,dir_a95,pole ref,age ref,grade,note,plateID
+Stillwater Complex - C2,Laurentia-Wyoming,2705.0,2709.0,2701.0,-83.6,335.8,4.0,,45.2,249.2,,,,\cite{Selkin2008a},,A,,101
+Otto Stock dykes and aureole,Laurentia-Superior(East),2676.0,2681.0,2671.0,69.0,227.0,4.8,,48.0,279.9,,,,\cite{Pullaiah1975b},,B,,101
+Defeat Suite,Laurentia-Slave,2625.0,2630.0,2620.0,-1.0,64.0,15.0,,62.5,245.5,,,,\cite{Mitchell2014a},,B,,101
+Ptarmigan-Mistassini dykes,Laurentia-Superior(East),2505.0,2507.0,2503.0,-45.3,213.0,13.8,,54.0,287.0,,,,\cite{Evans2010a},,B,,101
+Matachewan dykes R,Laurentia-Superior(East),2466.0,2489.0,2443.0,-44.1,238.3,1.6,,48.0,278.0,,,,\cite{Evans2010a},,A,,101
+Matachewan dykes N,Laurentia-Superior(East),2446.0,2449.0,2443.0,-52.3,239.5,2.4,,48.0,278.0,,,,\cite{Evans2010a},,A,,101
+Malley dykes,Laurentia-Slave,2231.0,2233.0,2229.0,-50.8,310.0,6.7,,64.2,249.8,,,,\cite{Buchan2012a},,A,,101
+Senneterre dykes,Laurentia-Superior(East),2218.0,2224.0,2212.0,-15.3,284.3,5.5,,49.0,283.0,,,,\cite{Buchan1993a},,A,,101
+Nipissing N1 sills,Laurentia-Superior(East),2217.0,2221.0,2213.0,-17.0,272.0,10.0,,47.0,279.0,,,,\cite{Buchan2000a},,A,,101
+Dogrib dykes,Laurentia-Slave,2193.0,2195.0,2191.0,-31.0,315.0,7.0,,62.5,245.5,,,,\cite{Mitchell2014a},,A,,101
+Biscotasing dykes,Laurentia-Superior(East),2170.0,2173.0,2167.0,26.0,223.9,7.0,,48.0,280.0,,,,\cite{Evans2010a},,A,,101
+"Rabbit Creek, Powder River, and South Path Dykes ",Laurentia-Wyoming,2160.0,2171.0,2152.0,65.5,339.2,7.6,,43.9,252.8,,,,\cite{Kilian2015a},,A,,101
+Indin dykes,Laurentia-Slave,2126.0,2129.0,2108.0,-36.0,256.0,7.0,,62.5,245.6,,,,\cite{Buchan2016a},,A,,101
+Marathon dykes N,Laurentia-Superior(West),2124.0,2127.0,2121.0,45.4,198.2,7.7,,49.0,275.0,,,,\cite{Halls2008a},,A,,101
+Marathon dykes R,Laurentia-Superior(West),2104.0,2107.0,2101.0,55.1,182.2,7.5,,49.0,275.0,,,,\cite{Halls2008a},,A,,101
+Cauchon Lake dykes,Laurentia-Superior(West),2091.0,2093.0,2089.0,53.8,180.9,7.7,,56.0,263.0,,,,\cite{Evans2010a},,A,,101
+Fort Frances dykes,Laurentia-Superior(West),2077.0,2082.0,2072.0,42.8,184.6,6.1,,48.0,266.0,,,,\cite{Evans2010a},,A,,101
+Lac Esprit dykes,Laurentia-Superior(East),2069.0,2070.0,2068.0,62.0,170.5,6.4,,53.0,282.0,,,,\cite{Evans2010a},,A,,101
+Kangamiut Dykes,Laurentia-Greenland-Nain,2042.0,2054.0,2030.0,17.1,273.8,2.7,,66.0,307.0,,,,\cite{Fahrig1976b},,B,,101
+Lac de Gras dykes,Laurentia-Slave,2026.0,2031.0,2021.0,11.8,267.9,7.1,,64.4,249.6,,,,\cite{Buchan2009a},,A,,101
+Minto dykes,Laurentia-Superior(East),1998.0,2000.0,1996.0,38.7,171.5,13.1,,57.0,285.0,,,,\cite{Evans2010a},,A,,101
+Rifle Formation,Laurentia-Slave,1963.0,1969.0,1957.0,14.0,341.0,7.7,,65.9,252.9,,,,\cite{Evans1981a},,B,,101
+Clearwater Anorthosite,Laurentia-Rae,1917.0,1924.0,1910.0,6.5,311.8,2.9,,57.1,251.6,,,,\cite{Halls1999a},,B,,101
+Sourdough mafic dike swarm,Laurentia-Wyoming,1899.0,1904.0,1894.0,49.2,292.0,8.1,,44.7,-108.3,,,,\cite{Kilian2016b},,A,,101
+Ghost Dike Swarm,Laurentia-Slave,1887.0,1892.0,1878.0,-2.0,286.0,6.0,,62.6,244.6,,,,\cite{Buchan2016a},,A,,101
+Mean Seton/Akaitcho/Mara,Laurentia-Slave,1885.0,1890.0,1880.0,-6.0,260.0,4.0,,65.0,250.0,,,,\cite{Mitchell2010c},,B,,101
+"Mean Kahochella, Peacock Hills ",Laurentia-Slave,1882.0,1886.0,1878.0,-12.0,285.0,7.0,,65.0,250.0,,,,\cite{Mitchell2010c},,B,,101
+Molson (B+C2) dykes,Laurentia-Superior(West),1879.0,1885.0,1873.0,28.9,218.0,3.8,,55.0,262.0,,,,\cite{Evans2010a},,A,,101
+"Douglas Peninsula Formation, Pethei Group",Laurentia-Slave,1876.0,1886.0,1866.0,-18.0,258.0,14.2,,62.8,249.7,,,,\cite{Irving1979a},,B,,101
+Takiyuak Formation,Laurentia-Slave,1876.0,1886.0,1866.0,-13.0,249.0,8.0,,66.1,246.9,,,,\cite{Irving1979a},,B,,101
+Haig/Flaherty/Sutton Mean,Laurentia-Superior,1870.0,1871.0,1869.0,1.0,245.8,3.9,,56.0,279.0,,,,"Nordic workshop calculation based on data of \cite{Schmidt1980a, Schwarz1982a}",,B,,101
+Pearson A/Peninsular/Kilohigok sills,Laurentia-Slave,1870.0,1874.0,1866.0,-22.0,269.0,6.0,,65.0,250.0,,,,\cite{Mitchell2010c},,A,,101
+Boot-Phantom Pluton,Laurentia-Trans-Hudson orogen,1838.0,1839.0,1837.0,62.4,275.4,7.9,,54.7,258.1,,,,\cite{Symons1999a},,B,,101
+Sparrow Dykes,Laurentia-Rae,1827.0,1831.0,1823.0,12.0,291.0,7.9,,61.6,250.2,,,,\cite{McGlynn1974a},,B,,101
+Martin Formation,Laurentia-Rae,1818.0,1822.0,1814.0,-9.0,288.0,8.5,,59.6,251.4,,,,\cite{Evans1973a},,A,,101
+Dubawnt Group,Laurentia,1785.0,1820.0,1750.0,7.0,277.0,8.0,,64.1,265.6,,,,\cite{Park1973a},,B,,101
+Deschambault Pegmatites,Laurentia-Trans-Hudson orogen,1766.0,1771.0,1761.0,67.5,276.0,7.7,,54.9,256.7,,,,\cite{Symons2000a},,B,,101
+Jan Lake Granite,Laurentia-Trans-Hudson orogen,1758.0,1759.0,1757.0,24.3,264.3,16.9,,54.9,257.2,,,,\cite{Gala1995a},,B,,101
+Cleaver Dykes,Laurentia,1741.0,1746.0,1736.0,19.4,276.7,6.1,,67.5,242.0,,,,\cite{Irving2004a},,A,,101
+Melville Bugt diabase dykes,Laurentia-Greenland,1633.0,1638.0,1628.0,5.0,273.8,8.7,,74.6,303.0,,,,\cite{Halls2011a},,B,,101
+Western Channel Diabase,Laurentia,1590.0,1593.0,1587.0,9.0,245.0,6.6,,66.4,242.2,,,,\cite{Irving1972a},,A,,101
+St.Francois Mountains Acidic Rocks,Laurentia,1476.0,1492.0,1460.0,-13.2,219.0,6.1,,37.5,269.5,,,,\cite{Meert2002b},,A,,101
+Michikamau Intrusion,Laurentia,1460.0,1465.0,1455.0,-1.5,217.5,4.7,,54.5,296.0,,,,\cite{Emslie1976a},,A,,101
+Spokane Formation,Laurentia,1458.0,1471.0,1445.0,-24.8,215.5,4.7,,48.2,246.8,,,,\cite{Elston2002a},,A,,101
+Snowslip Formation,Laurentia,1450.0,1464.0,1436.0,-24.9,210.2,3.5,,47.9,245.9,,,,\cite{Elston2002a},,A,,101
+Tobacco Root dykes,Laurentia,1448.0,1497.0,1399.0,8.7,216.1,10.5,,47.4,247.6,,,,\cite{Harlan2008a},,B,,101
+Purcell Lava,Laurentia,1443.0,1450.0,1436.0,-23.6,215.6,4.8,,49.4,245.1,,,,\cite{Elston2002a},,A,,101
+Rocky Mountain intrusions,Laurentia,1430.0,1445.0,1415.0,-11.9,217.4,9.7,,40.3,253.8,,,,"Nordic workshop calculation based on data of \cite{Harlan1994a, Harlan1998a}",,B,,101
+Mistastin Pluton,Laurentia,1425.0,1450.0,1400.0,-1.0,201.5,7.6,,55.6,296.3,,,,\cite{Fahrig1976a},,B,,101
+McNamara Formation,Laurentia,1401.0,1407.0,1395.0,-13.5,208.3,6.7,,46.9,246.4,,,,\cite{Elston2002a},,A,,101
+"Pilcher, Garnet Range, and Libby Formations ",Laurentia,1385.0,1408.0,1362.0,-19.2,215.3,7.7,,46.7,246.4,,,,\cite{Elston2002a},,A,,101
+Midsommersoe Dolerite,Laurentia-Greenland,1382.0,1384.0,1380.0,6.9,242.0,5.1,,81.6,333.4,,,,\cite{Marcussen1983a},,B,,101
+Victoria Fjord dolerite dykes,Laurentia-Greenland,1382.0,1384.0,1380.0,10.3,231.7,4.3,,81.5,315.3,,,,\cite{Abrahamsen1987a},,B,,101
+Zig-Zag Dal Basalts,Laurentia-Greenland,1382.0,1384.0,1380.0,12.0,242.8,3.8,,81.2,334.8,,,,\cite{Marcussen1983a},,B,,101
+Nain Anorthosite,Laurentia,1305.0,1320.0,1290.0,11.7,206.7,2.2,,56.5,298.2,,,,\cite{Murthy1978a},,B,,101
+North Qoroq intrusives,Laurentia-Greenland,1275.0,1276.0,1274.0,13.2,202.6,8.3,,61.1,314.6,,,,\cite{Piper1992a},,B,,101
+Kungnat Ring Dyke,Laurentia-Greenland,1275.0,1277.0,1273.0,3.4,198.7,3.2,,61.2,311.7,,,,\cite{Piper1977b},,B,,101
+Mackenzie dykes grand mean,Laurentia,1267.0,1269.0,1265.0,4.0,190.0,5.0,,65.0,250.0,,,,\cite{Buchan2000a},,A,,101
+West Gardar Dolerite Dykes,Laurentia-Greenland,1244.0,1252.0,1236.0,8.7,201.7,6.6,,61.2,311.7,,,,\cite{Piper1977b},,B,,101
+West Gardar Lamprophyre Dykes,Laurentia-Greenland,1238.0,1249.0,1227.0,3.2,206.4,7.2,,61.2,311.7,,,,\cite{Piper1977b},,B,,101
+Sudbury Dykes Combined,Laurentia,1237.0,1242.0,1232.0,-2.5,192.8,2.5,,46.3,278.6,,,,\cite{Palmer1977a},,A,,101
+Stoer Group,Laurentia-Scotland,1199.0,1269.0,1129.0,37.2,238.4,7.7,,58.0,354.5,,,,Nordic workshop calculation,,B,,101
+Narssaq Gabbro,Laurentia-Greenland,1184.0,1189.0,1179.0,31.6,225.4,9.7,,60.9,313.8,,,,\cite{Piper1977a},,B,,101
+Hviddal Giant Dyke,Laurentia-Greenland,1184.0,1189.0,1179.0,33.2,215.3,9.6,,60.9,313.7,,,,\cite{Piper1977a},,B,,101
+South Qoroq Intr.,Laurentia-Greenland,1163.0,1165.0,1161.0,41.8,215.9,13.1,,61.1,314.6,,,,\cite{Piper1992a},,A,,101
+Giant Gabbro Dykes,Laurentia-Greenland,1163.0,1165.0,1161.0,42.3,226.1,9.4,,60.9,313.7,,,,\cite{Piper1977a},,B,,101
+NE-SW Trending dykes,Laurentia-Greenland,1160.0,1165.0,1155.0,33.4,230.8,5.7,,61.1,314.6,,,,\cite{Piper1992a},,B,,101
+Ontario lamprophyre dykes,Laurentia,1143.0,1153.0,1133.0,58.0,223.3,9.2,,48.8,273.3,,,,\cite{Piispa2018a},,NR,,101
+Abitibi Dykes,Laurentia,1141.0,1143.0,1139.0,48.8,215.5,14.1,,48.0,279.0,,,,\cite{Ernst1993a},,A,,101
+Nipigon sills and lavas,Laurentia,1109.0,1111.0,1107.0,47.2,217.8,4.0,,49.1,270.9,,,,"Nordic workshop calculation based on data of \cite{Palmer1970a, Robertson1971a, Pesonen1979a, Pesonen1979b, Middleton2004a, Borradaile2006a}",,A,,101
+Lowermost Mamainse Point volcanics -R1,Laurentia,1109.0,1111.0,1106.0,49.5,227.0,5.3,,47.1,275.3,,,,\cite{Swanson-Hysell2014a},,A,,101
+Lower Osler volcanics -R,Laurentia,1108.0,1111.0,1105.0,40.9,218.6,4.8,,48.8,272.3,,,,\cite{Swanson-Hysell2014b},,A,,101
+Middle Osler volcanics -R,Laurentia,1107.0,1111.0,1103.0,42.7,211.3,8.2,,48.8,272.4,,,,\cite{Swanson-Hysell2014b},,A,,101
+Upper Osler volcanics -R,Laurentia,1105.0,1106.0,1104.0,42.3,203.4,3.7,,48.7,272.4,,,,"\cite{Halls1974a, Swanson-Hysell2014b,  Swanson-Hysell2019a}",,A,,101
+Lower Mamainse Point volcanics -R2,Laurentia,1105.0,1108.0,1101.0,37.5,205.2,4.5,,47.1,275.3,,,,\cite{Swanson-Hysell2014a},,A,,101
+"Mamainse Point volcanics -C (lower N, upper R)",Laurentia,1101.0,1102.0,1100.0,36.1,189.7,4.9,,47.1,275.3,,,,\cite{Swanson-Hysell2014a},,A,,101
+North Shore lavas -N,Laurentia,1097.0,1100.0,1094.0,31.1,181.7,2.1,,46.3,268.7,,,,"\cite{Tauxe2009a, Swanson-Hysell2019a}",,A,,101
+Portage Lake Volcanics,Laurentia,1095.0,1098.0,1092.0,27.5,182.5,2.3,,47.0,271.2,,,,"\cite{Books1972a, Hnat2006a} as calculated in \cite{Swanson-Hysell2019a}",,A,,101
+Chengwatana Volcanics,Laurentia,1095.0,1097.0,1093.0,30.9,186.1,8.2,,45.4,267.3,,,,\cite{Kean1997a},,B,,101
+Uppermost Mamainse Point volcanics -N,Laurentia,1094.0,1100.0,1090.0,31.2,183.2,2.5,,47.1,275.3,,,,\cite{Swanson-Hysell2014a},,A,,101
+Cardenas Basalts and Intrusions,Laurentia,1091.0,1096.0,1086.0,32.0,185.0,8.0,,36.1,248.1,,,,\cite{Weil2003a},,B,,101
+Schroeder Lutsen Basalts,Laurentia,1090.0,1092.0,1083.0,27.1,187.8,3.0,,47.5,269.1,,,,\cite{Fairchild2017a},,A,,101
+Central Arizona diabases -N,Laurentia,1088.0,1099.0,1077.0,15.7,175.3,7.0,,33.7,249.2,,,,\cite{Donadini2011b},,A,,101
+Lake Shore Traps,Laurentia,1086.0,1087.0,1085.0,23.1,186.4,4.0,,47.6,271.9,,,,\cite{Kulakov2013a},,A,,101
+Michipicoten Island Formation,Laurentia,1084.0,1085.0,1083.0,17.0,174.7,4.4,,47.7,274.3,,,,\cite{Fairchild2017a},,A,,101
+Nonesuch Shale,Laurentia,1080.0,1084.0,1070.0,7.6,178.1,5.5,,47.0,271.5,,,,\cite{Henry1977a},,B,,101
+Freda Sandstone,Laurentia,1070.0,1084.0,1060.0,2.2,179.0,4.2,,47.0,271.5,,,,\cite{Henry1977a},,B,,101
+Haliburton Intrusions,Laurentia,1015.0,1030.0,1000.0,-32.6,141.9,6.3,,45.0,281.4,,,,\cite{Warnock2000a},,B,,101
+Adirondack fayalite granite,Laurentia,990.0,1010.0,970.0,-28.4,132.7,6.9,,44.0,285.5,,,,Brown et al. (2012),-,NR,-,101
+Adirondack metamorphic anorthosites,Laurentia,970.0,990.0,950.0,-25.1,149.0,11.6,,44.0,286.0,,,,Brown et al. (2012),-,NR,-,101
+Adirondack Microcline gneiss,Laurentia,960.0,980.0,940.0,-18.4,151.1,10.5,,44.0,285.0,,,,Brown et al. (2012),-,NR,-,101
+Torridon Group,Laurentia-Scotland,925.0,1070.0,780.0,-17.7,220.9,7.1,,57.9,354.3,,,,Nordic workshop calculation,,B,,303
+Lower Grusdievbreen Formation,Laurentia-Svalbard,831.0,851.0,811.0,19.6,204.9,10.9,,79.0,18.0,,,,\cite{Maloof2006a},,B,,311
+Upper Grusdievbreen Formation,Laurentia-Svalbard,800.0,811.0,789.0,-1.1,252.6,6.2,,78.9,18.2,,,,\cite{Maloof2006a},,B,,311
+Gunbarrel dykes,Laurentia,778.0,780.0,776.0,9.1,138.2,12.0,,44.8,248.7,,,,"Calculation from \cite{Eyster2019a} based on data of \cite{Harlan1993a, Harlan1997a}",,B,,101
+Svanbergfjellet Formation,Laurentia-Svalbard,770.0,789.0,730.0,25.9,226.8,5.8,,78.5,18.0,,,,\cite{Maloof2006a},,B,,311
+Uinta Mountain Group,Laurentia,760.0,766.0,750.0,0.8,161.3,4.7,,40.8,250.7,,,,\cite{Weil2006b},,B,,101
+Carbon Canyon,Laurentia,757.0,764.0,750.0,-0.5,166.0,9.7,,36.1,248.2,,,,\cite{Weil2004a} as calculated in \cite{Eyster2019a},,NR,,101
+Carbon Butte/Awatubi,Laurentia,751.0,759.0,743.0,14.2,163.8,3.5,,35.2,248.5,,,,\cite{Eyster2019a},,NR,,101
+Franklin event grand mean,Laurentia,724.0,727.0,721.0,6.7,162.1,3.0,,73.0,275.4,,,,\cite{Denyszyn2009a},,A,,101
+Long Range Dykes,Laurentia,615.0,617.0,613.0,-19.0,175.29999999999995,17.4,,53.7,303.3,,,,\cite{Murthy1992a},,B,,101
+Baie des Moutons complex,Laurentia,583.0,585.0,581.0,34.2,141.5,15.4,,50.8,301.0,,,,\cite{McCausland2011a},,B,,101
+Baie des Moutons complex,Laurentia,583.0,585.0,581.0,-42.6,152.70000000000005,12.0,,50.8,301.0,,,,\cite{McCausland2011a},,B,,101
+Callander Alkaline Complex,Laurentia,575.0,580.0,570.0,-46.3,121.39999999999998,6.0,,46.2,280.6,,,,\cite{Symons1991a},,B,,101
+Catoctin Basalts,Laurentia,572.0,577.0,567.0,-42.0,116.69999999999999,17.5,,38.5,281.8,,,,\cite{Meert1994a},,B,,101
+Sept-Iles layered intrusion,Laurentia,565.0,569.0,561.0,20.0,141.0,6.7,,50.2,293.5,,,,\cite{Tanczyk1987a},,B,,101
