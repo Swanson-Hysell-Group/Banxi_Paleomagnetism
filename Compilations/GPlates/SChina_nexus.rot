@@ -1054,8 +1054,9 @@
 501 720.0   43.8407 -143.278  -61.85  000 ! IND-000 India-Spin Axis @REF Merdith et al. (2017)
 501 725.0  -66.5449   -2.2428   80.9054  000 ! Park modification - COME BACK TO THIS S. CHINA PATH
 501 752.0   69.4022  139.4714  -61.2715  000 ! Park modification - COME BACK TO THIS S. CHINA PATH
-501 755.0    5.5299  130.6108  -46.131  000 !
+501 755.0  -61.3079    6.7702   74.7511  000 !
 501 801.0  -41.4357  -66.6919   82.8756  000 ! Park modification - COME BACK TO THIS S. CHINA PATH
+501 810.0  -66.5449   -2.2428   80.9054  000 !
 501 814.0  -50.9342  -61.1068   78.6732  000 ! Park modification - COME BACK TO THIS S. CHINA PATH
 501 821.0  -47.7165  -59.0837   80.611  000 ! Park modification - COME BACK TO THIS S. CHINA PATH
 501 1074.0   57.7436 -110.4997 -114.2549  000 ! Park modification - satisfy Majhgawan Kimberlite Comb.
@@ -1426,7 +1427,7 @@
 602 455.0   61.1119  -17.9612  -35.1005  701 ! SCB-AFR Merdith et al. (this study)
 602 550.0  -62.7136 -168.966   40.5891  701 ! SCB-AFR Merdith et al. (this study)
 602 550.0    1.98   74.44   40.29  501 ! SCB-IND South China Block-India Merdith et al. (2017)
-602 755.0    6.7224   77.6921   67.9571  501 !
+602 755.0    1.98   74.44   40.29  501 !
 602 1100.0    1.98   74.44   40.29  501 ! SCB-IND Merdith et al. (2017)
 603  0.0   90.0    0.0    0.0  604 ! SBM-ICH Sino Burma Malaya-Indochina
 603 11.1   26.94   96.43    0.58  604 ! SBM-ICH @REF McCabe_++_1988 @DOI"10.1029/JB093iB10p11899" @CHRONID"An5"
