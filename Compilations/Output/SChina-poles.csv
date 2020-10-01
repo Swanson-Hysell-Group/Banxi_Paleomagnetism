@@ -1,7 +1,7 @@
 name,terrane,age,age upper,age lower,plat,plon,a95,f,slat,slon,dec,inc,dir_a95,pole ref,age ref,grade,note,plateID
 Yanbian Dikes Group A,SChina,824,830,818,45.1,130.4,19.0,1.0,26.886,101.546,,,,Niu et al. (2016),Niu et al. (2016),B,-,602
-Xiaofeng Dikes - Li et al. (2004),SChina,821,821.84,820.9,13.5,91.0,10.892658077806354,1.0,30.96,111.23,231.3,76.6,6.1,Li et al. (2004),Wang et al. (2016),B,-,602
-Xiaofeng Dikes - Jing et al. (2019),SChina,821,821.84,820.9,26.1,82.1,14.587666023048374,1.0,30.96,111.23,266.5,76.3,8.2,Jing et al. (2019),Wang et al. (2016),B,-,602
+Xiaofeng Dikes - Li et al. (2004),SChina,821.37,821.84,820.9,13.5,91.0,10.892658077806354,1.0,30.96,111.23,231.3,76.6,6.1,Li et al. (2004),Wang et al. (2016),B,-,602
+Xiaofeng Dikes - Jing et al. (2019),SChina,821.37,821.84,820.9,26.1,82.1,14.587666023048374,1.0,30.96,111.23,266.5,76.3,8.2,Jing et al. (2019),Wang et al. (2016),B,-,602
 Banxi Group - site mean (f=1.0),SChina,814,815,813,51.7,99.9,12.441864811996632,1.0,27.91,108.82,346.7,77.0,6.9,this study,this study,NR,-,602
 Banxi Group - specimen mean (f=1.0),SChina,814,815,813,53.0,107.6,7.6459139414461115,1.0,27.91,108.82,358.3,76.8,4.3,this study,this study,NR,-,602
 Banxi Group - specimen mean (f=0.6),SChina,814,815,813,44.6,108.5,5.399073994677235,0.6,27.91,108.82,359.2,81.5,2.8,this study,this study,NR,-,602

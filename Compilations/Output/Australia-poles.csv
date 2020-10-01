@@ -1,43 +1,43 @@
 name,terrane,age,age upper,age lower,plat,plon,a95,f,slat,slon,dec,inc,dir_a95,pole ref,age ref,grade,note,plateID
-Duffer Formation,Australia-W-Pilbara,3336,3471,3200,43.9,86.3,7.2,,-21.3,119.6,335.5,31.8,,"McElhinny,M.W., Senanayake,W.E. (1980.0)",,A,,801
-Black Range Dolerite Suite,Australia-W-Pilbara,2772,2774,2770,-3.8,130.4,15.0,,-21.8,120.2,31.5,78.7,,Evans et al. 2017 plus early data frfom Embleton et al. 1978. (2017.0),,A,,801
-"Pilbara Flood Basalts, Package 1",Australia-W-Pilbara,2772,2774,2770,-40.8,159.8,3.7,,-22.0,119.7,129.0,68.0,,"Strik,G., Blake,T.S., Zegers,T.E., White,S.H., Langereis,C.G. (2003.0)",,A,,801
-Mount Roe Basalt,Australia-W-Pilbara,2772,2774,2770,-52.4,178.0,7.6,,-21.0,117.8,320.0,-53.8,,"Schmidt,P.W., Embleton,B.J.J. (1985.0)",,A,,801
-"Pilbara Flood Basalts, Package 2",Australia-W-Pilbara,2766,2768,2764,-46.5,152.7,15.2,,-22.0,119.7,320.9,-69.7,,"Strik,G., Blake,T.S., Zegers,T.E., White,S.H., Langereis,C.G. (2003.0)",,B,,801
-Mount Jope Volcanics,Australia-W-Pilbara,2745,2774,2715,-40.5,128.7,20.3,,-22.8,117.3,154.1,79.6,,"Schmidt,P.W., Embleton,B.J.J. (1985.0)",,B,,801
-"Pilbara Flood Basalts, Packages 4-7",Australia-W-Pilbara,2730,2740,2720,-50.4,138.2,12.5,,-22.0,119.7,157.5,72.2,,"Strik,G., Blake,T.S., Zegers,T.E., White,S.H., Langereis,C.G. (2003.0)",,B,,801
-"Pilbara Flood Basalts, Packages 8-10",Australia-W-Pilbara,2716,2721,2710,-59.1,186.3,6.1,,-22.0,119.7,146.8,49.9,,"Strik,G., Blake,T.S., Zegers,T.E., White,S.H., Langereis,C.G. (2003.0)",,B,,801
-Widgiemooltha dyke suite,Australia-W-Yilgarn,2415,2418,2412,8.2,336.0,8.5,,-32.0,122.0,245.3,-65.5,,"Smirnov,A.V., Evans,D.A.D., Ernst,R.E., Söderlund,U., Li,Z.-X. (2013.0)",,A,,801
-Erayinia mafic dykes,Australia-W-Yilgarn,2401,2404,2398,22.7,330.5,11.4,,-31.2,122.5,77.6,75.9,,"Pisarevsky, S.A., de Waele, B., Jones, S., SÃ¶derlund, U., Ernst, R.E. (2015.0)",,B,,801
-Frere Formation,Australia-W-Yilgarn,1890,1900,1880,45.2,40.0,1.8,,-26.3,121.9,314.3,-24.8,,"Williams,G.E., Schmidt,P.W., Clark,D.A. (2004.0)",,B,,801
-Elgee-Pentecost combined,Australia-N,1762,1790,1734,-5.4,211.8,3.2,,-15.7,128.3,93.9,12.9,,Schmidt+Williams 08 (2008.0),,B,,801
-"HP2 overprint, Southern Pilbara",Australia-W,1750,1800,1700,-35.3,211.9,3.0,,-23.0,118.0,304.2,-18.1,,nan (nan),,B,,801
-Wollogorang Formation,Australia-N,1727,1730,1723,-17.9,218.2,7.2,,-17.1,135.9,284.8,-22.8,,"Idnurm,M., Giddings,J.W., Plumb,K.A. (1995.0)",,B,,801
-"Peters Creek Volcanics, upper part",Australia-N,1727,1729,1725,-26.0,221.0,4.8,,-17.8,138.2,293.0,-26.4,,"Idnurm, M. (2000.0)",,A,,801
-Fiery Creek Formation,Australia-N,1709,1712,1706,-23.9,211.8,10.4,,-19.7,139.2,108.0,40.1,,"Idnurm, M. (2000.0)",,B,,801
-West Branch Volcanics,Australia-N,1709,1712,1705,-15.9,200.5,11.3,,-14.3,133.2,100.4,42.9,,"Idnurm, M. (2000.0)",,A,,801
-Mallapunyah Formation,Australia-N,1655,1665,1645,-35.0,214.3,3.1,,-17.1,135.9,122.0,33.0,,"Idnurm,M., Giddings,J.W., Plumb,K.A. (1995.0)",,A,,801
-Tooganinie Formation,Australia-N,1648,1651,1645,-61.0,186.7,6.1,,-17.1,135.9,334.3,-50.1,,"Idnurm,M., Giddings,J.W., Plumb,K.A. (1995.0)",,A,,801
-Emmerugga Dolomite,Australia-N,1644,1653,1635,-79.1,202.6,6.1,,-16.9,135.8,349.1,-36.4,,"Idnurm,M., Giddings,J.W., Plumb,K.A. (1995.0)",,B,,801
-"Balbirini Dolomite, lower part",Australia-N,1612,1617,1606,-66.1,177.5,5.7,,-16.8,135.7,341.1,-51.8,,"Idnurm, M. (2000.0)",,B,,801
-"Balbirini Dolomite, upper part",Australia-N,1589,1592,1586,-52.0,176.1,7.5,,-16.8,135.7,326.5,-60.2,,"Idnurm, M. (2000.0)",,B,,801
-Gawler Range Volcanics,Australia-S,1545,1590,1500,-60.4,50.0,6.2,,-31.3,135.3,34.2,-48.1,,"Chamalaun,F.H., Dempsey,C.E. (1978.0)",,B,,801
-Mt.Isa Metamorphosed Dykes (IM),Australia-N,1525,1550,1500,-79.0,110.6,8.4,,-20.6,139.7,186.1,49.0,,"Tanaka,H., Idnurm,M. (1994.0)",,B,,801
-Blue Range beds & Pandurra formation,Australia-S,1440,1580,1300,-38.4,62.4,3.5,,-33.1,136.0,242.6,48.3,,"Schmidt, P.W., Williams, G.E. (2011.0)",,B,,801
-Gnowangerup-Fraser dykes,Australia-W,1210,1218,1202,-55.8,143.9,6.3,,-33.7,119.6,149.0,74.8,,"Pisarevsky, S.A., Wingate, M.T.D., Li, Z.-X., Wang, X.-C., Tohver, E., Kirkland, C.L. (2014.0)",,A,,801
-Mt.Isa Dolerite Dykes (IAR),Australia-N,1140,1141,1139,-9.5,131.1,17.4,,-20.8,139.7,322.8,82.5,,"Tanaka,H., Idnurm,M. (1994.0)",,B,,8011
-Alcurra dykes+sills,Australia-N,1077,1089,1064,2.8,80.4,8.8,,-25.9,133.1,291.2,50.8,,"Schmidt,P.W., Williams,G.E., Camacho,A., Lee,J.K.W. (2006.0)",,B,,8011
-Bangemall Sills,Australia-W,1070,1076,1064,33.8,95.0,8.3,,-23.6,116.4,339.9,46.5,,"Wingate, M.T.D., Pisarevsky, S.A., Evans, D.A.D. (2002.0)",,A,,801
-"Lancer borehole, Browne Formation",Australia-W,855,900,810,44.5,141.7,6.8,,-25.0,123.8,193.4,-33.8,,Pisarevsky+07 (2007.0),,B,,801
-Johnny's Creek siltstones,Australia-N,760,790,730,15.8,83.0,13.5,,-24.0,133.5,122.8,-44.6,,"Swanson-Hysell, N., Maloof, A., Kirschvink, J.C., Evans, D.A.D., Halverson, G.P., Hartgen, M.T. (2012.0)",,B,,8011
-Mundine Well Dykes Combined,Australia-W,755,758,752,45.3,135.4,4.1,,-25.5,115.0,14.8,31.1,,"Wingate,M.T.D., Giddings,J.W. (2000.0)",,A,,801
-Angepena Formation,Australia-S,650,660,640,47.1,176.6,5.3,,-31.0,138.0,24.8,8.4,,nan (nan),,B,,801
-"Cap Dolomite, Walsh Tillite",Australia-N,649,662,635,-21.5,282.4,13.7,,-17.4,125.9,148.6,-63.3,,nan (nan),,B,,8011
-MEAN Elatina Formation,Australia-S,640,645,635,-49.9,344.4,13.5,,-32.0,138.5,196.4,-9.8,,LULEÅ WORKING GROUP MEAN (2009.0),,A,,801
-Nuccaleena Formation,Australia-S,633,635,630,-32.3,350.8,3.363034344,,-31.6,138.8,208.3,-34.9,,"Schmidt, P.W., Williams, G.E., M (2009.0)",,A,,801
-Yaltipena Formation,Australia-S,613,645,580,-44.2,352.7,8.2,,-31.3,138.7,204.0,-16.4,,"Sohl,L.E., Christie-Blick,N., Kent,D.E. (1999.0)",,B,,801
-Brachina Formation,Australia-S,611,632,590,-46.0,315.4,3.3,,-32.2,138.0,178.2,-22.6,,"Schmidt, P.W., Williams, G.E. (2010.0)",,B,,801
-Brachina Formation,Australia-S,603,635,570,-33.0,328.0,15.5,,-30.5,139.0,189.0,-44.0,,"McWilliams,M.O., McElhinny,M.W. (1980.0)",,B,,801
-Bunyeroo Formation,Australia-S,590,615,565,18.1,196.3,8.8,,-31.6,138.6,56.6,29.3,,"Schmidt,P.E., Williams,G.E. (1996.0)",,A,,801
-Wonoka Formation,Australia-S,570,590,550,5.2,210.5,4.9,,-31.5,138.6,255.9,-23.7,,"Schmidt, P.W., Williams, G.E. (2010.0)",,B,,801
-Lower Arumbera and Upper Pertatataka Formations,Australia-N,561,580,542,-44.3,341.9,10.2,,-23.4,133.4,20.2,32.4,,"Kirschvink,J.L. (1978.0)",,A,,8011
+Duffer Formation,Australia-W-Pilbara,3336.0,3471,3200,43.9,86.3,7.2,,-21.3,119.6,335.5,31.8,,"McElhinny,M.W., Senanayake,W.E. (1980.0)",,A,,801
+Black Range Dolerite Suite,Australia-W-Pilbara,2772.0,2774,2770,-3.8,130.4,15.0,,-21.8,120.2,31.5,78.7,,Evans et al. 2017 plus early data frfom Embleton et al. 1978. (2017.0),,A,,801
+"Pilbara Flood Basalts, Package 1",Australia-W-Pilbara,2772.0,2774,2770,-40.8,159.8,3.7,,-22.0,119.7,129.0,68.0,,"Strik,G., Blake,T.S., Zegers,T.E., White,S.H., Langereis,C.G. (2003.0)",,A,,801
+Mount Roe Basalt,Australia-W-Pilbara,2772.0,2774,2770,-52.4,178.0,7.6,,-21.0,117.8,320.0,-53.8,,"Schmidt,P.W., Embleton,B.J.J. (1985.0)",,A,,801
+"Pilbara Flood Basalts, Package 2",Australia-W-Pilbara,2766.0,2768,2764,-46.5,152.7,15.2,,-22.0,119.7,320.9,-69.7,,"Strik,G., Blake,T.S., Zegers,T.E., White,S.H., Langereis,C.G. (2003.0)",,B,,801
+Mount Jope Volcanics,Australia-W-Pilbara,2745.0,2774,2715,-40.5,128.7,20.3,,-22.8,117.3,154.1,79.6,,"Schmidt,P.W., Embleton,B.J.J. (1985.0)",,B,,801
+"Pilbara Flood Basalts, Packages 4-7",Australia-W-Pilbara,2730.0,2740,2720,-50.4,138.2,12.5,,-22.0,119.7,157.5,72.2,,"Strik,G., Blake,T.S., Zegers,T.E., White,S.H., Langereis,C.G. (2003.0)",,B,,801
+"Pilbara Flood Basalts, Packages 8-10",Australia-W-Pilbara,2716.0,2721,2710,-59.1,186.3,6.1,,-22.0,119.7,146.8,49.9,,"Strik,G., Blake,T.S., Zegers,T.E., White,S.H., Langereis,C.G. (2003.0)",,B,,801
+Widgiemooltha dyke suite,Australia-W-Yilgarn,2415.0,2418,2412,8.2,336.0,8.5,,-32.0,122.0,245.3,-65.5,,"Smirnov,A.V., Evans,D.A.D., Ernst,R.E., Söderlund,U., Li,Z.-X. (2013.0)",,A,,801
+Erayinia mafic dykes,Australia-W-Yilgarn,2401.0,2404,2398,22.7,330.5,11.4,,-31.2,122.5,77.6,75.9,,"Pisarevsky, S.A., de Waele, B., Jones, S., SÃ¶derlund, U., Ernst, R.E. (2015.0)",,B,,801
+Frere Formation,Australia-W-Yilgarn,1890.0,1900,1880,45.2,40.0,1.8,,-26.3,121.9,314.3,-24.8,,"Williams,G.E., Schmidt,P.W., Clark,D.A. (2004.0)",,B,,801
+Elgee-Pentecost combined,Australia-N,1762.0,1790,1734,-5.4,211.8,3.2,,-15.7,128.3,93.9,12.9,,Schmidt+Williams 08 (2008.0),,B,,801
+"HP2 overprint, Southern Pilbara",Australia-W,1750.0,1800,1700,-35.3,211.9,3.0,,-23.0,118.0,304.2,-18.1,,nan (nan),,B,,801
+Wollogorang Formation,Australia-N,1727.0,1730,1723,-17.9,218.2,7.2,,-17.1,135.9,284.8,-22.8,,"Idnurm,M., Giddings,J.W., Plumb,K.A. (1995.0)",,B,,801
+"Peters Creek Volcanics, upper part",Australia-N,1727.0,1729,1725,-26.0,221.0,4.8,,-17.8,138.2,293.0,-26.4,,"Idnurm, M. (2000.0)",,A,,801
+Fiery Creek Formation,Australia-N,1709.0,1712,1706,-23.9,211.8,10.4,,-19.7,139.2,108.0,40.1,,"Idnurm, M. (2000.0)",,B,,801
+West Branch Volcanics,Australia-N,1709.0,1712,1705,-15.9,200.5,11.3,,-14.3,133.2,100.4,42.9,,"Idnurm, M. (2000.0)",,A,,801
+Mallapunyah Formation,Australia-N,1655.0,1665,1645,-35.0,214.3,3.1,,-17.1,135.9,122.0,33.0,,"Idnurm,M., Giddings,J.W., Plumb,K.A. (1995.0)",,A,,801
+Tooganinie Formation,Australia-N,1648.0,1651,1645,-61.0,186.7,6.1,,-17.1,135.9,334.3,-50.1,,"Idnurm,M., Giddings,J.W., Plumb,K.A. (1995.0)",,A,,801
+Emmerugga Dolomite,Australia-N,1644.0,1653,1635,-79.1,202.6,6.1,,-16.9,135.8,349.1,-36.4,,"Idnurm,M., Giddings,J.W., Plumb,K.A. (1995.0)",,B,,801
+"Balbirini Dolomite, lower part",Australia-N,1612.0,1617,1606,-66.1,177.5,5.7,,-16.8,135.7,341.1,-51.8,,"Idnurm, M. (2000.0)",,B,,801
+"Balbirini Dolomite, upper part",Australia-N,1589.0,1592,1586,-52.0,176.1,7.5,,-16.8,135.7,326.5,-60.2,,"Idnurm, M. (2000.0)",,B,,801
+Gawler Range Volcanics,Australia-S,1545.0,1590,1500,-60.4,50.0,6.2,,-31.3,135.3,34.2,-48.1,,"Chamalaun,F.H., Dempsey,C.E. (1978.0)",,B,,801
+Mt.Isa Metamorphosed Dykes (IM),Australia-N,1525.0,1550,1500,-79.0,110.6,8.4,,-20.6,139.7,186.1,49.0,,"Tanaka,H., Idnurm,M. (1994.0)",,B,,801
+Blue Range beds & Pandurra formation,Australia-S,1440.0,1580,1300,-38.4,62.4,3.5,,-33.1,136.0,242.6,48.3,,"Schmidt, P.W., Williams, G.E. (2011.0)",,B,,801
+Gnowangerup-Fraser dykes,Australia-W,1210.0,1218,1202,-55.8,143.9,6.3,,-33.7,119.6,149.0,74.8,,"Pisarevsky, S.A., Wingate, M.T.D., Li, Z.-X., Wang, X.-C., Tohver, E., Kirkland, C.L. (2014.0)",,A,,801
+Mt.Isa Dolerite Dykes (IAR),Australia-N,1140.0,1141,1139,-9.5,131.1,17.4,,-20.8,139.7,322.8,82.5,,"Tanaka,H., Idnurm,M. (1994.0)",,B,,8011
+Alcurra dykes+sills,Australia-N,1077.0,1089,1064,2.8,80.4,8.8,,-25.9,133.1,291.2,50.8,,"Schmidt,P.W., Williams,G.E., Camacho,A., Lee,J.K.W. (2006.0)",,B,,8011
+Bangemall Sills,Australia-W,1070.0,1076,1064,33.8,95.0,8.3,,-23.6,116.4,339.9,46.5,,"Wingate, M.T.D., Pisarevsky, S.A., Evans, D.A.D. (2002.0)",,A,,801
+"Lancer borehole, Browne Formation",Australia-W,855.0,900,810,44.5,141.7,6.8,,-25.0,123.8,193.4,-33.8,,Pisarevsky+07 (2007.0),,B,,801
+Johnny's Creek siltstones,Australia-N,761.5,795,730,15.8,83.0,13.5,,-24.0,133.5,122.8,-44.6,,"Swanson-Hysell, N., Maloof, A., Kirschvink, J.C., Evans, D.A.D., Halverson, G.P., Hartgen, M.T. (2012.0)",,B,,8011
+Mundine Well Dykes Combined,Australia-W,755.0,758,752,45.3,135.4,4.1,,-25.5,115.0,14.8,31.1,,"Wingate,M.T.D., Giddings,J.W. (2000.0)",,A,,801
+Angepena Formation,Australia-S,650.0,660,640,47.1,176.6,5.3,,-31.0,138.0,24.8,8.4,,nan (nan),,B,,801
+"Cap Dolomite, Walsh Tillite",Australia-N,649.0,662,635,-21.5,282.4,13.7,,-17.4,125.9,148.6,-63.3,,nan (nan),,B,,8011
+MEAN Elatina Formation,Australia-S,640.0,645,635,-49.9,344.4,13.5,,-32.0,138.5,196.4,-9.8,,LULEÅ WORKING GROUP MEAN (2009.0),,A,,801
+Nuccaleena Formation,Australia-S,633.0,635,630,-32.3,350.8,3.363034344,,-31.6,138.8,208.3,-34.9,,"Schmidt, P.W., Williams, G.E., M (2009.0)",,A,,801
+Yaltipena Formation,Australia-S,613.0,645,580,-44.2,352.7,8.2,,-31.3,138.7,204.0,-16.4,,"Sohl,L.E., Christie-Blick,N., Kent,D.E. (1999.0)",,B,,801
+Brachina Formation,Australia-S,611.0,632,590,-46.0,315.4,3.3,,-32.2,138.0,178.2,-22.6,,"Schmidt, P.W., Williams, G.E. (2010.0)",,B,,801
+Brachina Formation,Australia-S,603.0,635,570,-33.0,328.0,15.5,,-30.5,139.0,189.0,-44.0,,"McWilliams,M.O., McElhinny,M.W. (1980.0)",,B,,801
+Bunyeroo Formation,Australia-S,590.0,615,565,18.1,196.3,8.8,,-31.6,138.6,56.6,29.3,,"Schmidt,P.E., Williams,G.E. (1996.0)",,A,,801
+Wonoka Formation,Australia-S,570.0,590,550,5.2,210.5,4.9,,-31.5,138.6,255.9,-23.7,,"Schmidt, P.W., Williams, G.E. (2010.0)",,B,,801
+Lower Arumbera and Upper Pertatataka Formations,Australia-N,561.0,580,542,-44.3,341.9,10.2,,-23.4,133.4,20.2,32.4,,"Kirschvink,J.L. (1978.0)",,A,,8011
