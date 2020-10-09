@@ -2,19 +2,19 @@ name,terrane,age,age upper,age lower,plat,plon,a95,f,slat,slon,dec,inc,dir_a95,p
 Yanbian Dikes Group A,SChina,824,830,818,45.1,130.4,19.0,1.0,26.886,101.546,,,,Niu et al. (2016),Niu et al. (2016),B,-,602
 Xiaofeng Dikes - Li et al. (2004),SChina,821.37,821.84,820.9,13.5,91.0,10.892658077806354,1.0,30.96,111.23,231.3,76.6,6.1,Li et al. (2004),Wang et al. (2016),B,-,602
 Xiaofeng Dikes - Jing et al. (2019),SChina,821.37,821.84,820.9,26.1,82.1,14.587666023048374,1.0,30.96,111.23,266.5,76.3,8.2,Jing et al. (2019),Wang et al. (2016),B,-,602
-Banxi Group - site mean (f=1.0),SChina,814,815,813,51.7,99.9,12.441864811996632,1.0,27.91,108.82,346.7,77.0,6.9,this study,this study,NR,-,602
-Banxi Group - specimen mean (f=1.0),SChina,814,815,813,53.0,107.6,7.6459139414461115,1.0,27.91,108.82,358.3,76.8,4.3,this study,this study,NR,-,602
-Banxi Group - specimen mean (f=0.6),SChina,814,815,813,44.6,108.5,5.399073994677235,0.6,27.91,108.82,359.2,81.5,2.8,this study,this study,NR,-,602
-Banxi Group - Luoman specimen mean (f=0.6),SChina,814,815,813,40.2,111.2,8.549853799919621,0.6,27.91,108.82,8.5,83.7,4.4,this study,this study,NR,-,602
-Banxi Group - Mamaguo specimen mean (f=0.6),SChina,814,815,813,42.1,92.7,8.348652585896719,0.6,27.91,108.82,321.5,80.0,4.5,this study,this study,NR,-,602
-Banxi Group - site mean (f=0.6),SChina,814,815,813,43.0,104.0,8.19939022122987,0.6,27.91,108.82,346.8,82.0,4.3,this study,this study,NR,-,602
-Madiyi Formation - site mean (f=1.0),SChina,804.9,805.26,804.54,35.707893358138506,66.23702125862057,9.121997092425715,1.0,27.5,109.6,293.7324065725775,68.99611876944081,5.824326736911964,Xian et al. (2020),this study,NR,-,602
-Madiyi Formation - site mean (f=0.6),SChina,804.9,805.26,804.54,34.63619151604563,81.52920387112,6.718968266746631,0.6,27.5,109.6,293.5713499977569,76.88322455124717,3.741693262704819,Xian et al. (2020),this study,NR,-,602
+Banxi Group - site mean (f=1.0),SChina,814,815,813,50.7,100.0,12.3,1.0,27.91,108.82,346.7,77.0,6.9,this study,this study,NR,-,602
+Banxi Group - specimen mean (f=1.0),SChina,814,815,813,50.6,107.1,6.9,1.0,27.91,108.82,358.3,76.8,4.3,this study,this study,NR,-,602
+Banxi Group - specimen mean (f=0.6),SChina,814,815,813,43.2,108.1,5.399073994677235,0.6,27.91,108.82,359.2,81.5,2.8,this study,this study,NR,-,602
+Banxi Group - Luoman specimen mean (f=0.6),SChina,814,815,813,39.0,110.4,7.6,0.6,27.91,108.82,8.5,83.7,4.4,this study,this study,NR,-,602
+Banxi Group - Mamaguo specimen mean (f=0.6),SChina,814,815,813,41.9,93.4,8.1,0.6,27.91,108.82,321.5,80.0,4.5,this study,this study,NR,-,602
+Banxi Group - site mean (f=0.6),SChina,814,815,813,42.7,104.0,8.1,0.6,27.91,108.82,346.8,82.0,4.3,this study,this study,NR,-,602
+Madiyi Formation - site mean (f=1.0),SChina,804.9,805.26,804.54,35.92817520099377,67.37840364502061,9.264767772755846,1.0,27.5,109.6,293.7324065725775,68.99611876944081,5.824326736911964,Xian et al. (2020),this study,NR,-,602
+Madiyi Formation - site mean (f=0.6),SChina,804.9,805.26,804.54,34.676676017894685,82.02169162848303,6.7048466313974195,0.6,27.5,109.6,293.5713499977569,76.88322455124717,3.741693262704819,Xian et al. (2020),this study,NR,-,602
 Madiyi Formation - specimen mean (f=0.6),SChina,804.9,805.26,804.54,34.3,82.4,3.7986839826445156,0.6,27.5,109.6,293.0,77.3,2.1,Xian et al. (2020),this study,NR,-,602
 Madiyi Formation - specimen mean (f=1.0),SChina,804.9,805.26,804.54,35.3,67.9,5.084289527554465,1.0,27.5,109.6,293.1,69.9,3.2,Xian et al. (2020),this study,NR,-,602
 Chengjiang Formation - specimen mean (f=1.0),SChina,799.5,807.9,791.1,33.4,56.1,8.060397012554654,1.0,25.145,102.411,291.9,66.7,5.2,Jing et al. (2019),Jing et al. (2019),NR,-,602
 Chengjiang Formation - specimen mean (f=0.6),SChina,799.5,807.9,791.1,32.174323916499475,72.19446175613207,9.140768184947346,0.6,25.145,102.411,291.9,75.51164149948303,5.2,Jing et al. (2019),Jing et al. (2019),NR,Inclination correction calculated on mean direction only.,602
-Chengjiang Formation - site mean (f=1.0),SChina,799.5,807.9,791.1,29.910191732142124,60.468640787495104,10.818410614771452,1.0,25.145,102.411,287.0271749667021,69.15169820757956,6.887139885703439,Jing et al. (2019),Jing et al. (2019),NR,-,602
+Chengjiang Formation - site mean (f=1.0),SChina,799.5,807.9,791.1,29.353591157696812,61.50676499100436,10.657438580749767,1.0,25.145,102.411,287.0271749667021,69.15169820757956,6.887139885703439,Jing et al. (2019),Jing et al. (2019),NR,-,602
 Chengjiang Formation - site mean (f=0.6),SChina,799.5,807.9,791.1,29.99061271175446,74.87591425837131,8.076752678579266,0.6,25.145,102.411,287.4887385916947,76.97845118996618,4.491403458273275,Jing et al. (2019),Jing et al. (2019),NR,-,602
 Liantuo Formation - Jing et al. (2015) (f=1.0),SChina,775,778,717,12.7,157.4,5.10881590977792,1.0,30.819,111.069,102.5,62.4,3.7,Jing et al. (2015),Ma et al. (1984),B,-,602
 Liantuo Formation - Jing et al. (2015) (f=0.6),SChina,775,778,717,19.585641352636753,144.48348861814748,6.19019950818213,0.6,30.819,111.069,102.5,72.58479750184307,3.7,Jing et al. (2015),Ma et al. (1984),B,-,602
