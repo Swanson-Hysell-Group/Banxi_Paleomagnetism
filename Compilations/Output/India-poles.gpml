@@ -2,8 +2,8 @@
 <gpml:FeatureCollection xmlns:gpml="http://www.gplates.org/gplates" xmlns:gml="http://www.opengis.net/gml" xmlns:xsi="http://www.w3.org/XMLSchema-instance" gpml:version="1.6.0339" xsi:schemaLocation="http://www.gplates.org/gplates ../xsd/gpml.xsd http://www.opengis.net/gml ../../../gml/current/base">
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-3bcf55c4-b98c-41d9-84d8-fc887e51f784</gpml:identity>
-            <gpml:revision>GPlates-57d1cbb8-6300-4e16-b475-8542e6b199f9</gpml:revision>
+            <gpml:identity>GPlates-452fa291-c67c-43a1-a749-294890ebce51</gpml:identity>
+            <gpml:revision>GPlates-7983a564-dbf0-4ae0-9ade-abc222bc0131</gpml:revision>
             <gml:name>Newer Dolerites-2760 (B)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -37,8 +37,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-bd20c5ea-c7bb-4bcd-aa84-2f1e53f35927</gpml:identity>
-            <gpml:revision>GPlates-78869987-244f-44e8-a04d-bc8e77a1a93b</gpml:revision>
+            <gpml:identity>GPlates-eb95376e-cd01-46ef-967f-b1e5db0e6e73</gpml:identity>
+            <gpml:revision>GPlates-d7a7daf2-3d0a-4497-8a7c-0e47b1801721</gpml:revision>
             <gml:name>Dharwar Dykes Combined 2.37 (A)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -72,8 +72,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-a28f6b8b-cb71-46d0-81b3-7da46b8f1fdc</gpml:identity>
-            <gpml:revision>GPlates-14395a68-f4b6-460d-8a6a-fcf67b3eef43</gpml:revision>
+            <gpml:identity>GPlates-4dbf8af1-20f6-460d-b691-5519f35268c4</gpml:identity>
+            <gpml:revision>GPlates-1fbbd113-5bef-4c30-9479-4c64610defa3</gpml:revision>
             <gml:name>Dharwar-Dykes Combined 2.21 (A)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -107,8 +107,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-caea8581-728f-4534-bcbe-8a830d106f09</gpml:identity>
-            <gpml:revision>GPlates-9cd554ce-9b69-4154-bba0-f1600ac8d4f0</gpml:revision>
+            <gpml:identity>GPlates-d2b38e2c-cd5d-417d-ae5a-5419f0a277a2</gpml:identity>
+            <gpml:revision>GPlates-f6335d2d-1757-4a32-a928-f41078da16d6</gpml:revision>
             <gml:name>Dharwar-Dykes Combined 2.18 (B)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -142,8 +142,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-d929dbb7-dbe1-4d73-92c6-c4338e5c28d4</gpml:identity>
-            <gpml:revision>GPlates-5da443c1-c739-4872-9cac-994c8d0cdd99</gpml:revision>
+            <gpml:identity>GPlates-5fa8c5d5-025d-4a40-bf85-9b3df943f838</gpml:identity>
+            <gpml:revision>GPlates-1b190327-bdcd-457d-a710-21d9cb23cf02</gpml:revision>
             <gml:name>Dharwar-Dykes 2.08 (A)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -177,8 +177,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-8cd935d2-99dd-429a-82d2-c055bc129197</gpml:identity>
-            <gpml:revision>GPlates-9115a0cf-e787-41ab-b55c-a3482516f1b5</gpml:revision>
+            <gpml:identity>GPlates-09358895-3a57-4d78-9f7c-1bb9cd1909e8</gpml:identity>
+            <gpml:revision>GPlates-01f03163-06fa-4ddc-91ec-b84aeaf9b724</gpml:revision>
             <gml:name>Bundelkhand NW-SE Combined (B)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -212,8 +212,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-67e12298-e1a8-4583-ba1b-7c855e8d19ec</gpml:identity>
-            <gpml:revision>GPlates-ab898884-2aa7-4df6-a207-7c8003f85bd1</gpml:revision>
+            <gpml:identity>GPlates-98f4ad25-9cd4-4ff9-bc7d-33dd8f088a88</gpml:identity>
+            <gpml:revision>GPlates-2358ea2f-0d28-4f2b-bb73-b55f7b54d89f</gpml:revision>
             <gml:name>Bastar Dykes-Combined (B)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -247,8 +247,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-5a3a3643-ca49-4d91-9cc2-7df5480c1748</gpml:identity>
-            <gpml:revision>GPlates-985f13de-b713-43e6-86fa-7ecc6ac08a23</gpml:revision>
+            <gpml:identity>GPlates-f6116f2e-8503-4486-9cf1-a0755eb94797</gpml:identity>
+            <gpml:revision>GPlates-99ec1b11-aa43-4f3e-8a7e-62b283416cf7</gpml:revision>
             <gml:name>Dharwar Dykes Combined 1.88 (A)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -282,8 +282,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-17e0b5a9-7381-4138-9134-16f560bda548</gpml:identity>
-            <gpml:revision>GPlates-710602e5-fc97-4c78-b5e2-734f520ef7f0</gpml:revision>
+            <gpml:identity>GPlates-0194d45c-9fb4-450d-963a-c9d2efd512f2</gpml:identity>
+            <gpml:revision>GPlates-f92b2ad8-81a7-4ce8-9fb7-f33c9e6e17f8</gpml:revision>
             <gml:name>Lakhna Dykes (B)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -317,8 +317,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-30980763-e04c-412e-99a5-a4446734766d</gpml:identity>
-            <gpml:revision>GPlates-cc26bb36-74a2-42b8-8671-8116f52ea238</gpml:revision>
+            <gpml:identity>GPlates-0c183fb9-3701-4c8d-9851-78c0c1bcb30f</gpml:identity>
+            <gpml:revision>GPlates-30418363-0e12-4880-8f2a-3c578c02b9fd</gpml:revision>
             <gml:name>Harohalli Alkaline Dykes - AN (B)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -352,8 +352,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-8eab3947-759a-4ade-801e-0900f943ea4b</gpml:identity>
-            <gpml:revision>GPlates-24376986-3f3e-4a0b-aa85-faa4169d3c83</gpml:revision>
+            <gpml:identity>GPlates-405d276c-9108-4cfd-a7eb-dca47f015b2c</gpml:identity>
+            <gpml:revision>GPlates-574bf9ff-31e8-4d1a-aa38-5bce6852404a</gpml:revision>
             <gml:name>Mahoba Dykes (B)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -387,8 +387,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-3c757cda-d8e8-4637-a6ff-5062b21a9f43</gpml:identity>
-            <gpml:revision>GPlates-14fd1e3d-c37a-4087-a086-3e89ee4b6317</gpml:revision>
+            <gpml:identity>GPlates-93491559-dce9-4e75-bcf0-8f29f9360d6d</gpml:identity>
+            <gpml:revision>GPlates-c0ac25e4-c089-401f-9092-4613dcfe8a26</gpml:revision>
             <gml:name>Majhgawan Kimberlite Comb. (B)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -422,8 +422,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-e270d783-f535-4e6d-9224-9676144fc1bb</gpml:identity>
-            <gpml:revision>GPlates-64cba2d9-2b1d-46c0-90a3-c28e9ad78a7a</gpml:revision>
+            <gpml:identity>GPlates-6d9e7017-2e09-4610-a2ff-167b89437b8d</gpml:identity>
+            <gpml:revision>GPlates-0b9a3956-a3ff-4367-8981-5df3521dc59b</gpml:revision>
             <gml:name>Malani Igneous Suite -Comb (A)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -457,8 +457,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-5e2dc2b4-9b91-40f6-ab2d-eb11e6d0b14a</gpml:identity>
-            <gpml:revision>GPlates-a31fd2a2-4000-4afe-98aa-8ce579b7ea90</gpml:revision>
+            <gpml:identity>GPlates-ca3b9021-8a4b-4409-9058-3edd1549d868</gpml:identity>
+            <gpml:revision>GPlates-64d9c42d-d540-4aab-9980-70f0e6812e8d</gpml:revision>
             <gml:name>Banganapalli quartzite (B)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>

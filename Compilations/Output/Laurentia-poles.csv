@@ -91,10 +91,10 @@ Adirondack fayalite granite,Laurentia,990.0,1010.0,970.0,-28.4,132.7,6.9,,44.0,2
 Adirondack metamorphic anorthosites,Laurentia,970.0,990.0,950.0,-25.1,149.0,11.6,,44.0,286.0,,,,Brown et al. (2012),-,NR,-,101
 Adirondack Microcline gneiss,Laurentia,960.0,980.0,940.0,-18.4,151.1,10.5,,44.0,285.0,,,,Brown et al. (2012),-,NR,-,101
 Torridon Group,Laurentia-Scotland,925.0,1070.0,780.0,-17.7,220.9,7.1,,57.9,354.3,,,,Nordic workshop calculation,,B,,303
-Lower Grusdievbreen Formation,Laurentia-Svalbard,830.5,851.0,810.0,19.6,204.9,10.9,,79.0,18.0,,,,\cite{Maloof2006a},,B,,311
+Lower Grusdievbreen Formation,Laurentia-Svalbard,815.0,820.0,810.0,19.6,204.9,10.9,,79.0,18.0,,,,\cite{Maloof2006a},,B,,311
 Upper Grusdievbreen Formation,Laurentia-Svalbard,802.5,810.0,795.0,-1.1,252.6,6.2,,78.9,18.2,,,,\cite{Maloof2006a},,B,,311
+Svanbergfjellet Formation,Laurentia-Svalbard,785.0,790.0,780.0,25.9,226.8,5.8,,78.5,18.0,,,,\cite{Maloof2006a},,B,,311
 Gunbarrel dykes,Laurentia,778.0,780.0,776.0,9.1,138.2,12.0,,44.8,248.7,,,,"Calculation from \cite{Eyster2019a} based on data of \cite{Harlan1993a, Harlan1997a}",,B,,101
-Svanbergfjellet Formation,Laurentia-Svalbard,763.5,795.0,730.0,25.9,226.8,5.8,,78.5,18.0,,,,\cite{Maloof2006a},,B,,311
 Uinta Mountain Group,Laurentia,760.0,766.0,750.0,0.8,161.3,4.7,,40.8,250.7,,,,\cite{Weil2006b},,B,,101
 Carbon Canyon,Laurentia,757.0,764.0,750.0,-0.5,166.0,9.7,,36.1,248.2,,,,\cite{Weil2004a} as calculated in \cite{Eyster2019a},,NR,,101
 Carbon Butte/Awatubi,Laurentia,751.0,759.0,743.0,14.2,163.8,3.5,,35.2,248.5,,,,\cite{Eyster2019a},,NR,,101
