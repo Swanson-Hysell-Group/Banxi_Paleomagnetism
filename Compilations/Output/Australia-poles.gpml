@@ -2,8 +2,8 @@
 <gpml:FeatureCollection xmlns:gpml="http://www.gplates.org/gplates" xmlns:gml="http://www.opengis.net/gml" xmlns:xsi="http://www.w3.org/XMLSchema-instance" gpml:version="1.6.0339" xsi:schemaLocation="http://www.gplates.org/gplates ../xsd/gpml.xsd http://www.opengis.net/gml ../../../gml/current/base">
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-bc40ab4e-709e-42a4-a7b8-85a3c844febd</gpml:identity>
-            <gpml:revision>GPlates-64aa88c6-1361-470e-accf-1f74b8f11ae3</gpml:revision>
+            <gpml:identity>GPlates-2383fd17-860c-41fa-a5fb-b3e7e1770d9d</gpml:identity>
+            <gpml:revision>GPlates-0f0007b4-e042-4661-9dbf-6eedb1168d92</gpml:revision>
             <gml:name>Duffer Formation (A)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -37,8 +37,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-a301bdb1-305a-43c1-afca-9765cd67248a</gpml:identity>
-            <gpml:revision>GPlates-2974707d-0fd3-4bb5-9043-f7aa10b9371a</gpml:revision>
+            <gpml:identity>GPlates-c569f19b-91a3-4c34-a33d-e50bee966f3d</gpml:identity>
+            <gpml:revision>GPlates-56a4fe36-f24c-4233-9fd6-8ac52b5591c8</gpml:revision>
             <gml:name>Black Range Dolerite Suite (A)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -72,8 +72,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-7d4451c1-8861-44e4-ba83-d39c73810828</gpml:identity>
-            <gpml:revision>GPlates-66792e25-abd1-4c52-8324-7bb8f960b949</gpml:revision>
+            <gpml:identity>GPlates-d277c533-ea01-4608-84d0-74f46590d56b</gpml:identity>
+            <gpml:revision>GPlates-68257e74-abda-4816-a7ac-da6974de59c3</gpml:revision>
             <gml:name>Pilbara Flood Basalts, Package 1 (A)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -107,8 +107,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-843eea43-e65b-4224-ae3b-e125961c5d04</gpml:identity>
-            <gpml:revision>GPlates-4172f2f4-0975-466c-a589-529988b169a5</gpml:revision>
+            <gpml:identity>GPlates-8514b038-a27e-442e-ace7-917a8c1863cc</gpml:identity>
+            <gpml:revision>GPlates-d0f29a8a-973e-46cc-80b3-ab3eeabb9363</gpml:revision>
             <gml:name>Mount Roe Basalt (A)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -142,8 +142,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-6058ef9b-4982-469d-9d78-983353e8e27c</gpml:identity>
-            <gpml:revision>GPlates-e5275e49-ae0b-49d0-92b2-df5a82682a72</gpml:revision>
+            <gpml:identity>GPlates-413348df-1aa3-40bf-8236-877caaa3a0e8</gpml:identity>
+            <gpml:revision>GPlates-a0c2331f-fba9-4e16-a6b7-174c7bc9b0b0</gpml:revision>
             <gml:name>Pilbara Flood Basalts, Package 2 (B)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -177,8 +177,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-427fec54-f0ec-4432-aa0b-8f1a8d7659d9</gpml:identity>
-            <gpml:revision>GPlates-0f929353-b68d-4c96-8f68-afcb689b0fcb</gpml:revision>
+            <gpml:identity>GPlates-2d6f899a-b107-4e39-b1de-b02a94fbc00f</gpml:identity>
+            <gpml:revision>GPlates-8ab2e55f-2364-41cb-a1d4-2f6b6b6bd768</gpml:revision>
             <gml:name>Mount Jope Volcanics (B)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -212,8 +212,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-f2c0e5c8-46bb-4458-9efc-f7d0dd65770d</gpml:identity>
-            <gpml:revision>GPlates-9b6f5f9a-b4a3-449f-8f75-7c5c1d171849</gpml:revision>
+            <gpml:identity>GPlates-bfb54922-6d2a-4983-82d0-0b9612971be0</gpml:identity>
+            <gpml:revision>GPlates-d50a00ec-6712-4147-abba-1c3ad2704e89</gpml:revision>
             <gml:name>Pilbara Flood Basalts, Packages 4-7 (B)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -247,8 +247,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-7d1bd121-4c3f-43b7-b55f-7406345cc429</gpml:identity>
-            <gpml:revision>GPlates-0c2a55ee-d7a5-4adc-9da3-b34ed2562cdc</gpml:revision>
+            <gpml:identity>GPlates-33f1e359-4e69-46f6-94c5-3c82baa68eab</gpml:identity>
+            <gpml:revision>GPlates-486455ff-ef96-4714-98db-8326428f546b</gpml:revision>
             <gml:name>Pilbara Flood Basalts, Packages 8-10 (B)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -282,8 +282,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-8f8da919-0f1f-492d-86b4-150f719a2403</gpml:identity>
-            <gpml:revision>GPlates-a89dd79a-8b13-4348-8a47-f2502aba7eaa</gpml:revision>
+            <gpml:identity>GPlates-2378a795-f570-414a-92ec-1bb937809400</gpml:identity>
+            <gpml:revision>GPlates-dd99f80e-27bb-4010-b28f-e7df456f06f8</gpml:revision>
             <gml:name>Widgiemooltha dyke suite (A)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -317,8 +317,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-7ad11aa8-6b87-4c74-932e-e4136a30bff2</gpml:identity>
-            <gpml:revision>GPlates-7b79411b-edd7-443b-8e24-6afe83a9ebb4</gpml:revision>
+            <gpml:identity>GPlates-ebbb50f9-c707-4897-88c3-e5cec995ffc7</gpml:identity>
+            <gpml:revision>GPlates-6352bea6-703d-4d0a-b066-c0fad102fd69</gpml:revision>
             <gml:name>Erayinia mafic dykes (B)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -352,8 +352,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-ee227f57-fce6-4b08-8660-34d5ec089fb5</gpml:identity>
-            <gpml:revision>GPlates-3e9212df-9005-4f66-b430-b6631157e3d0</gpml:revision>
+            <gpml:identity>GPlates-3834af32-b10f-4d21-8ac1-dfbb3e274075</gpml:identity>
+            <gpml:revision>GPlates-e2b50456-be8b-4df5-ad1b-aa9ecec89d25</gpml:revision>
             <gml:name>Frere Formation (B)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -387,8 +387,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-7b97a021-278a-4f58-8645-0f8302754531</gpml:identity>
-            <gpml:revision>GPlates-e91c7dd4-401b-42a2-a117-fc6867e20580</gpml:revision>
+            <gpml:identity>GPlates-8d16c57e-701f-45a9-9d3b-73c918919d6a</gpml:identity>
+            <gpml:revision>GPlates-f4a50038-f462-4c1c-8532-22e08c6532ba</gpml:revision>
             <gml:name>Elgee-Pentecost combined (B)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -422,8 +422,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-48d0aa34-c98f-413b-9ddc-dd4123c1d8f1</gpml:identity>
-            <gpml:revision>GPlates-3c60d91b-9164-40e6-94ca-16790eafe19c</gpml:revision>
+            <gpml:identity>GPlates-02cd5106-665d-464b-9352-81df6a41b62e</gpml:identity>
+            <gpml:revision>GPlates-c0192491-97ba-43c4-9718-9519874d07de</gpml:revision>
             <gml:name>HP2 overprint, Southern Pilbara (B)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -457,8 +457,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-fe352699-af2a-4447-8fab-07ba1885798f</gpml:identity>
-            <gpml:revision>GPlates-57272e5a-27aa-486a-ade9-a9fad89897ad</gpml:revision>
+            <gpml:identity>GPlates-9282e8c5-9341-47f0-bf7b-1e3c01f2a308</gpml:identity>
+            <gpml:revision>GPlates-adb63394-097c-4533-8198-623312b5851a</gpml:revision>
             <gml:name>Wollogorang Formation (B)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -492,8 +492,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-da1bf131-5942-419f-9ec9-21290d7a4600</gpml:identity>
-            <gpml:revision>GPlates-f936a8d3-3c59-4b1d-9bc9-653cdb324fa6</gpml:revision>
+            <gpml:identity>GPlates-af914070-6336-4ac7-8b10-e8c96b9d6de1</gpml:identity>
+            <gpml:revision>GPlates-9caa3b65-1278-4e18-819e-1d1232a40266</gpml:revision>
             <gml:name>Peters Creek Volcanics, upper part (A)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -527,8 +527,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-f158725c-9bd9-4d2b-a09d-0e6c46108044</gpml:identity>
-            <gpml:revision>GPlates-e5572c94-84bc-4613-856a-faa49f956667</gpml:revision>
+            <gpml:identity>GPlates-c47762fa-4637-4a2c-bee9-b424b0c208c2</gpml:identity>
+            <gpml:revision>GPlates-0237da64-ff05-46fe-9431-b78e74af4293</gpml:revision>
             <gml:name>Fiery Creek Formation (B)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -562,8 +562,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-4116a193-d4c2-47b4-b6a8-1dfb769d828d</gpml:identity>
-            <gpml:revision>GPlates-6b7cc73e-8927-4c66-9e7a-381eacf07f50</gpml:revision>
+            <gpml:identity>GPlates-6f821ef7-16cb-4ab4-84a8-bf1ecf7ab815</gpml:identity>
+            <gpml:revision>GPlates-ff5b26da-72ae-4606-aeee-51d6d6137072</gpml:revision>
             <gml:name>West Branch Volcanics (A)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -597,8 +597,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-45c1ed10-e6d0-4d5e-8dbf-905340d42b04</gpml:identity>
-            <gpml:revision>GPlates-af929103-8617-42e6-832a-4d7eed3f85bb</gpml:revision>
+            <gpml:identity>GPlates-43847e0f-6be1-4942-8e2f-caf46779d455</gpml:identity>
+            <gpml:revision>GPlates-0a551c7e-17fd-43e3-86a0-203f9f0e9564</gpml:revision>
             <gml:name>Mallapunyah Formation (A)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -632,8 +632,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-202cd5bf-32f3-4a8d-a209-f53d7dcc4a91</gpml:identity>
-            <gpml:revision>GPlates-93a596cd-480f-41b2-b642-78d8fa53f86b</gpml:revision>
+            <gpml:identity>GPlates-ae892fb5-4047-4ef0-9af4-439035a6a86a</gpml:identity>
+            <gpml:revision>GPlates-7e449d3d-6f7b-4814-948d-00adf45163dd</gpml:revision>
             <gml:name>Tooganinie Formation (A)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -667,8 +667,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-138f9cce-df2d-46c1-a21c-bf011bf9434f</gpml:identity>
-            <gpml:revision>GPlates-552bd981-7072-41bc-b84b-7bddc4de3e19</gpml:revision>
+            <gpml:identity>GPlates-2d624e08-7fb5-4262-a138-5252f6c0b83f</gpml:identity>
+            <gpml:revision>GPlates-18cea126-949d-4961-b0ed-a611d85323ea</gpml:revision>
             <gml:name>Emmerugga Dolomite (B)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -702,8 +702,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-6f2ab18b-bdaf-4a78-903a-26723b3587ed</gpml:identity>
-            <gpml:revision>GPlates-1bd806c3-31a9-4a56-b6be-56fee64c4148</gpml:revision>
+            <gpml:identity>GPlates-0f9f2efa-f2b9-4bcd-b514-5a19caa3863c</gpml:identity>
+            <gpml:revision>GPlates-b058f357-ff68-436a-9710-b4fe94ad0ae3</gpml:revision>
             <gml:name>Balbirini Dolomite, lower part (B)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -737,8 +737,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-049993da-0421-4fee-8e87-21bd26a34271</gpml:identity>
-            <gpml:revision>GPlates-1987067b-b96f-4fed-a845-4dbcabeaebb9</gpml:revision>
+            <gpml:identity>GPlates-aef2a607-3873-47a9-a6b5-876f99de5b75</gpml:identity>
+            <gpml:revision>GPlates-bff9adca-7b10-4553-8a08-1e31c8d5deb8</gpml:revision>
             <gml:name>Balbirini Dolomite, upper part (B)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -772,8 +772,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-c8fb8b16-1357-4a13-8b4f-32f19159916d</gpml:identity>
-            <gpml:revision>GPlates-9efd0855-916d-46f6-ab44-48e0b6cb4205</gpml:revision>
+            <gpml:identity>GPlates-0a67e430-cb77-4bf3-8221-414346cb8ef1</gpml:identity>
+            <gpml:revision>GPlates-6f6e65ed-ee9d-43e2-9ba8-65f4aa7de574</gpml:revision>
             <gml:name>Gawler Range Volcanics (B)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -807,8 +807,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-1e7d937d-277e-434a-9542-54008321ea07</gpml:identity>
-            <gpml:revision>GPlates-c26ef72f-0feb-4b3b-8dd2-e0eb945306cb</gpml:revision>
+            <gpml:identity>GPlates-a1ce59a0-fa69-4df4-bb9c-fcba5a463160</gpml:identity>
+            <gpml:revision>GPlates-4a8d424f-c4ad-4be6-9703-90f467f091c1</gpml:revision>
             <gml:name>Mt.Isa Metamorphosed Dykes (IM) (B)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -842,8 +842,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-96a7d98a-5259-4329-afe6-c2d6607d45fe</gpml:identity>
-            <gpml:revision>GPlates-3f725ea4-7292-4167-a528-b0d5eb94cf3c</gpml:revision>
+            <gpml:identity>GPlates-3d2380ca-c04c-4ea1-9cb9-73b185df17ec</gpml:identity>
+            <gpml:revision>GPlates-4487a1c9-59e1-43e6-a93e-26cfef0d5515</gpml:revision>
             <gml:name>Blue Range beds &amp; Pandurra formation (B)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -877,8 +877,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-d804d3d8-7cae-4d8d-b0ce-2fea62fbc497</gpml:identity>
-            <gpml:revision>GPlates-5f808b7a-af6d-40d1-a8af-38b320753fa6</gpml:revision>
+            <gpml:identity>GPlates-f81e6518-20a8-44e6-aa34-a4914ffa3792</gpml:identity>
+            <gpml:revision>GPlates-b377fd72-9244-483b-a014-318a629c0b0a</gpml:revision>
             <gml:name>Gnowangerup-Fraser dykes (A)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -912,8 +912,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-c23d05d9-9c4f-4e37-afe7-1f2a9f526b32</gpml:identity>
-            <gpml:revision>GPlates-b6b88aba-9902-4326-91de-c21f6174290e</gpml:revision>
+            <gpml:identity>GPlates-b6f247ad-fe68-417f-802b-91ae9e5a7d31</gpml:identity>
+            <gpml:revision>GPlates-fafcd5f4-93d3-4667-9f0c-f9883c5016f6</gpml:revision>
             <gml:name>Mt.Isa Dolerite Dykes (IAR) (B)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -947,8 +947,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-a04b91c6-3f3b-4993-a69e-9aa6671f80d2</gpml:identity>
-            <gpml:revision>GPlates-b07a7cd6-222f-4202-bf52-62b8e3d9b053</gpml:revision>
+            <gpml:identity>GPlates-1bc24f8f-ec55-4ebe-99a5-5589e1cc3bbb</gpml:identity>
+            <gpml:revision>GPlates-07230d6c-af29-4d1b-ba6c-c12ee60c650f</gpml:revision>
             <gml:name>Alcurra dykes+sills (B)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -982,8 +982,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-a070d090-fd69-431e-8c3b-2955aa9ed2ff</gpml:identity>
-            <gpml:revision>GPlates-4795c3f9-8705-425d-b8c0-b36c9f9588d2</gpml:revision>
+            <gpml:identity>GPlates-c6af5347-2edc-4569-9e0d-3a4fcb4083f7</gpml:identity>
+            <gpml:revision>GPlates-8be82a04-f86c-4028-b601-cf61f09cb86b</gpml:revision>
             <gml:name>Bangemall Sills (A)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -1017,8 +1017,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-67445146-7f37-49ea-a3e4-6833adca2add</gpml:identity>
-            <gpml:revision>GPlates-ab91ab64-a01b-4c4c-9f5a-f744b276ae27</gpml:revision>
+            <gpml:identity>GPlates-f327f54c-79f4-491e-8cc9-199ead8eb111</gpml:identity>
+            <gpml:revision>GPlates-57cb6ffa-1fc7-4dac-9392-0436248f8a2a</gpml:revision>
             <gml:name>Lancer borehole, Browne Formation (B)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -1052,8 +1052,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-138653c2-b966-461d-bd78-0eac47bf0d68</gpml:identity>
-            <gpml:revision>GPlates-d29c6d6e-1719-4342-8522-e5b26019f800</gpml:revision>
+            <gpml:identity>GPlates-d2477d0a-4319-4a3d-a748-335bf0bec766</gpml:identity>
+            <gpml:revision>GPlates-92f7c4dd-5a35-42f9-96d2-b3807dddf038</gpml:revision>
             <gml:name>Johnny's Creek siltstones (B)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -1087,8 +1087,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-f345c92f-193d-445e-a3e4-7114a030fe10</gpml:identity>
-            <gpml:revision>GPlates-6cf443ad-da14-4d15-b77c-98fccd6b10f8</gpml:revision>
+            <gpml:identity>GPlates-e42ac259-6cc4-4c77-a82e-4aae10cc091d</gpml:identity>
+            <gpml:revision>GPlates-857f30e9-91be-4eae-9bd3-14ea6806a462</gpml:revision>
             <gml:name>Mundine Well Dykes Combined (A)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -1122,8 +1122,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-06da70db-cba1-4d9a-97e2-aeb3c3f2ab4e</gpml:identity>
-            <gpml:revision>GPlates-c60460a5-ce00-4072-8650-be753d6d75a2</gpml:revision>
+            <gpml:identity>GPlates-43c6bd41-a80d-4e1a-a4d3-1202f53a248e</gpml:identity>
+            <gpml:revision>GPlates-4ab9ade4-3fca-44c8-ad21-83d14be9b148</gpml:revision>
             <gml:name>Angepena Formation (B)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -1157,8 +1157,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-b0cf4f4e-100b-44c9-b897-e503b0e1866f</gpml:identity>
-            <gpml:revision>GPlates-876340c6-c0c5-41ab-8abc-9b21477ff8e8</gpml:revision>
+            <gpml:identity>GPlates-a2c3fdaa-2f44-4aef-ab8d-3a080cf9a7fd</gpml:identity>
+            <gpml:revision>GPlates-3ec2e42e-fec6-46df-b9c8-381df8e36e87</gpml:revision>
             <gml:name>Cap Dolomite, Walsh Tillite (B)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -1192,8 +1192,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-805f8506-97ab-4e20-8d33-059a9ae2ba96</gpml:identity>
-            <gpml:revision>GPlates-2f33a8fd-2f6e-462b-b132-4a5ad195675c</gpml:revision>
+            <gpml:identity>GPlates-3ba8c483-49f7-48fa-b60e-655fb5e8d7e0</gpml:identity>
+            <gpml:revision>GPlates-f769d79d-4858-4a13-94e9-99012fc30859</gpml:revision>
             <gml:name>MEAN Elatina Formation (A)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -1227,8 +1227,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-4290fe71-00f5-4af8-b9b4-7c4e956afd87</gpml:identity>
-            <gpml:revision>GPlates-93cef3e7-f06c-4ba3-b44a-ea5bac2edb80</gpml:revision>
+            <gpml:identity>GPlates-093a27b1-a0ea-428f-9b6c-8fb85b2f201b</gpml:identity>
+            <gpml:revision>GPlates-c00c83e5-1832-4b30-9a93-249ec0ebe01f</gpml:revision>
             <gml:name>Nuccaleena Formation (A)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -1262,8 +1262,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-0667f440-a9a1-483a-add1-c5ce655eaf46</gpml:identity>
-            <gpml:revision>GPlates-472b2ac6-5005-4543-a81a-b06ced041d41</gpml:revision>
+            <gpml:identity>GPlates-b3afe190-364b-4527-ae8b-4bf84510a0f7</gpml:identity>
+            <gpml:revision>GPlates-22deb97a-41d9-4d06-bc32-bfccc9bac8ab</gpml:revision>
             <gml:name>Yaltipena Formation (B)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -1297,8 +1297,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-3f492fed-58aa-422e-8079-8a176172a9c1</gpml:identity>
-            <gpml:revision>GPlates-330e51bb-971a-4520-958c-094c5838b2e9</gpml:revision>
+            <gpml:identity>GPlates-8cfe6a10-416c-486a-aba7-92341be426d2</gpml:identity>
+            <gpml:revision>GPlates-2a5aebd7-e82d-4838-85d8-f35970f22a0c</gpml:revision>
             <gml:name>Brachina Formation (B)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -1332,8 +1332,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-25308706-3e43-49c0-896c-eceaaae298d2</gpml:identity>
-            <gpml:revision>GPlates-e4a1b4b7-bb66-4d26-a7f3-4dbfc4778d71</gpml:revision>
+            <gpml:identity>GPlates-afff2575-94f2-44dd-83db-30f90aa3d270</gpml:identity>
+            <gpml:revision>GPlates-5bc5a3e2-33df-4efe-9b67-222b7a30e118</gpml:revision>
             <gml:name>Brachina Formation (B)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -1367,8 +1367,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-42ed3e08-97d2-4718-90b7-8dab798d30be</gpml:identity>
-            <gpml:revision>GPlates-1e7d2a63-0cab-4431-9574-ce57f17c449c</gpml:revision>
+            <gpml:identity>GPlates-f60b6beb-3017-4833-9c82-f5094ca56f16</gpml:identity>
+            <gpml:revision>GPlates-fa21bbf4-5cf6-4ac4-ab1b-ed1677737fd4</gpml:revision>
             <gml:name>Bunyeroo Formation (A)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -1402,8 +1402,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-c35b3935-59f8-413a-bd59-e541c4f20228</gpml:identity>
-            <gpml:revision>GPlates-cee8f22c-50c9-47ee-b4e5-f777822a4c4e</gpml:revision>
+            <gpml:identity>GPlates-06feb7be-cb6b-4907-b896-776babd46189</gpml:identity>
+            <gpml:revision>GPlates-978a3eba-e85c-4467-9c61-08f777799bfc</gpml:revision>
             <gml:name>Wonoka Formation (B)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -1437,8 +1437,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-a3884f4b-3752-45e9-86eb-f5379082130e</gpml:identity>
-            <gpml:revision>GPlates-b5e7f12f-f289-436d-9a2f-2b62b12110e4</gpml:revision>
+            <gpml:identity>GPlates-6350146e-0be8-4419-a42a-78e838974d19</gpml:identity>
+            <gpml:revision>GPlates-59ff101b-465c-4c02-b632-89fc9ed95720</gpml:revision>
             <gml:name>Lower Arumbera and Upper Pertatataka Formations (A)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>

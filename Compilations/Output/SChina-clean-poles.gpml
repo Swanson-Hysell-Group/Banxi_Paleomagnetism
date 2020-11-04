@@ -2,8 +2,8 @@
 <gpml:FeatureCollection xmlns:gpml="http://www.gplates.org/gplates" xmlns:gml="http://www.opengis.net/gml" xmlns:xsi="http://www.w3.org/XMLSchema-instance" gpml:version="1.6.0339" xsi:schemaLocation="http://www.gplates.org/gplates ../xsd/gpml.xsd http://www.opengis.net/gml ../../../gml/current/base">
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-99e6212c-911a-44cd-af57-7c0e8578c66e</gpml:identity>
-            <gpml:revision>GPlates-2c1f321f-5ef8-4d3f-a7c0-bc0408616627</gpml:revision>
+            <gpml:identity>GPlates-b282d517-97cb-443c-8ebe-e4870365398f</gpml:identity>
+            <gpml:revision>GPlates-291da643-735e-4e61-a091-701c82bfcd4f</gpml:revision>
             <gml:name>Xiaofeng Dikes - Jing et al. (2019) (B)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -37,8 +37,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-78e08570-a5b4-475e-a8ee-497299402e41</gpml:identity>
-            <gpml:revision>GPlates-e91551dd-c32b-4ed3-85db-f24af9170176</gpml:revision>
+            <gpml:identity>GPlates-907b1990-eafc-4402-8d2d-deb83efa5bb4</gpml:identity>
+            <gpml:revision>GPlates-b0b55cd8-9cf0-45e5-9fba-c67a940f3ba4</gpml:revision>
             <gml:name>Banxi Group - site mean (f=0.6) (NR)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -47,7 +47,7 @@
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
             <gpml:poleA95>8.0999999999999996</gpml:poleA95>
-            <gpml:averageAge>814</gpml:averageAge>
+            <gpml:averageAge>813</gpml:averageAge>
             <gpml:averageSampleSitePosition>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -72,8 +72,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-b7020607-20b7-4665-ba45-292183da5167</gpml:identity>
-            <gpml:revision>GPlates-e8914b84-529e-4200-8733-2089e9fb2a63</gpml:revision>
+            <gpml:identity>GPlates-a10dd3f9-882a-48f9-8632-bf09de2dca0f</gpml:identity>
+            <gpml:revision>GPlates-960309fb-34b3-4619-a2fa-15c3a5b3b6ee</gpml:revision>
             <gml:name>Madiyi Formation - site mean (f=0.6) (NR)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -107,8 +107,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-1ccd4367-14b5-405f-9763-f385d6bb0bf1</gpml:identity>
-            <gpml:revision>GPlates-b5557598-3684-47c1-9e11-d3903f1039ea</gpml:revision>
+            <gpml:identity>GPlates-be7b06c3-137e-4551-b67d-5067a354c74d</gpml:identity>
+            <gpml:revision>GPlates-dd2fb181-d806-4289-8dea-6f3ce62e3ef0</gpml:revision>
             <gml:name>Chengjiang Formation - site mean (f=0.6) (NR)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -142,8 +142,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-ca0c078b-f4f1-4b62-94c7-aac7618ff463</gpml:identity>
-            <gpml:revision>GPlates-87464b2f-1408-4cd5-ae9c-cdadcd9bf51b</gpml:revision>
+            <gpml:identity>GPlates-37139bb8-c4b8-4196-abb0-c625202ab189</gpml:identity>
+            <gpml:revision>GPlates-1455a696-8ed6-4ab9-b986-ac13cde4473f</gpml:revision>
             <gml:name>Liantuo Formation - site mean (f=0.6) (B)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -152,7 +152,7 @@
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
             <gpml:poleA95>4.1687747625056186</gpml:poleA95>
-            <gpml:averageAge>775</gpml:averageAge>
+            <gpml:averageAge>779.51999999999998</gpml:averageAge>
             <gpml:averageSampleSitePosition>
                 <gpml:ConstantValue>
                     <gpml:value>
