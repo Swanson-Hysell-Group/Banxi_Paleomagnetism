@@ -2,8 +2,8 @@
 <gpml:FeatureCollection xmlns:gpml="http://www.gplates.org/gplates" xmlns:gml="http://www.opengis.net/gml" xmlns:xsi="http://www.w3.org/XMLSchema-instance" gpml:version="1.6.0339" xsi:schemaLocation="http://www.gplates.org/gplates ../xsd/gpml.xsd http://www.opengis.net/gml ../../../gml/current/base">
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-848e2d70-1386-4661-84be-cf00f59fdd83</gpml:identity>
-            <gpml:revision>GPlates-5cd8f284-5fdf-496d-8363-39bad006d374</gpml:revision>
+            <gpml:identity>GPlates-b942c486-d4b8-493e-b7ab-cef30d01792a</gpml:identity>
+            <gpml:revision>GPlates-4d7cdc27-7e88-4e47-8974-c51a31db4e33</gpml:revision>
             <gml:name>Lower Akitkan Khibelen group (Malaya Kosa formation) (A)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -37,8 +37,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-4c63a97d-5cd0-4b2b-9f43-c868ca07fc3d</gpml:identity>
-            <gpml:revision>GPlates-eed579cc-4522-4684-a2e5-5a4c60ae5dd6</gpml:revision>
+            <gpml:identity>GPlates-06601998-f3c2-4062-952d-5bd1236d5782</gpml:identity>
+            <gpml:revision>GPlates-a5f8a19f-ffdc-4993-88df-c1ec64361d9f</gpml:revision>
             <gml:name>Upper Akitkan Group (A)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -72,8 +72,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-8e7dc21f-a8bc-4f31-ba15-64ec30d4bcdb</gpml:identity>
-            <gpml:revision>GPlates-649a8f82-d007-4b93-81b6-30c769060171</gpml:revision>
+            <gpml:identity>GPlates-2f924057-e0ac-4cda-abf9-9edc7dd2a9f5</gpml:identity>
+            <gpml:revision>GPlates-3ab86040-43ca-4b36-b506-7ff9eeab81cc</gpml:revision>
             <gml:name>Shumikhinsk Granitoids (B)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -107,8 +107,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-2b59a94f-e95d-42d1-ad46-75c16fab3a39</gpml:identity>
-            <gpml:revision>GPlates-c2b0702c-04fd-4c31-a562-fa3c855c06a4</gpml:revision>
+            <gpml:identity>GPlates-b8453de3-4404-4c51-877d-07d14cb9d96c</gpml:identity>
+            <gpml:revision>GPlates-6d6d7997-36a6-4f9a-9382-54f2c957b962</gpml:revision>
             <gml:name>Elgetey Formation (A)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -142,8 +142,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-8a8578e4-f303-4fb2-9724-edc743d2fcdc</gpml:identity>
-            <gpml:revision>GPlates-738d630d-2e5d-439e-84ba-2fb6613444e2</gpml:revision>
+            <gpml:identity>GPlates-f0935569-207d-4eeb-b20f-2223a4da025c</gpml:identity>
+            <gpml:revision>GPlates-6127fefe-45fb-4d70-bd53-a77207ba76dc</gpml:revision>
             <gml:name>Ulkan granite (B)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -177,8 +177,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-9e8683d2-c753-4957-b39d-f3db1b8c4d6c</gpml:identity>
-            <gpml:revision>GPlates-d07357d5-a07c-4ecd-9a20-df8784d12f45</gpml:revision>
+            <gpml:identity>GPlates-14b35366-4573-4f13-ac6e-c8f30a6a3404</gpml:identity>
+            <gpml:revision>GPlates-e2ba6faf-098d-41dc-8af0-77db18efda22</gpml:revision>
             <gml:name>West Anabar Intrusions (A)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -212,8 +212,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-f7c682dd-943b-4341-8065-8fe2c1e135c1</gpml:identity>
-            <gpml:revision>GPlates-0f90c542-a6cd-4c62-8021-f49dda3be9d8</gpml:revision>
+            <gpml:identity>GPlates-3d7e10a9-cfbd-42f1-93ed-24bd9bb17dcd</gpml:identity>
+            <gpml:revision>GPlates-f63c0dbc-7545-4cae-ac99-5c3fea92aae4</gpml:revision>
             <gml:name>Kuonamka Dykes (B)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -247,8 +247,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-2636c90a-fc24-4119-b1eb-d782309be680</gpml:identity>
-            <gpml:revision>GPlates-6bcb3fb6-2e57-4967-a2a8-c5068fbd47ff</gpml:revision>
+            <gpml:identity>GPlates-0a33dedf-e13e-4fe6-b7ed-60e6ddc879d6</gpml:identity>
+            <gpml:revision>GPlates-fd603ada-d53f-40d9-b37f-d599990e58f1</gpml:revision>
             <gml:name>North Anabar Intrusions (B)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -282,8 +282,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-98ed2c2a-1862-4482-93d4-ada303d6bb86</gpml:identity>
-            <gpml:revision>GPlates-b74736b8-d0bc-4840-9375-b6d215742d4e</gpml:revision>
+            <gpml:identity>GPlates-6ad9326b-0165-49c3-8cbd-542417404171</gpml:identity>
+            <gpml:revision>GPlates-a7de9b5b-7bc8-4bce-9cc4-8b2743f28235</gpml:revision>
             <gml:name>Sololi-Kyutingde intrusions (A)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -317,8 +317,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-6bfb7890-6e4f-4550-b5c7-31c91b7a684d</gpml:identity>
-            <gpml:revision>GPlates-6ba891e1-3edb-44ef-884c-c6acdf8a4dc0</gpml:revision>
+            <gpml:identity>GPlates-5e532e5d-6974-44d5-9b15-a8a9b475089b</gpml:identity>
+            <gpml:revision>GPlates-6617f16b-7089-4d14-b2d0-c2addbcd3dfc</gpml:revision>
             <gml:name>Linok Formation (B)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -352,8 +352,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-d5e226c9-a4f8-4301-a934-ada83b91fa11</gpml:identity>
-            <gpml:revision>GPlates-d8f5fef7-8da7-4223-8299-2ea1ce1f85be</gpml:revision>
+            <gpml:identity>GPlates-e4195a87-ceef-4a7d-b7ec-6994a83e775d</gpml:identity>
+            <gpml:revision>GPlates-ef8dbb42-bc6e-40e4-b108-91002929ec1f</gpml:revision>
             <gml:name>Kartochka Formation (B)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -387,8 +387,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-e797a822-dc03-42f0-91cc-2c50025b3847</gpml:identity>
-            <gpml:revision>GPlates-2baf2ef8-2379-4247-87c6-9d4c77f3a8df</gpml:revision>
+            <gpml:identity>GPlates-ae4b0659-b282-4dc0-857e-dfe1ddc7b54b</gpml:identity>
+            <gpml:revision>GPlates-ffeef7fd-8afb-44e3-8558-e36c31c63359</gpml:revision>
             <gml:name>Malgina Formation (B)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -422,8 +422,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-3e91d49b-0400-464d-ba6e-77b5cfc0fb05</gpml:identity>
-            <gpml:revision>GPlates-827395d7-391f-4053-ad66-0a8e34d0e34a</gpml:revision>
+            <gpml:identity>GPlates-318f34ca-f67a-492d-a76c-9a523898b0bf</gpml:identity>
+            <gpml:revision>GPlates-25669f87-5c98-4def-9ae6-d82e8d2a344c</gpml:revision>
             <gml:name>Kumakha Formation (B)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -457,8 +457,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-4be424a0-70fb-47cc-b87a-2bd48abd9661</gpml:identity>
-            <gpml:revision>GPlates-9100596b-1817-49de-8925-5a95a5189d10</gpml:revision>
+            <gpml:identity>GPlates-e5ebd75d-20df-4c15-8853-172f0eed9602</gpml:identity>
+            <gpml:revision>GPlates-77d061ec-82de-4184-8b03-580854e32702</gpml:revision>
             <gml:name>Milkon Formation (B)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -492,8 +492,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-bf78c539-bc24-4170-b38a-b66e62e3b82b</gpml:identity>
-            <gpml:revision>GPlates-34ac23e1-b050-44f6-ab5e-b89463a49c93</gpml:revision>
+            <gpml:identity>GPlates-9e4ad23e-98ef-42c1-9bb6-0e630c044301</gpml:identity>
+            <gpml:revision>GPlates-924dc89f-ee86-463d-8745-79d81ad66140</gpml:revision>
             <gml:name>Nelkan Formation (B)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -527,8 +527,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-71923eee-9d6b-4088-8cbb-94b617cab0b9</gpml:identity>
-            <gpml:revision>GPlates-fa43491d-2f97-4399-9e7e-0cec6f1a58cf</gpml:revision>
+            <gpml:identity>GPlates-dabef241-b768-48b3-9d01-280c69af531b</gpml:identity>
+            <gpml:revision>GPlates-b6d0a691-8ee2-4db5-b039-4038a88966cd</gpml:revision>
             <gml:name>Ignican Formation (B)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -562,8 +562,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-bfa0dadb-0937-4ac6-88f4-fb3abf9a1a31</gpml:identity>
-            <gpml:revision>GPlates-52c5177d-88a4-430f-b176-ccdce5e59149</gpml:revision>
+            <gpml:identity>GPlates-75935be0-fbcc-4fc9-a54e-47e3f0f305f0</gpml:identity>
+            <gpml:revision>GPlates-4f3c628e-2d62-4900-8005-f73381f2f99b</gpml:revision>
             <gml:name>Kandyk Formation combined (B)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -597,8 +597,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-145f1108-042d-4350-9f85-5c3ff5eb1e5e</gpml:identity>
-            <gpml:revision>GPlates-4da67827-9484-490a-acfe-3e96df0b7177</gpml:revision>
+            <gpml:identity>GPlates-298c1b93-7b61-4d76-a8fe-9e2b23d7c574</gpml:identity>
+            <gpml:revision>GPlates-51bc39d4-72c3-4d7b-b84c-34f1a8c9a7fc</gpml:revision>
             <gml:name>Ust-Kirba Formation combined (B)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -632,8 +632,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-9c9a0ffe-31ca-4278-9adc-7a4f4ad767a8</gpml:identity>
-            <gpml:revision>GPlates-e24aeb5c-dee5-4e7d-83a0-38dca2e3c22d</gpml:revision>
+            <gpml:identity>GPlates-96fd840a-3027-455c-a6e2-44d313d1343e</gpml:identity>
+            <gpml:revision>GPlates-81e79d84-15dc-4a5d-884e-46363e2e706e</gpml:revision>
             <gml:name>Kitoi Cryogenian dykes (A)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>

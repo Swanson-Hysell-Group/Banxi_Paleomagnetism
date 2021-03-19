@@ -2,8 +2,8 @@
 <gpml:FeatureCollection xmlns:gpml="http://www.gplates.org/gplates" xmlns:gml="http://www.opengis.net/gml" xmlns:xsi="http://www.w3.org/XMLSchema-instance" gpml:version="1.6.0339" xsi:schemaLocation="http://www.gplates.org/gplates ../xsd/gpml.xsd http://www.opengis.net/gml ../../../gml/current/base">
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-96e68f4c-a4d7-483e-a5e0-d6d3497c103a</gpml:identity>
-            <gpml:revision>GPlates-dd84a769-05ae-4d4c-a4a6-de495e7fc0f3</gpml:revision>
+            <gpml:identity>GPlates-f7a2ab3b-7fbb-4949-b157-de5220f0036a</gpml:identity>
+            <gpml:revision>GPlates-df3c0570-2d93-4a9b-b2e9-6cb9b6559ac8</gpml:revision>
             <gml:name>Xiaofeng Dikes - Jing et al. (2019) (B)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -37,8 +37,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-dbe7bd00-7991-41ed-834a-d57761013a8b</gpml:identity>
-            <gpml:revision>GPlates-5e371569-07d9-4075-84f7-e7e7a358ffbd</gpml:revision>
+            <gpml:identity>GPlates-38f0160d-5d74-45b6-be18-94c2be2e6602</gpml:identity>
+            <gpml:revision>GPlates-212c6dfc-20ea-4215-a91f-6b0d85662f87</gpml:revision>
             <gml:name>Banxi Group - site mean (f=0.6) (NR)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -72,8 +72,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-d5aa972c-1f7c-453f-95c7-957467bbfa36</gpml:identity>
-            <gpml:revision>GPlates-20484486-eb6f-4c9e-9900-8f113d03ff63</gpml:revision>
+            <gpml:identity>GPlates-271cb017-1686-4149-9ae7-c7eca8323f83</gpml:identity>
+            <gpml:revision>GPlates-0dc4e814-b93b-48ba-a1b9-b7063679a8af</gpml:revision>
             <gml:name>Madiyi Formation - site mean (f=0.6) (NR)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -107,8 +107,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-51663874-ba9a-4f2e-912b-b9aa6c97bb1f</gpml:identity>
-            <gpml:revision>GPlates-069b199e-d4da-4d03-a766-3200aa37b338</gpml:revision>
+            <gpml:identity>GPlates-fccce060-497e-431e-a5c4-b6941cf3db39</gpml:identity>
+            <gpml:revision>GPlates-7ba952e7-1b96-4e77-9868-1796611ca11e</gpml:revision>
             <gml:name>Chengjiang Formation - site mean (f=0.6) (NR)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -142,8 +142,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-eb8f9d67-0ef7-41ed-a9a0-7b28181cddfa</gpml:identity>
-            <gpml:revision>GPlates-3ab53e1a-dcba-48f9-a338-651eedf0abeb</gpml:revision>
+            <gpml:identity>GPlates-de0bf381-8379-4f59-a9f0-8a7c060c2236</gpml:identity>
+            <gpml:revision>GPlates-f321fb6c-3b69-4ce4-b9a5-6440536cf6dd</gpml:revision>
             <gml:name>Liantuo Formation - Jing et al. (2021) site mean (f=0.6) (B)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -168,6 +168,41 @@
                     <gpml:value>
                         <gml:Point>
                             <gml:pos>24.915048835654648 136.3825833380694</gml:pos>
+                        </gml:Point>
+                    </gpml:value>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Point</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:polePosition>
+        </gpml:VirtualGeomagneticPole>
+    </gml:featureMember>
+    <gml:featureMember>
+        <gpml:VirtualGeomagneticPole>
+            <gpml:identity>GPlates-f89c5ac3-c11f-4086-b74a-08d9f0a14492</gpml:identity>
+            <gpml:revision>GPlates-56531f7c-98c3-46a5-8f70-544c1f8c6aac</gpml:revision>
+            <gml:name>Liantuo Formation - site mean (f=0.6) (B)</gml:name>
+            <gpml:reconstructionPlateId>
+                <gpml:ConstantValue>
+                    <gpml:value>602</gpml:value>
+                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:reconstructionPlateId>
+            <gpml:poleA95>4.1687747625056186</gpml:poleA95>
+            <gpml:averageAge>775</gpml:averageAge>
+            <gpml:averageSampleSitePosition>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:Point>
+                            <gml:pos>30.818999999999999 111.069</gml:pos>
+                        </gml:Point>
+                    </gpml:value>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Point</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:averageSampleSitePosition>
+            <gpml:polePosition>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:Point>
+                            <gml:pos>19.629695329153339 144.38323715931071</gml:pos>
                         </gml:Point>
                     </gpml:value>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Point</gpml:valueType>
