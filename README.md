@@ -2,7 +2,7 @@
 
 Repository for the data and code associated with:
 
-Park, Y., Swanson-Hysell, N. L., Xian, H., Zhang, S., Condon, D. J., Fu, H., and Macdonald, F. A., in review, Tonian paleomagnetism from South China permits an inclusive Rodinia or Bitter Springs Stage true polar wander, but not both.
+Park, Y., Swanson-Hysell, N. L., Xian, H., Zhang, S., Condon, D. J., Fu, H., and Macdonald, F. A., in review, A consistently high latitude South China from 820 to 780 Ma: Implications for exclusion from Rodinia and the feasibility of large-scale true polar wander.
 
 Any questions regarding the code, data, or paper can be directed to yuempark@berkeley.edu.
 
