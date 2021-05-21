@@ -1,8 +1,8 @@
-# Banxi_Paleomagnetism
+# A Consistently High-Latitude South China From 820 to 780 Ma: Implications for Exclusion From Rodinia and the Feasibility of Large-Scale True Polar Wander
 
 Repository for the data and code associated with:
 
-Park, Y., Swanson-Hysell, N. L., Xian, H., Zhang, S., Condon, D. J., Fu, H., and Macdonald, F. A., in review, A consistently high latitude South China from 820 to 780 Ma: Implications for exclusion from Rodinia and the feasibility of large-scale true polar wander.
+Park, Y., Swanson-Hysell, N. L., Xian, H., Zhang, S., Condon, D. J., Fu, H., & Macdonald, F. A. (2021). A consistently high-latitude south China from 820 to 780 Ma: Implications for exclusion from Rodinia and the feasibility of large-scale true polar wander. Journal of Geophysical Research: Solid Earth, 126, e2020JB021541. https://doi.org/10.1029/2020JB021541
 
 Any questions regarding the code, data, or paper can be directed to yuempark@berkeley.edu.
 
